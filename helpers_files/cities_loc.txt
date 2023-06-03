@@ -1,0 +1,2410 @@
+Município: GUARANTA DO NORTE, (null), Latitude: None, Longitude: None
+Município: ORTIGUEIRA, PR, Latitude: -24.2088891, Longitude: -50.925043
+Município: PALMEIRA, PR, Latitude: -25.4269718, Longitude: -49.9987787
+Município: PALMITAL, PR, Latitude: -24.8842985, Longitude: -52.2113941
+Município: PALOTINA, PR, Latitude: -24.2839929, Longitude: -53.8405463
+Município: PARANAGUA, PR, Latitude: -25.5148822, Longitude: -48.5226695
+Município: PARANAVAI, PR, Latitude: -23.08165, Longitude: -52.461724
+Município: PATO BRANCO, PR, Latitude: -26.2295984, Longitude: -52.6712474
+Município: PAULA FREITAS, PR, Latitude: -26.2092739, Longitude: -50.936462
+Município: PAULO FRONTIN, PR, Latitude: -26.0399524, Longitude: -50.8337759
+Município: PEABIRU, PR, Latitude: -23.9142123, Longitude: -52.3455598
+Município: PEROLA, PR, Latitude: -23.8031666, Longitude: -53.6824972
+Município: PEROLA DOESTE, PR, Latitude: None, Longitude: None
+Município: PINHAIS, PR, Latitude: -25.4443488, Longitude: -49.1900307
+Município: PIRAQUARA, PR, Latitude: -25.4423273, Longitude: -49.0604473
+Município: PLANALTO, PR, Latitude: -25.7184492, Longitude: -53.767216
+Município: PONTA GROSSA, PR, Latitude: -25.0891685, Longitude: -50.1601812
+Município: PALMAS, PR, Latitude: -26.483868, Longitude: -51.988812
+Município: NOVA SANTA ROSA, PR, Latitude: -24.468132, Longitude: -53.9547649
+Município: PORTO VITORIA, PR, Latitude: -26.1605673, Longitude: -51.2239397
+Município: NOVA LONDRINA, PR, Latitude: -22.7633621, Longitude: -52.9875908
+Município: MARIALVA, PR, Latitude: -23.4820987, Longitude: -51.795788
+Município: MARILANDIA DO SUL, PR, Latitude: -23.7462425, Longitude: -51.3021452
+Município: MARINGA, PR, Latitude: -23.425269, Longitude: -51.9382078
+Município: MARMELEIRO, PR, Latitude: -26.1472, Longitude: -53.026741
+Município: MARQUINHO, PR, Latitude: -25.1133759, Longitude: -52.2581854
+Município: MARUMBI, PR, Latitude: -23.7070343, Longitude: -51.6408276
+Município: MATELANDIA, PR, Latitude: -25.2404183, Longitude: -53.9835004
+Município: MATINHOS, PR, Latitude: -25.8187344, Longitude: -48.5342813
+Município: MAUA DA SERRA, PR, Latitude: -23.9045517, Longitude: -51.2261166
+Município: MEDIANEIRA, PR, Latitude: -25.2954233, Longitude: -54.0940666
+Município: MERCEDES, PR, Latitude: -24.4504957, Longitude: -54.1647255
+Município: MORRETES, PR, Latitude: -25.4770051, Longitude: -48.8321911
+Município: NOVA AURORA, PR, Latitude: -24.5282336, Longitude: -53.2576703
+Município: NOVA ESPERANCA, PR, Latitude: -23.1818437, Longitude: -52.1999852
+Município: NOVA LARANJEIRAS, PR, Latitude: -25.305376, Longitude: -52.544682
+Município: PORTO AMAZONAS, PR, Latitude: -25.5494226, Longitude: -49.8973805
+Município: PRANCHITA, PR, Latitude: -26.0209403, Longitude: -53.7396825
+Município: TUNEIRAS DO OESTE, PR, Latitude: -23.8672329, Longitude: -52.8749376
+Município: SANTA TEREZA DO OESTE, PR, Latitude: -25.0511956, Longitude: -53.6161834
+Município: SANTO ANTONIO DA PLATINA, PR, Latitude: -23.2957157, Longitude: -50.0778957
+Município: SANTO ANTONIO DO SUDOESTE, PR, Latitude: -26.0727118, Longitude: -53.725556
+Município: SAO JOSE DOS PINHAIS, PR, Latitude: -25.533816, Longitude: -49.2072163
+Município: SAO MATEUS DO SUL, PR, Latitude: -25.866823, Longitude: -50.382796
+Município: SAO MIGUEL DO IGUACU, PR, Latitude: -25.349171, Longitude: -54.240498
+Município: SARANDI, PR, Latitude: -23.444117, Longitude: -51.876016
+Município: SAUDADE DO IGUACU, PR, Latitude: -25.6915533, Longitude: -52.6184857
+Município: SERTANOPOLIS, PR, Latitude: -23.0600434, Longitude: -51.0373544
+Município: SULINA, PR, Latitude: -25.7001327, Longitude: -52.7207833
+Município: TEIXEIRA SOARES, PR, Latitude: -25.3719287, Longitude: -50.4586285
+Município: TELEMACO BORBA, PR, Latitude: -24.3282939, Longitude: -50.6318021
+Município: TERRA ROXA, PR, Latitude: -24.1670468, Longitude: -54.097432
+Município: TIBAGI, PR, Latitude: -24.5151667, Longitude: -50.4101487
+Município: TIJUCAS DO SUL, PR, Latitude: -25.9273376, Longitude: -49.179265
+Município: TOLEDO, PR, Latitude: -24.7222438, Longitude: -53.7402476
+Município: SANTA TEREZINHA DE ITAIPU, PR, Latitude: -25.4390809, Longitude: -54.4019902
+Município: SANTA MARIANA, PR, Latitude: -23.1499367, Longitude: -50.5199587
+Município: PRESIDENTE CASTELO BRANCO, PR, Latitude: -23.2790844, Longitude: -52.1528771
+Município: SANTA MARIA DO OESTE, PR, Latitude: -24.9392355, Longitude: -51.8712242
+Município: PRUDENTOPOLIS, PR, Latitude: -25.203358, Longitude: -50.9895774
+Município: QUATRO BARRAS, PR, Latitude: -25.3708987, Longitude: -49.0745672
+Município: QUATRO PONTES, PR, Latitude: -24.5741062, Longitude: -53.9780237
+Município: QUITANDINHA, PR, Latitude: -25.8737269, Longitude: -49.4977717
+Município: RAMILANDIA, PR, Latitude: -25.1190203, Longitude: -54.0301175
+Município: RANCHO ALEGRE DOESTE, PR, Latitude: None, Longitude: None
+Município: REALEZA, PR, Latitude: -25.7720262, Longitude: -53.5338306
+Município: REBOUCAS, PR, Latitude: -25.6259339, Longitude: -50.6946598
+Município: RIO AZUL, PR, Latitude: -25.726644, Longitude: -50.790534
+Município: RIO BONITO DO IGUACU, PR, Latitude: -25.4903906, Longitude: -52.5262069
+Município: RIO BRANCO DO SUL, PR, Latitude: -25.1885374, Longitude: -49.3119082
+Município: RIO NEGRO, PR, Latitude: -26.1047668, Longitude: -49.7982766
+Município: ROLANDIA, PR, Latitude: -23.3119901, Longitude: -51.3674145
+Município: RONCADOR, PR, Latitude: -24.5952165, Longitude: -52.2710073
+Município: SANTA LUCIA, PR, Latitude: -25.4079427, Longitude: -53.5677252
+Município: MARECHAL CANDIDO RONDON, PR, Latitude: -24.5582532, Longitude: -54.0587821
+Município: MANGUEIRINHA, PR, Latitude: -25.9412009, Longitude: -52.1740852
+Município: MANDIRITUBA, PR, Latitude: -25.7772457, Longitude: -49.3279107
+Município: CIANORTE, PR, Latitude: -23.662036, Longitude: -52.6103989
+Município: CONSELHEIRO MAIRINCK, PR, Latitude: -23.6229983, Longitude: -50.1706779
+Município: CONTENDA, PR, Latitude: -25.678811, Longitude: -49.535044
+Município: CORBELIA, PR, Latitude: -24.7951117, Longitude: -53.2961804
+Município: CORNELIO PROCOPIO, PR, Latitude: -23.1825218, Longitude: -50.6499263
+Município: CORONEL VIVIDA, PR, Latitude: -25.9803771, Longitude: -52.5654277
+Município: CRUZEIRO DO OESTE, PR, Latitude: -23.7839582, Longitude: -53.0709425
+Município: CURITIBA, PR, Latitude: -25.4295963, Longitude: -49.2712724
+Município: DIAMANTE DO SUL, PR, Latitude: -25.0436147, Longitude: -52.6800923
+Município: FAROL, PR, Latitude: -24.0935055, Longitude: -52.6232183
+Município: FAZENDA RIO GRANDE, PR, Latitude: -25.645841, Longitude: -49.3126653
+Município: FERNANDES PINHEIRO, PR, Latitude: -25.4148066, Longitude: -50.5489837
+Município: FLOR DA SERRA DO SUL, PR, Latitude: -26.2589553, Longitude: -53.308432
+Município: FOZ DO IGUACU, PR, Latitude: -25.5401479, Longitude: -54.5858139
+Município: FOZ DO JORDAO, PR, Latitude: -25.7377144, Longitude: -52.1209188
+Município: FRANCISCO ALVES, PR, Latitude: -24.0694395, Longitude: -53.844348
+Município: COLOMBO, PR, Latitude: -25.2925439, Longitude: -49.2243472
+Município: CHOPINZINHO, PR, Latitude: -25.8566167, Longitude: -52.5294107
+Município: MANDAGUARI, PR, Latitude: -23.5224849, Longitude: -51.6787511
+Município: CEU AZUL, PR, Latitude: -25.1484973, Longitude: -53.8494214
+Município: CAMBE, PR, Latitude: -23.2782035, Longitude: -51.2779583
+Município: CAMBIRA, PR, Latitude: -23.6002773, Longitude: -51.5809914
+Município: CAMPINA DA LAGOA, PR, Latitude: -24.5937926, Longitude: -52.8038965
+Município: CAMPINA GRANDE DO SUL, PR, Latitude: -25.3046032, Longitude: -49.0545355
+Município: CAMPO BONITO, PR, Latitude: -25.0328004, Longitude: -52.992976
+Município: CAMPO DO TENENTE, PR, Latitude: -25.9814143, Longitude: -49.684518
+Município: CAMPO LARGO, PR, Latitude: -25.4597726, Longitude: -49.5270851
+Município: CAMPO MOURAO, PR, Latitude: -24.046329, Longitude: -52.37802
+Município: CANDOI, PR, Latitude: -25.5711951, Longitude: -52.051107
+Município: CANTAGALO, PR, Latitude: -25.3735238, Longitude: -52.1238114
+Município: CAPANEMA, PR, Latitude: -25.6704878, Longitude: -53.8083036
+Município: CAPITAO LEONIDAS MARQUES, PR, Latitude: -25.481645, Longitude: -53.611238
+Município: CASCAVEL, PR, Latitude: -24.9554996, Longitude: -53.4560544
+Município: CATANDUVAS, PR, Latitude: -25.2043528, Longitude: -53.154826
+Município: CERRO AZUL, PR, Latitude: -24.8245108, Longitude: -49.2615181
+Município: FRANCISCO BELTRAO, PR, Latitude: -26.0790979, Longitude: -53.0533527
+Município: GENERAL CARNEIRO, PR, Latitude: -26.422982, Longitude: -51.3146691
+Município: GOIO-ERE, PR, Latitude: -24.1851885, Longitude: -53.0250623
+Município: GOIOERE, PR, Latitude: -24.1851885, Longitude: -53.0250623
+Município: JACAREZINHO, PR, Latitude: -23.159115, Longitude: -49.973889
+Município: JANDAIA DO SUL, PR, Latitude: -23.6003907, Longitude: -51.645674
+Município: JANIOPOLIS, PR, Latitude: -24.140124, Longitude: -52.77836
+Município: JAPIRA, PR, Latitude: -23.8119773, Longitude: -50.1397133
+Município: JATAIZINHO, PR, Latitude: -23.257815, Longitude: -50.977748
+Município: JURANDA, PR, Latitude: -24.420866, Longitude: -52.841344
+Município: LAPA, PR, Latitude: -12.9823694, Longitude: -38.5122905
+Município: LARANJEIRAS DO SUL, PR, Latitude: -25.4073197, Longitude: -52.4150132
+Município: LINDOESTE, PR, Latitude: -25.2608275, Longitude: -53.5758136
+Município: LOANDA, PR, Latitude: -22.9320944, Longitude: -53.1352452
+Município: LONDRINA, PR, Latitude: -23.3112878, Longitude: -51.1595023
+Município: LUIZIANA, PR, Latitude: -24.2838237, Longitude: -52.2767531
+Município: MALLET, PR, Latitude: -25.8829457, Longitude: -50.8289338
+Município: MAMBORE, PR, Latitude: -24.3084433, Longitude: -52.5298446
+Município: MANDAGUACU, PR, Latitude: -23.3485076, Longitude: -52.0966215
+Município: IVAI, PR, Latitude: -25.0069795, Longitude: -50.8568896
+Município: IRETAMA, PR, Latitude: -24.4205941, Longitude: -52.1013532
+Município: IRATI, PR, Latitude: -25.469663, Longitude: -50.649287
+Município: GUARATUBA, PR, Latitude: -25.8806192, Longitude: -48.5750905
+Município: GUAIRA, PR, Latitude: -24.0851924, Longitude: -54.2567519
+Município: GUAIRACA, PR, Latitude: -22.9352304, Longitude: -52.6865101
+Município: GUAMIRANGA, PR, Latitude: -25.1909033, Longitude: -50.8116961
+Município: GUAPIRAMA, PR, Latitude: -23.5164582, Longitude: -50.0431538
+Município: GUARANIACU, PR, Latitude: -25.10035, Longitude: -52.867811
+Município: GUARAPUAVA, PR, Latitude: -25.3950986, Longitude: -51.4622016
+Município: IBAITI, PR, Latitude: -23.8452962, Longitude: -50.1905666
+Município: IPIRANGA, PR, Latitude: -25.0239759, Longitude: -50.5854615
+Município: IBEMA, PR, Latitude: -25.1192916, Longitude: -53.0071928
+Município: IBIPORA, PR, Latitude: -23.2684137, Longitude: -51.0475907
+Município: ICARAIMA, PR, Latitude: -23.3948345, Longitude: -53.6162036
+Município: IGUARACU, PR, Latitude: -23.1972911, Longitude: -51.8244524
+Município: IMBAU, PR, Latitude: -24.447597, Longitude: -50.7557188
+Município: IMBITUVA, PR, Latitude: -25.2293338, Longitude: -50.6051002
+Município: TUNAS DO PARANA, PR, Latitude: -24.9761456, Longitude: -49.0854528
+Município: UBIRATA, PR, Latitude: -24.542725, Longitude: -52.9899678
+Município: TABOLEIRO GRANDE, RN, Latitude: -5.9289208, Longitude: -38.044508
+Município: GOIANINHA, RN, Latitude: -6.2663538, Longitude: -35.2092447
+Município: GUAMARE, RN, Latitude: -5.1075611, Longitude: -36.3195361
+Município: IELMO MARINHO, RN, Latitude: -5.8228157, Longitude: -35.5527494
+Município: IPANGUACU, RN, Latitude: -5.5090713, Longitude: -36.8594421
+Município: ITAJA, RN, Latitude: -5.6374673, Longitude: -36.8713272
+Município: ITAU, RN, Latitude: -5.8413626, Longitude: -37.9913221
+Município: JANDAIRA, RN, Latitude: -5.3556267, Longitude: -36.1279455
+Município: JANDUIS, RN, Latitude: -5.997218999999999, Longitude: -37.47227286818084
+Município: JARDIM DO SERIDO, RN, Latitude: -6.59043, Longitude: -36.7736039
+Município: JOAO CAMARA, RN, Latitude: -5.5349637, Longitude: -35.8150811
+Município: JOSE DA PENHA, RN, Latitude: -6.3188, Longitude: -38.2853568
+Município: JUCURUTU, RN, Latitude: -6.0343518, Longitude: -37.0186249
+Município: LAJES, RN, Latitude: -5.7014079, Longitude: -36.246219
+Município: LAJES PINTADAS, RN, Latitude: -6.1497352, Longitude: -36.1166085
+Município: LUIS GOMES, RN, Latitude: -6.4141793, Longitude: -38.3872939
+Município: MACAIBA, RN, Latitude: -5.8561372, Longitude: -35.3523774
+Município: GOVERNADOR DIX-SEPT ROSADO, RN, Latitude: -5.4577723, Longitude: -37.5207493
+Município: FRUTUOSO GOMES, RN, Latitude: -6.1585113, Longitude: -37.8408614
+Município: MAJOR SALES, RN, Latitude: -6.4063378, Longitude: -38.3226605
+Município: FLORANIA, RN, Latitude: -6.1268685, Longitude: -36.8183238
+Município: ASSU, RN, Latitude: -5.5836157, Longitude: -36.9139541
+Município: AUGUSTO SEVERO, RN, Latitude: -5.8697839, Longitude: -35.3609613
+Município: BAIA FORMOSA, RN, Latitude: -6.3691885, Longitude: -35.0063741
+Município: BOM JESUS, RN, Latitude: -5.9887544, Longitude: -35.5821149
+Município: CAICARA DO NORTE, RN, Latitude: -5.0645017, Longitude: -36.0561226
+Município: CAICARA DO RIO DO VENTO, RN, Latitude: -5.757968, Longitude: -36.00089
+Município: CAICO, RN, Latitude: -6.4594544, Longitude: -37.0971911
+Município: CAMPO GRANDE, RN, Latitude: -5.862063, Longitude: -37.3134908
+Município: CAMPO REDONDO, RN, Latitude: -6.2420373, Longitude: -36.1830606
+Município: CANGUARETAMA, RN, Latitude: -6.3751942, Longitude: -35.137463
+Município: CEARA-MIRIM, RN, Latitude: -5.6322688, Longitude: -35.4213484
+Município: CURRAIS NOVOS, RN, Latitude: -6.2626676, Longitude: -36.5173039
+Município: EXTREMOZ, RN, Latitude: -5.7057628, Longitude: -35.3034765
+Município: FELIPE GUERRA, RN, Latitude: -5.5981386, Longitude: -37.6962757
+Município: FERNANDO PEDROZA, RN, Latitude: -5.6972558, Longitude: -36.5316864
+Município: MACAU, RN, Latitude: -5.1131698, Longitude: -36.6350676
+Município: MARCELINO VIEIRA, RN, Latitude: -6.2938597, Longitude: -38.1622228
+Município: UNIAO DA VITORIA, PR, Latitude: -26.228596, Longitude: -51.0869796
+Município: SANTA MARIA, RN, Latitude: -5.838022, Longitude: -35.691409
+Município: SAO FERNANDO, RN, Latitude: -6.379745, Longitude: -37.186362
+Município: SAO FRANCISCO DO OESTE, RN, Latitude: -5.9995802, Longitude: -38.1679964
+Município: SAO GONCALO DO AMARANTE, RN, Latitude: -5.7932331, Longitude: -35.3286312
+Município: SAO JOSE DE MIPIBU, RN, Latitude: -6.0746867, Longitude: -35.2370184
+Município: SAO PAULO DO POTENGI, RN, Latitude: -5.8941684, Longitude: -35.7648309
+Município: SAO PEDRO, RN, Latitude: -5.8965573, Longitude: -35.6340558
+Município: SAO RAFAEL, RN, Latitude: -5.8022027, Longitude: -36.8835945
+Município: SAO TOME, RN, Latitude: -5.9726443, Longitude: -36.0736804
+Município: SAO VICENTE, RN, Latitude: -6.2166906, Longitude: -36.6823094
+Município: SENADOR ELOI DE SOUZA, RN, Latitude: -6.0357055, Longitude: -35.6923151
+Município: SENADOR GEORGINO AVELINO, RN, Latitude: -6.1632427, Longitude: -35.1233332
+Município: SERRA CAIADA, RN, Latitude: -6.1070196, Longitude: -35.7086685
+Município: SERRA NEGRA DO NORTE, RN, Latitude: -6.6627568, Longitude: -37.4010583
+Município: SERRINHA, RN, Latitude: -6.2783153, Longitude: -35.4958285
+Município: SERRINHA DOS PINTOS, RN, Latitude: -6.112315, Longitude: -37.9566189
+Município: SANTANA DO MATOS, RN, Latitude: -5.9468972, Longitude: -36.6502541
+Município: SANTA CRUZ, RN, Latitude: -6.224752, Longitude: -36.019297
+Município: MARTINS, RN, Latitude: -6.0892841, Longitude: -37.9114676
+Município: RODOLFO FERNANDES, RN, Latitude: -5.7897503, Longitude: -38.0607459
+Município: MAXARANGUAPE, RN, Latitude: -5.5175989, Longitude: -35.2585401
+Município: MESSIAS TARGINO, RN, Latitude: -6.0772948, Longitude: -37.511712
+Município: MOSSORO, RN, Latitude: -5.1904332, Longitude: -37.3443872
+Município: NATAL, RN, Latitude: -5.805398, Longitude: -35.2080905
+Município: NISIA FLORESTA, RN, Latitude: -6.0902674, Longitude: -35.2085026
+Município: PARAU, RN, Latitude: -5.7760443, Longitude: -37.1012637
+Município: PARNAMIRIM, RN, Latitude: -5.9153334, Longitude: -35.2679913
+Município: PATU, RN, Latitude: -6.1006213, Longitude: -37.6385148
+Município: PAU DOS FERROS, RN, Latitude: -6.1124964, Longitude: -38.2062628
+Município: PEDRO AVELINO, RN, Latitude: -5.5218651, Longitude: -36.3850166
+Município: POCO BRANCO, RN, Latitude: -5.6224378, Longitude: -35.6615774
+Município: RAFAEL FERNANDES, RN, Latitude: -6.1892485, Longitude: -38.2238647
+Município: RIACHO DE SANTANA, RN, Latitude: -6.2633948, Longitude: -38.3143424
+Município: RIACHUELO, RN, Latitude: -5.8121386, Longitude: -35.8234357
+Município: RIO DO FOGO, RN, Latitude: -5.2748534, Longitude: -35.3825802
+Município: ARES, RN, Latitude: -6.1969216, Longitude: -35.1642968
+Município: AREIA BRANCA, RN, Latitude: -4.9506652, Longitude: -37.1263312
+Município: APODI, RN, Latitude: -5.6631109, Longitude: -37.796927
+Município: COMENDADOR LEVY GASPARIAN, RJ, Latitude: -22.028685, Longitude: -43.204655
+Município: DUQUE DE CAXIAS, RJ, Latitude: -22.7896225, Longitude: -43.309929
+Município: GUAPIMIRIM, RJ, Latitude: -22.5266308, Longitude: -42.9790687
+Município: ITABORAI, RJ, Latitude: -22.7496231, Longitude: -42.8557428
+Município: ITAGUAI, RJ, Latitude: -22.8629597, Longitude: -43.775322
+Município: ITALVA, RJ, Latitude: -21.4214056, Longitude: -41.6907956
+Município: ITAPERUNA, RJ, Latitude: -21.1934, Longitude: -41.8995
+Município: ITATIAIA, RJ, Latitude: -22.4955278, Longitude: -44.5633108
+Município: JAPERI, RJ, Latitude: -22.6427642, Longitude: -43.6533831
+Município: LAJE DO MURIAE, RJ, Latitude: -21.2082595, Longitude: -42.1226959
+Município: MACAE, RJ, Latitude: -22.3712958, Longitude: -41.7866922
+Município: MAGE, RJ, Latitude: -22.6604221, Longitude: -43.0426162
+Município: MANGARATIBA, RJ, Latitude: -22.9600193, Longitude: -44.04111
+Município: MESQUITA, RJ, Latitude: -22.783092, Longitude: -43.4293599
+Município: NATIVIDADE, RJ, Latitude: -21.0428, Longitude: -41.9777
+Município: NILOPOLIS, RJ, Latitude: -22.8080114, Longitude: -43.4138222
+Município: CONCEICAO DE MACABU, RJ, Latitude: -22.0832, Longitude: -41.8736
+Município: CASIMIRO DE ABREU, RJ, Latitude: -22.485, Longitude: -42.2026
+Município: ANTONIO MARTINS, RN, Latitude: -6.2155812, Longitude: -37.8890129
+Município: CARMO, RJ, Latitude: -21.9338, Longitude: -42.6084
+Município: URAI, PR, Latitude: -23.199997, Longitude: -50.793873
+Município: VENTANIA, PR, Latitude: -24.2470771, Longitude: -50.245452
+Município: VERA CRUZ DO OESTE, PR, Latitude: -25.058614, Longitude: -53.8785648
+Município: VILA ALTA, PR, Latitude: -22.8998687, Longitude: -43.3449691
+Município: VIRMOND, PR, Latitude: -25.3816653, Longitude: -52.2034599
+Município: ANGRA DOS REIS, RJ, Latitude: -23.0063966, Longitude: -44.316326
+Município: ARARUAMA, RJ, Latitude: -22.8733203, Longitude: -42.3428897
+Município: AREAL, RJ, Latitude: -22.2314922, Longitude: -43.1056264
+Município: BARRA DO PIRAI, RJ, Latitude: -22.4703403, Longitude: -43.8263256
+Município: BARRA MANSA, RJ, Latitude: -22.5394843, Longitude: -44.1735129
+Município: BELFORD ROXO, RJ, Latitude: -22.7667284, Longitude: -43.4033603
+Município: BOM JESUS DO ITABAPOANA, RJ, Latitude: -21.1369, Longitude: -41.6775
+Município: CAMPOS DOS GOYTACAZES, RJ, Latitude: -21.7546, Longitude: -41.3242
+Município: CARAPEBUS, RJ, Latitude: -22.1869969, Longitude: -41.6633764
+Município: CARDOSO MOREIRA, RJ, Latitude: -21.4894916, Longitude: -41.6152776
+Município: NITEROI, RJ, Latitude: -22.8884, Longitude: -43.1147
+Município: NOVA FRIBURGO, RJ, Latitude: -22.2800004, Longitude: -42.5325303
+Município: NOVA IGUACU, RJ, Latitude: -22.7592175, Longitude: -43.4508728
+Município: PARACAMBI, RJ, Latitude: -22.6109158, Longitude: -43.7096912
+Município: SAO JOAO DE MERITI, RJ, Latitude: -22.8043744, Longitude: -43.3724125
+Município: SAO JOSE DO VALE DO RIO PRETO, RJ, Latitude: -22.1509994, Longitude: -42.9239986
+Município: SAPUCAIA, RJ, Latitude: -21.9946569, Longitude: -42.9137975
+Município: SEROPEDICA, RJ, Latitude: -22.7438887, Longitude: -43.6991998
+Município: SILVA JARDIM, RJ, Latitude: -22.6509706, Longitude: -42.3947353
+Município: SUMIDOURO, RJ, Latitude: -22.0455, Longitude: -42.6735
+Município: TANGUA, RJ, Latitude: -22.7353777, Longitude: -42.7202272
+Município: TERESOPOLIS, RJ, Latitude: -22.4164578, Longitude: -42.975194
+Município: TRES RIOS, RJ, Latitude: -22.1167884, Longitude: -43.2087226
+Município: VASSOURAS, RJ, Latitude: -22.4093928, Longitude: -43.6609318
+Município: VOLTA REDONDA, RJ, Latitude: -22.521856, Longitude: -44.1040128
+Município: ACARI, RN, Latitude: -6.4364689, Longitude: -36.6394777
+Município: ACU, RN, Latitude: -5.5836157, Longitude: -36.9139541
+Município: ALMINO AFONSO, RN, Latitude: -6.1544208, Longitude: -37.7649018
+Município: ANGICOS, RN, Latitude: -5.6666344, Longitude: -36.6009064
+Município: SAO JOAO DA BARRA, RJ, Latitude: -21.6348588, Longitude: -41.0487079
+Município: SAO GONCALO, RJ, Latitude: -22.8219014, Longitude: -43.0309252
+Município: SANTA MARIA MADALENA, RJ, Latitude: -21.9557957, Longitude: -42.008283
+Município: PORTO REAL, RJ, Latitude: -22.4195607, Longitude: -44.2896491
+Município: PARAIBA DO SUL, RJ, Latitude: -22.1636384, Longitude: -43.2916915
+Município: PARATI, RJ, Latitude: -23.2196461, Longitude: -44.7154196
+Município: PARATY, RJ, Latitude: -23.2196461, Longitude: -44.7154196
+Município: PETROPOLIS, RJ, Latitude: -22.5075743, Longitude: -43.1785356
+Município: PINHEIRAL, RJ, Latitude: -22.5129436, Longitude: -44.001435
+Município: PIRAI, RJ, Latitude: -22.6287489, Longitude: -43.8981758
+Município: QUATIS, RJ, Latitude: -22.4066444, Longitude: -44.2577453
+Município: RIO DE JANEIRO, RJ, Latitude: -22.9110137, Longitude: -43.2093727
+Município: QUEIMADOS, RJ, Latitude: -22.7156978, Longitude: -43.555754
+Município: QUISSAMA, RJ, Latitude: -22.107205, Longitude: -41.4723411
+Município: RESENDE, RJ, Latitude: -22.4683626, Longitude: -44.4463494
+Município: RIO BONITO, RJ, Latitude: -22.7108378, Longitude: -42.6271864
+Município: RIO DAS FLORES, RJ, Latitude: -22.1683478, Longitude: -43.5858689
+Município: RIO DAS OSTRAS, RJ, Latitude: -22.5269448, Longitude: -41.944972
+Município: CAMBARA, PR, Latitude: -23.042273, Longitude: -50.075281
+Município: CALIFORNIA, PR, Latitude: -23.6672543, Longitude: -51.3554556
+Município: CAFELANDIA, PR, Latitude: -24.6176963, Longitude: -53.3218057
+Município: CACHOEIRINHA, PE, Latitude: -8.4906364, Longitude: -36.2338963
+Município: CALCADO, PE, Latitude: -8.7413446, Longitude: -36.3351787
+Município: CALUMBI, PE, Latitude: -7.9396706, Longitude: -38.1525186
+Município: CAMARAGIBE, PE, Latitude: -8.0213832, Longitude: -34.9810768
+Município: CAPOEIRAS, PE, Latitude: -8.7386788, Longitude: -36.6268109
+Município: CARPINA, PE, Latitude: -7.8459105, Longitude: -35.2538861
+Município: CARUARU, PE, Latitude: -8.2829702, Longitude: -35.9722852
+Município: CHA GRANDE, PE, Latitude: -8.238271, Longitude: -35.457148
+Município: CORRENTES, PE, Latitude: -9.1295585, Longitude: -36.3287438
+Município: CUPIRA, PE, Latitude: -8.6053148, Longitude: -35.9530366
+Município: CUSTODIA, PE, Latitude: -8.0860251, Longitude: -37.6400307
+Município: ESCADA, PE, Latitude: -8.3623847, Longitude: -35.2366232
+Município: FLORES, PE, Latitude: -7.862025, Longitude: -37.9742806
+Município: FLORESTA, PE, Latitude: -8.5969798, Longitude: -38.5742878
+Município: GAMELEIRA, PE, Latitude: -8.579803, Longitude: -35.384573
+Município: GARANHUNS, PE, Latitude: -8.8905889, Longitude: -36.4930896
+Município: CAETES, PE, Latitude: -8.7728788, Longitude: -36.6255835
+Município: CABROBO, PE, Latitude: -8.5083701, Longitude: -39.3106961
+Município: GRAVATA, PE, Latitude: -8.1993049, Longitude: -35.5631137
+Município: CABO DE SANTO AGOSTINHO, PE, Latitude: -8.2838945, Longitude: -35.0320984
+Município: AGUA PRETA, PE, Latitude: -8.7079109, Longitude: -35.5198586
+Município: AGUAS BELAS, PE, Latitude: -9.1113156, Longitude: -37.1225218
+Município: ALIANCA, PE, Latitude: -7.6026425, Longitude: -35.2263514
+Município: ALTINHO, PE, Latitude: -8.4904095, Longitude: -36.0607494
+Município: AMARAJI, PE, Latitude: -8.373925, Longitude: -35.4536527
+Município: ARARIPINA, PE, Latitude: -7.5768582, Longitude: -40.5038509
+Município: ARCOVERDE, PE, Latitude: -8.415192, Longitude: -37.057748
+Município: BELEM DE MARIA, PE, Latitude: -8.6242497, Longitude: -35.8388934
+Município: BELEM DE SAO FRANCISCO, PE, Latitude: -8.62394575, Longitude: -38.85530060304218
+Município: BELO JARDIM, PE, Latitude: -8.3338293, Longitude: -36.4176419
+Município: BEZERROS, PE, Latitude: -8.2372132, Longitude: -35.7558262
+Município: BODOCO, PE, Latitude: -7.777592, Longitude: -39.933797
+Município: BREJAO, PE, Latitude: -9.029146, Longitude: -36.566034
+Município: BUENOS AIRES, PE, Latitude: -7.7218931, Longitude: -35.326587
+Município: BUIQUE, PE, Latitude: -8.6239732, Longitude: -37.157296
+Município: GOIANA, PE, Latitude: -7.560603, Longitude: -34.99591
+Município: IATI, PE, Latitude: -9.0426669, Longitude: -36.8466803
+Município: BOM SUCESSO DO SUL, PR, Latitude: -26.0749256, Longitude: -52.8348629
+Município: NAZARE DA MATA, PE, Latitude: -7.7452689, Longitude: -35.2286396
+Município: OROCO, PE, Latitude: -8.6147294, Longitude: -39.6036682
+Município: OURICURI, PE, Latitude: -7.884432, Longitude: -40.0833221
+Município: PALMARES, PE, Latitude: -8.684226, Longitude: -35.589032
+Município: PANELAS, PE, Latitude: -8.661211, Longitude: -36.012539
+Município: PARANATAMA, PE, Latitude: -8.9198099, Longitude: -36.6573512
+Município: PARNAMIRIM, PE, Latitude: -8.0913471, Longitude: -39.5778505
+Município: PAUDALHO, PE, Latitude: -7.90287, Longitude: -35.171639
+Município: PAULISTA, PE, Latitude: -7.9340069, Longitude: -34.868407
+Município: PEDRA, PE, Latitude: -8.4995589, Longitude: -36.944377
+Município: PESQUEIRA, PE, Latitude: -8.3574471, Longitude: -36.6968238
+Município: PETROLANDIA, PE, Latitude: -8.9701861, Longitude: -38.2213655
+Município: PETROLINA, PE, Latitude: -9.3817334, Longitude: -40.4968875
+Município: POMBOS, PE, Latitude: -8.1398585, Longitude: -35.396437
+Município: PRIMAVERA, PE, Latitude: -8.3308449, Longitude: -35.3523034
+Município: QUIPAPA, PE, Latitude: -8.8269434, Longitude: -36.011622
+Município: OLINDA, PE, Latitude: -7.9986401, Longitude: -34.8459552
+Município: MORENO, PE, Latitude: -8.108706, Longitude: -35.08354
+Município: IBIMIRIM, PE, Latitude: -8.5379259, Longitude: -37.6941375
+Município: MIRANDIBA, PE, Latitude: -8.1202103, Longitude: -38.728459
+Município: IGARASSU, PE, Latitude: -7.8354423, Longitude: -34.9061125
+Município: INAJA, PE, Latitude: -8.9011209, Longitude: -37.8244194
+Município: IPOJUCA, PE, Latitude: -8.3980773, Longitude: -35.0611068
+Município: IPUBI, PE, Latitude: -7.6535334, Longitude: -40.1494078
+Município: ITACURUBA, PE, Latitude: -8.7267879, Longitude: -38.6868835
+Município: ITAIBA, PE, Latitude: -8.94675, Longitude: -37.421188
+Município: ITAPISSUMA, PE, Latitude: -7.767983, Longitude: -34.897136
+Município: ITAQUITINGA, PE, Latitude: -7.6642569, Longitude: -35.1023615
+Município: JABOATAO DOS GUARARAPES, PE, Latitude: -8.1752476, Longitude: -34.9468716
+Município: JATOBA, PE, Latitude: -9.1832353, Longitude: -38.2672047
+Município: JOAQUIM NABUCO, PE, Latitude: -8.6233192, Longitude: -35.5264107
+Município: JUCATI, PE, Latitude: -8.7065829, Longitude: -36.4870496
+Município: JUPI, PE, Latitude: -8.7114677, Longitude: -36.417448
+Município: LAGOA GRANDE, PE, Latitude: -8.9930649, Longitude: -40.2716452
+Município: LAJEDO, PE, Latitude: -8.657914, Longitude: -36.329336
+Município: AGRESTINA, PE, Latitude: -8.4558021, Longitude: -35.9442663
+Município: AFRANIO, PE, Latitude: -8.5198919, Longitude: -41.0070197
+Município: ABREU E LIMA, PE, Latitude: -7.900719, Longitude: -34.898389
+Município: LAGOA SECA, PB, Latitude: -7.157099, Longitude: -35.8542023
+Município: MALTA, PB, Latitude: -6.9068159, Longitude: -37.5217101
+Município: MAMANGUAPE, PB, Latitude: -6.833698, Longitude: -35.121316
+Município: MARIZOPOLIS, PB, Latitude: -6.8440704, Longitude: -38.3473088
+Município: MASSARANDUBA, PB, Latitude: -7.1812758, Longitude: -35.7330712
+Município: MATARACA, PB, Latitude: -6.59673, Longitude: -35.05308
+Município: MOGEIRO, PB, Latitude: -7.3019003, Longitude: -35.4782749
+Município: MONTEIRO, PB, Latitude: -7.8920179, Longitude: -37.1232051
+Município: NOVA FLORESTA, PB, Latitude: -6.4554313, Longitude: -36.2040005
+Município: NOVA SERRANA, PB, Latitude: -19.875834, Longitude: -44.984166
+Município: OLHO DAGUA, PB, Latitude: -6.6575823, Longitude: -69.86334
+Município: OLIVEDOS, PB, Latitude: -6.991036, Longitude: -36.2437286
+Município: PATOS, PB, Latitude: -7.0258285, Longitude: -37.2766817
+Município: PAULISTA, PB, Latitude: -6.5980362, Longitude: -37.6215766
+Município: PEDRAS DE FOGO, PB, Latitude: -7.3988977, Longitude: -35.112176
+Município: PIANCO, PB, Latitude: -7.1987413, Longitude: -37.9255755
+Município: LUCENA, PB, Latitude: -6.8984018, Longitude: -34.8711915
+Município: JUNCO DO SERIDO, PB, Latitude: -6.991929, Longitude: -36.7137661
+Município: VISTA SERRANA, PB, Latitude: -6.7391662, Longitude: -37.5685755
+Município: JUAZEIRINHO, PB, Latitude: -7.0688282, Longitude: -36.5803059
+Município: CONDADO, PB, Latitude: -6.3599136, Longitude: -37.5608827
+Município: CONDE, PB, Latitude: -7.2600359, Longitude: -34.9053524
+Município: CRUZ DO ESPIRITO SANTO, PB, Latitude: -7.139022, Longitude: -35.085721
+Município: CUITE, PB, Latitude: -6.4855072, Longitude: -36.1478606
+Município: EMAS, PB, Latitude: -7.1071447, Longitude: -37.7155578
+Município: ESPERANCA, PB, Latitude: -7.018517, Longitude: -35.852193
+Município: GURINHEM, PB, Latitude: -7.1244757, Longitude: -35.424854
+Município: GURJAO, PB, Latitude: -7.2470565, Longitude: -36.4862714
+Município: INGA, PB, Latitude: -7.2904513, Longitude: -35.6109945
+Município: ITABAIANA, PB, Latitude: -7.3299566, Longitude: -35.3359995
+Município: ITAPORANGA, PB, Latitude: -7.3040747, Longitude: -38.1505782
+Município: JACARAU, PB, Latitude: -6.6123046, Longitude: -35.2919016
+Município: JOAO PESSOA, PB, Latitude: -7.1215981, Longitude: -34.882028
+Município: JOCA CLAUDINO, PB, Latitude: -6.4832147, Longitude: -38.478874
+Município: JUAREZ TAVORA, PB, Latitude: -7.1726926, Longitude: -35.590804
+Município: POCINHOS, PB, Latitude: -7.076073, Longitude: -36.0604474
+Município: POCO DANTAS, PB, Latitude: -6.4050165, Longitude: -38.4964786
+Município: POMBAL, PB, Latitude: -6.7711315, Longitude: -37.7988646
+Município: PUXINANA, PB, Latitude: -7.1475216, Longitude: -35.9613355
+Município: SAO JOAO DO RIO DO PEIXE, PB, Latitude: -6.7291053, Longitude: -38.4478745
+Município: SAO JOSE DE ESPINHARAS, PB, Latitude: -6.8465204, Longitude: -37.3250225
+Município: SAO JOSE DE PIRANHAS, PB, Latitude: -7.1198508, Longitude: -38.4991347
+Município: SAO MAMEDE, PB, Latitude: -6.923862, Longitude: -37.095436
+Município: SAO MIGUEL DE TAIPU, PB, Latitude: -7.2504094, Longitude: -35.2094114
+Município: SAO SEBASTIAO DE LAGOA DE  ROCA, PB, Latitude: -7.1051675, Longitude: -35.867966
+Município: SAO SEBASTIAO DE LAGOA DE ROCA, PB, Latitude: -7.1051675, Longitude: -35.867966
+Município: SERRA BRANCA, PB, Latitude: -7.4815274, Longitude: -36.6634581
+Município: SOBRADO, PB, Latitude: -7.1442879, Longitude: -35.2357401
+Município: SOLEDADE, PB, Latitude: -7.058292, Longitude: -36.366791
+Município: SOSSEGO, PB, Latitude: -6.767694, Longitude: -36.2455081
+Município: SOUSA, PB, Latitude: -6.7662029, Longitude: -38.2319607
+Município: SUME, PB, Latitude: -7.671521, Longitude: -36.8788755
+Município: TENORIO, PB, Latitude: -6.9408374, Longitude: -36.6277956
+Município: UIRAUNA, PB, Latitude: -6.521424, Longitude: -38.4120654
+Município: SAO JOAO DO CARIRI, PB, Latitude: -7.386747, Longitude: -36.5288956
+Município: SAO DOMINGOS DE POMBAL, PB, Latitude: -6.8174316, Longitude: -37.942643
+Município: SAO DOMINGOS, PB, Latitude: -6.8174316, Longitude: -37.942643
+Município: RIO TINTO, PB, Latitude: -6.803828, Longitude: -35.077569
+Município: QUEIMADAS, PB, Latitude: -7.3640404, Longitude: -35.9016644
+Município: QUIXABA, PB, Latitude: -6.8112166, Longitude: -36.992941
+Município: REMIGIO, PB, Latitude: -6.9686741, Longitude: -35.7932133
+Município: RIACHAO, PB, Latitude: -6.5408387, Longitude: -35.6608948
+Município: RIACHAO DO BACAMARTE, PB, Latitude: -7.253472, Longitude: -35.669257
+Município: RIACHAO DO POCO, PB, Latitude: -7.1474817, Longitude: -35.264755
+Município: SANTA LUZIA, PB, Latitude: -6.8677854, Longitude: -36.9182757
+Município: SAO BENTO DE POMBAL, PB, Latitude: None, Longitude: None
+Município: SANTA RITA, PB, Latitude: -7.128465, Longitude: -34.9846186
+Município: SANTA TERESINHA, PB, Latitude: -7.0849073, Longitude: -37.4433667
+Município: SANTANA DOS GARROTES, PB, Latitude: -7.3856858, Longitude: -37.987565
+Município: SANTAREM, PB, Latitude: -6.4832147, Longitude: -38.478874
+Município: SAO BENTINHO, PB, Latitude: -6.8900937, Longitude: -37.7259704
+Município: SAO BENTO, PB, Latitude: -6.4859187, Longitude: -37.4469328
+Município: RECIFE, PE, Latitude: -8.0584933, Longitude: -34.8848193
+Município: RIBEIRAO, PE, Latitude: -8.5066761, Longitude: -35.3747339
+Município: SAIRE, PE, Latitude: -8.3277815, Longitude: -35.7094611
+Município: PALMEIRAIS, PI, Latitude: -5.9761427, Longitude: -43.0637158
+Município: PASSAGEM FRANCA DO PIAUI, PI, Latitude: -5.8574824, Longitude: -42.4402452
+Município: PATOS DO PIAUI, PI, Latitude: -7.6799549, Longitude: -41.245425
+Município: PAULISTANA, PI, Latitude: -8.1389174, Longitude: -41.1380533
+Município: PEDRO II, PI, Latitude: -4.4252673, Longitude: -41.458407
+Município: PICOS, PI, Latitude: -7.0823544, Longitude: -41.4685053
+Município: PIO IX, PI, Latitude: -6.8351921, Longitude: -40.6148654
+Município: PIRACURUCA, PI, Latitude: -3.9304804, Longitude: -41.7150099
+Município: PIRIPIRI, PI, Latitude: -4.2732339, Longitude: -41.7785173
+Município: REDENCAO DO GURGUEIA, PI, Latitude: -9.4862001, Longitude: -44.5840178
+Município: REGENERACAO, PI, Latitude: -6.231855, Longitude: -42.6860897
+Município: RIBEIRA DO PIAUI, PI, Latitude: -7.6912987, Longitude: -42.7130999
+Município: SANTA FILOMENA, PI, Latitude: -9.1176912, Longitude: -45.9199551
+Município: SANTA LUZ, PI, Latitude: -8.95052, Longitude: -44.1312995
+Município: SANTO ANTONIO DE LISBOA, PI, Latitude: -6.9831426, Longitude: -41.2283884
+Município: SAO FRANCISCO DE ASSIS DO PIAUI, PI, Latitude: -8.237476, Longitude: -41.686332
+Município: PARNAIBA, PI, Latitude: -2.9147515, Longitude: -41.7661953
+Município: OLHO DAGUA DO PIAUI, PI, Latitude: -9.2204664, Longitude: -41.8380021
+Município: JACOBINA DO PIAUI, PI, Latitude: -7.9356495, Longitude: -41.2106817
+Município: OEIRAS, PI, Latitude: -7.0174887, Longitude: -42.1314478
+Município: JERUMENHA, PI, Latitude: -7.0880338, Longitude: -43.5078454
+Município: JOAO COSTA, PI, Latitude: -8.4887363, Longitude: -42.4174704
+Município: LAGOA DO PIAUI, PI, Latitude: -5.4116544, Longitude: -42.6450588
+Município: LAGOINHA DO PIAUI, PI, Latitude: -5.8324033, Longitude: -42.6236706
+Município: LUIS CORREIA, PI, Latitude: -2.8818164, Longitude: -41.6658458
+Município: MANOEL EMIDIO, PI, Latitude: -8.0054022, Longitude: -43.8730321
+Município: MARCOLANDIA, PI, Latitude: -7.4404183, Longitude: -40.6650972
+Município: MIGUEL ALVES, PI, Latitude: -4.1730384, Longitude: -42.8955677
+Município: MIGUEL LEAO, PI, Latitude: -5.681461, Longitude: -42.7371703
+Município: MONSENHOR GIL, PI, Latitude: -5.5609098, Longitude: -42.6127716
+Município: MONSENHOR HIPOLITO, PI, Latitude: -6.9972682, Longitude: -41.029733
+Município: MONTE ALEGRE DO PIAUI, PI, Latitude: -9.7483373, Longitude: -45.3048117
+Município: NAZARE DO PIAUI, PI, Latitude: -6.9709737, Longitude: -42.6707675
+Município: NOSSA SENHORA DE NAZARE, PI, Latitude: -4.6333634, Longitude: -42.1716341
+Município: NOVA SANTA RITA, PI, Latitude: -8.0739703, Longitude: -42.0504725
+Município: SAO FRANCISCO DO PIAUI, PI, Latitude: -7.2460489, Longitude: -42.5414016
+Município: SAO GONCALO DO GURGUEIA, PI, Latitude: -10.0303022, Longitude: -45.3032826
+Município: SAO GONCALO DO PIAUI, PI, Latitude: -5.9970067, Longitude: -42.7041762
+Município: SAO JOAO DA FRONTEIRA, PI, Latitude: -3.9390215, Longitude: -41.2592109
+Município: APUCARANA, PR, Latitude: -23.5525327, Longitude: -51.4610764
+Município: ARAPONGAS, PR, Latitude: -23.4152862, Longitude: -51.4293961
+Município: ARAPOTI, PR, Latitude: -24.1457957, Longitude: -49.8224605
+Município: ARARUNA, PR, Latitude: -23.9320308, Longitude: -52.4976047
+Município: ARAUCARIA, PR, Latitude: -25.5861107, Longitude: -49.4051209
+Município: ASSAI, PR, Latitude: -23.3736041, Longitude: -50.8454929
+Município: ATALAIA, PR, Latitude: -23.1513833, Longitude: -52.0529697
+Município: BALSA NOVA, PR, Latitude: -25.5842234, Longitude: -49.6312741
+Município: BANDEIRANTES, PR, Latitude: -23.107788, Longitude: -50.370407
+Município: BARBOSA FERRAZ, PR, Latitude: -24.0287182, Longitude: -52.00811
+Município: BARRACAO, PR, Latitude: -26.2524094, Longitude: -53.6349764
+Município: BOA ESPERANCA, PR, Latitude: -24.2411024, Longitude: -52.7860277
+Município: BOCAIUVA DO SUL, PR, Latitude: -25.206591, Longitude: -49.114131
+Município: BOM JESUS DO SUL, PR, Latitude: -26.155, Longitude: -53.54644230989628
+Município: BOM SUCESSO, PR, Latitude: -23.7101968, Longitude: -51.7661597
+Município: ANTONIO OLINTO, PR, Latitude: -25.9849006, Longitude: -50.1974516
+Município: ANTONINA, PR, Latitude: -25.4298854, Longitude: -48.7125431
+Município: ANDIRA, PR, Latitude: -23.0494761, Longitude: -50.2310027
+Município: SEBASTIAO LEAL, PI, Latitude: -7.5679515, Longitude: -44.0648363
+Município: SAO JOAO DA VARJOTA, PI, Latitude: -6.9151806, Longitude: -41.8643155
+Município: SAO JOAO DO PIAUI, PI, Latitude: -8.3601426, Longitude: -42.2487642
+Município: SAO JULIAO, PI, Latitude: -7.0834413, Longitude: -40.8362405
+Município: SAO MIGUEL DA BAIXA GRANDE, PI, Latitude: -5.8648279, Longitude: -42.1864332
+Município: SAO PEDRO DO PIAUI, PI, Latitude: -5.923768, Longitude: -42.7195114
+Município: SAO RAIMUNDO NONATO, PI, Latitude: -9.0149761, Longitude: -42.6888427
+Município: SIMPLICIO MENDES, PI, Latitude: -7.860528, Longitude: -41.9081183
+Município: ALTO PARANA, PR, Latitude: -23.131247, Longitude: -52.318893
+Município: TERESINA, PI, Latitude: -5.0896403, Longitude: -42.809588
+Município: VALENCA DO PIAUI, PI, Latitude: -6.4048149, Longitude: -41.7382812
+Município: VILA NOVA DO PIAUI, PI, Latitude: -7.1429224, Longitude: -40.9378562
+Município: ABATIA, PR, Latitude: -23.3052967, Longitude: -50.3102532
+Município: ADRIANOPOLIS, PR, Latitude: -24.6557863, Longitude: -48.9912769
+Município: ALTO PARAISO, PR, Latitude: -23.508137, Longitude: -53.728537
+Município: JAICOS, PI, Latitude: -7.3584791, Longitude: -41.1446059
+Município: IPIRANGA DO PIAUI, PI, Latitude: -6.8240832, Longitude: -41.7377279
+Município: SALGUEIRO, PE, Latitude: -8.0726731, Longitude: -39.1269719
+Município: TRACUNHAEM, PE, Latitude: -7.8027253, Longitude: -35.238498
+Município: VENTUROSA, PE, Latitude: -8.5765199, Longitude: -36.876569
+Município: VERDEJANTE, PE, Latitude: -7.9285675, Longitude: -38.9685473
+Município: VICENCIA, PE, Latitude: -7.6574422, Longitude: -35.3218464
+Município: VITORIA DE SANTO ANTAO, PE, Latitude: -8.1209019, Longitude: -35.2944858
+Município: XEXEU, PE, Latitude: -8.8036743, Longitude: -35.6244442
+Município: ACAUA, PI, Latitude: -8.219542, Longitude: -41.083059
+Município: AGRICOLANDIA, PI, Latitude: -5.7967843, Longitude: -42.6605131
+Município: AGUA BRANCA, PI, Latitude: -5.8913922, Longitude: -42.6361148
+Município: ALAGOINHA DO PIAUI, PI, Latitude: -7.0090952, Longitude: -40.939675
+Município: ALEGRETE DO PIAUI, PI, Latitude: -7.2440138, Longitude: -40.8602296
+Município: ALTOS, PI, Latitude: -5.0393915, Longitude: -42.4611694
+Município: ALVORADA DO GURGUEIA, PI, Latitude: -8.4465288, Longitude: -43.8655915
+Município: AMARANTE, PI, Latitude: -6.2459374, Longitude: -42.8476238
+Município: ANGICAL DO PIAUI, PI, Latitude: -6.0872666, Longitude: -42.7366138
+Município: ASSUNCAO DO PIAUI, PI, Latitude: -5.8608718, Longitude: -41.0492387
+Município: TRINDADE, PE, Latitude: -7.759, Longitude: -40.26472
+Município: TORITAMA, PE, Latitude: -8.0083743, Longitude: -36.058776
+Município: INHUMA, PI, Latitude: -6.6694502, Longitude: -41.7096008
+Município: TIMBAUBA, PE, Latitude: -7.5118822, Longitude: -35.316076
+Município: SALOA, PE, Latitude: -8.974964, Longitude: -36.6892298
+Município: SANHARO, PE, Latitude: -8.3628776, Longitude: -36.5573186
+Município: SANTA CRUZ DO CAPIBARIBE, PE, Latitude: -7.948019, Longitude: -36.206092
+Município: SANTA MARIA DA BOA VISTA, PE, Latitude: -8.8001615, Longitude: -39.8271099
+Município: SAO CAITANO, PE, Latitude: -8.3304491, Longitude: -36.135359
+Município: SAO JOAO, PE, Latitude: -8.875762, Longitude: -36.36532
+Município: SAO JOSE DO BELMONTE, PE, Latitude: -7.8641261, Longitude: -38.7599545
+Município: SAO LOURENCO DA MATA, PE, Latitude: -7.9959607, Longitude: -35.039335
+Município: SERRA TALHADA, PE, Latitude: -7.9867805, Longitude: -38.2920294
+Município: SERRITA, PE, Latitude: -7.9476953, Longitude: -39.2957383
+Município: SERTANIA, PE, Latitude: -8.068467, Longitude: -37.268393
+Município: TACAIMBO, PE, Latitude: -8.308673, Longitude: -36.300035
+Município: TACARATU, PE, Latitude: -9.1051762, Longitude: -38.1499125
+Município: TAQUARITINGA DO NORTE, PE, Latitude: -7.9027766, Longitude: -36.0442227
+Município: TERRA NOVA, PE, Latitude: -8.2249522, Longitude: -39.3844637
+Município: BARRO DURO, PI, Latitude: -5.8180139, Longitude: -42.5106589
+Município: BATALHA, PI, Latitude: -4.022391, Longitude: -42.0780926
+Município: BERTOLINIA, PI, Latitude: -7.6372159, Longitude: -43.9540611
+Município: BOM JESUS, PI, Latitude: -9.0711644, Longitude: -44.3583926
+Município: CRISTALANDIA DO PIAUI, PI, Latitude: -10.6525894, Longitude: -45.1847405
+Município: CRISTINO CASTRO, PI, Latitude: -8.8163934, Longitude: -44.2211062
+Município: DEMERVAL LOBAO, PI, Latitude: -5.3640643, Longitude: -42.673993
+Município: DOM EXPEDITO LOPES, PI, Latitude: -6.9644926, Longitude: -41.648155
+Município: ELESBAO VELOSO, PI, Latitude: -6.2032654, Longitude: -42.1376937
+Município: ELISEU MARTINS, PI, Latitude: -8.0984137, Longitude: -43.6637067
+Município: ESPERANTINA, PI, Latitude: -3.8950963, Longitude: -42.2370595
+Município: FLORIANO, PI, Latitude: -6.7726534, Longitude: -43.0070616
+Município: FRANCISCO AYRES, PI, Latitude: -6.6217571, Longitude: -42.6941944
+Município: FRANCISCO MACEDO, PI, Latitude: -7.3276798, Longitude: -40.7914329
+Município: FRANCISCO SANTOS, PI, Latitude: -6.9944754, Longitude: -41.1345548
+Município: FRONTEIRAS, PI, Latitude: -7.088607, Longitude: -40.6147253
+Município: GEMINIANO, PI, Latitude: -7.1580963, Longitude: -41.3625942
+Município: GILBUES, PI, Latitude: -9.8295491, Longitude: -45.3389933
+Município: GUADALUPE, PI, Latitude: -6.7879775, Longitude: -43.5708162
+Município: CORRENTE, PI, Latitude: -10.4401356, Longitude: -45.1627472
+Município: CORONEL JOSE DIAS, PI, Latitude: -8.8252316, Longitude: -42.4782948
+Município: COLONIA DO GURGUEIA, PI, Latitude: -8.183697, Longitude: -43.793999
+Município: CAMPO GRANDE DO PIAUI, PI, Latitude: -7.1327559, Longitude: -41.0381164
+Município: BOM PRINCIPIO DO PIAUI, PI, Latitude: -3.1912777, Longitude: -41.6430185
+Município: BOQUEIRAO DO PIAUI, PI, Latitude: -4.4850148, Longitude: -42.1095161
+Município: BRASILEIRA, PI, Latitude: -4.131182, Longitude: -41.7824969
+Município: BURITI DOS LOPES, PI, Latitude: -3.1776723, Longitude: -41.8707444
+Município: CAJUEIRO DA PRAIA, PI, Latitude: -2.9289603, Longitude: -41.3381617
+Município: CALDEIRAO GRANDE DO PIAUI, PI, Latitude: -7.3310393, Longitude: -40.6374433
+Município: CAMPO MAIOR, PI, Latitude: -4.8339574, Longitude: -42.1739786
+Município: COCAL DE TELHA, PI, Latitude: -4.5553648, Longitude: -41.9722429
+Município: CANAVIEIRA, PI, Latitude: -7.6924041, Longitude: -43.7190063
+Município: CAPITAO DE CAMPOS, PI, Latitude: -4.4584198, Longitude: -41.9415301
+Município: CARAUBAS DO PIAUI, PI, Latitude: -3.4760094, Longitude: -41.8412188
+Município: CARIDADE DO PIAUI, PI, Latitude: -7.7331063, Longitude: -40.9883665
+Município: CAXINGO, PI, Latitude: -3.4208396, Longitude: -41.8925637
+Município: COCAL, PI, Latitude: -3.4691882, Longitude: -41.555851
+Município: SEVERIANO MELO, RN, Latitude: -5.7811362, Longitude: -37.9576772
+Município: TAIPU, RN, Latitude: -5.6228594, Longitude: -35.5991764
+Município: MATUPA, (null), Latitude: None, Longitude: None
+Município: RANCHO QUEIMADO, SC, Latitude: -27.6727911, Longitude: -49.0124197
+Município: RIO NEGRINHO, SC, Latitude: -26.2088413, Longitude: -49.3724251
+Município: RIO RUFINO, SC, Latitude: -27.861691, Longitude: -49.7806323
+Município: RODEIO, SC, Latitude: -26.9233304, Longitude: -49.3685354
+Município: SANGAO, SC, Latitude: -28.6397512, Longitude: -49.1266106
+Município: SANTA CECILIA, SC, Latitude: -26.9658952, Longitude: -50.4182571
+Município: SANTA ROSA DO SUL, SC, Latitude: -29.1354955, Longitude: -49.7154188
+Município: SANTA TEREZINHA, SC, Latitude: -26.7813, Longitude: -50.009017
+Município: SANTO AMARO DA IMPERATRIZ, SC, Latitude: -27.6865324, Longitude: -48.7769405
+Município: SAO BENTO DO SUL, SC, Latitude: -26.2483669, Longitude: -49.3820672
+Município: SAO BONIFACIO, SC, Latitude: -27.900907, Longitude: -48.932608
+Município: SAO CRISTOVAO DO SUL, SC, Latitude: -27.2670093, Longitude: -50.4409508
+Município: SAO DOMINGOS, SC, Latitude: -26.5593237, Longitude: -52.5311718
+Município: SAO FRANCISCO DO SUL, SC, Latitude: -26.2495087, Longitude: -48.6308087
+Município: SAO JOAO BATISTA, SC, Latitude: -27.277547, Longitude: -48.8496101
+Município: SAO JOAO DO SUL, SC, Latitude: -29.2246601, Longitude: -49.8081785
+Município: RIO DO SUL, SC, Latitude: -27.2162607, Longitude: -49.643654
+Município: PRESIDENTE GETULIO, SC, Latitude: -27.0426247, Longitude: -49.6210429
+Município: SAO JOSE DO CEDRO, SC, Latitude: -26.4555904, Longitude: -53.4954785
+Município: POUSO REDONDO, SC, Latitude: -27.2567443, Longitude: -49.9331593
+Município: PAPANDUVA, SC, Latitude: -26.4085449, Longitude: -50.1424094
+Município: PARAISO, SC, Latitude: -26.6180705, Longitude: -53.6743943
+Município: PASSO DE TORRES, SC, Latitude: -29.325393, Longitude: -49.7218979
+Município: PASSOS MAIA, SC, Latitude: -26.7806434, Longitude: -52.0611058
+Município: PAULO LOPES, SC, Latitude: -27.964968, Longitude: -48.6830299
+Município: PENHA, SC, Latitude: -26.775418, Longitude: -48.6465251
+Município: PESCARIA BRAVA, SC, Latitude: -28.3845591, Longitude: -48.8658054
+Município: PICARRAS, SC, Latitude: -26.7638889, Longitude: -48.6716667
+Município: PINHALZINHO, SC, Latitude: -26.852586, Longitude: -52.9872478
+Município: POMERODE, SC, Latitude: -26.7356218, Longitude: -49.1770095
+Município: PONTE ALTA, SC, Latitude: -27.483497, Longitude: -50.376404
+Município: PONTE ALTA DO NORTE, SC, Latitude: -27.1626096, Longitude: -50.4684028
+Município: PONTE SERRADA, SC, Latitude: -26.8708566, Longitude: -52.0164089
+Município: PORTO BELO, SC, Latitude: -27.1542415, Longitude: -48.5424395
+Município: PORTO UNIAO, SC, Latitude: -26.2336416, Longitude: -51.082771
+Município: SAO JOSE, SC, Latitude: -27.6157733, Longitude: -48.6276491
+Município: SAO JOSE DO CERRITO, SC, Latitude: -27.6627041, Longitude: -50.5791762
+Município: MARUIM, SE, Latitude: -10.7372604, Longitude: -37.0817469
+Município: XANXERE, SC, Latitude: -26.8748603, Longitude: -52.4035964
+Município: AMPARO DE SAO FRANCISCO, SE, Latitude: -10.20031285, Longitude: -36.93268971533844
+Município: AQUIDABA, SE, Latitude: -10.2837579, Longitude: -37.0188687
+Município: ARACAJU, SE, Latitude: -10.9162061, Longitude: -37.0774655
+Município: AREIA BRANCA, SE, Latitude: -10.7591455, Longitude: -37.3148072
+Município: CAPELA, SE, Latitude: -10.50494, Longitude: -37.0552566
+Município: CARIRA, SE, Latitude: -10.358303, Longitude: -37.701473
+Município: CARMOPOLIS, SE, Latitude: -10.64835, Longitude: -36.98493
+Município: CEDRO DE SAO JOAO, SE, Latitude: -10.2506778, Longitude: -36.8816067
+Município: CRISTINAPOLIS, SE, Latitude: -11.4757019, Longitude: -37.7555212
+Município: ESTANCIA, SE, Latitude: -11.2682255, Longitude: -37.4378341
+Município: FREI PAULO, SE, Latitude: -10.549956, Longitude: -37.5356071
+Município: ITABAIANA, SE, Latitude: -10.6856197, Longitude: -37.4270517
+Município: ITAPORANGA DAJUDA, SE, Latitude: None, Longitude: None
+Município: JAPARATUBA, SE, Latitude: -10.5934888, Longitude: -36.941514
+Município: LARANJEIRAS, SE, Latitude: -10.8040231, Longitude: -37.1658336
+Município: XAXIM, SC, Latitude: -26.9605363, Longitude: -52.5335505
+Município: VIDEIRA, SC, Latitude: -27.00544, Longitude: -51.1533733
+Município: SAO LOURENCO DO OESTE, SC, Latitude: -26.35566, Longitude: -52.849837
+Município: VARGEM BONITA, SC, Latitude: -27.005456, Longitude: -51.740238
+Município: SAO MIGUEL DO OESTE, SC, Latitude: -26.7278977, Longitude: -53.5176689
+Município: SAO MIGUEL DOESTE, SC, Latitude: None, Longitude: None
+Município: SAO PEDRO DE ALCANTARA, SC, Latitude: -27.5676985, Longitude: -48.8047973
+Município: SAUDADES, SC, Latitude: -26.9261779, Longitude: -53.0046945
+Município: SOMBRIO, SC, Latitude: -29.107985, Longitude: -49.632776
+Município: TAIO, SC, Latitude: -27.1167574, Longitude: -50.0002159
+Município: TIJUCAS, SC, Latitude: -27.239404, Longitude: -48.6353696
+Município: TIMBE DO SUL, SC, Latitude: -28.8300122, Longitude: -49.8466056
+Município: TIMBO, SC, Latitude: -26.8282737, Longitude: -49.270641
+Município: TRES BARRAS, SC, Latitude: -26.105632, Longitude: -50.319692
+Município: TREZE DE MAIO, SC, Latitude: -28.5574415, Longitude: -49.1447586
+Município: TROMBUDO CENTRAL, SC, Latitude: -27.3040981, Longitude: -49.79316
+Município: TUBARAO, SC, Latitude: -28.471488, Longitude: -49.014132
+Município: VARGEAO, SC, Latitude: -26.861277, Longitude: -52.1544966
+Município: VARGEM, SC, Latitude: -27.4909659, Longitude: -50.9781096
+Município: PALMITOS, SC, Latitude: -27.0711023, Longitude: -53.1596594
+Município: PALMA SOLA, SC, Latitude: -26.3482487, Longitude: -53.2775974
+Município: PALHOCA, SC, Latitude: -27.6447774, Longitude: -48.6646323
+Município: CORUPA, SC, Latitude: -26.4267153, Longitude: -49.24747
+Município: CUNHA PORA, SC, Latitude: -26.8927163, Longitude: -53.1716516
+Município: CURITIBANOS, SC, Latitude: -27.2900659, Longitude: -50.5779683
+Município: DESCANSO, SC, Latitude: -26.8246854, Longitude: -53.5017586
+Município: DIONISIO CERQUEIRA, SC, Latitude: -26.2604681, Longitude: -53.6346379
+Município: ERMO, SC, Latitude: -28.9849219, Longitude: -49.6427198
+Município: ERVAL VELHO, SC, Latitude: -27.2747859, Longitude: -51.4429712
+Município: FAXINAL DOS GUEDES, SC, Latitude: -26.8494222, Longitude: -52.2586485
+Município: FLOR DO SERTAO, SC, Latitude: -26.7784693, Longitude: -53.3478823
+Município: FLORIANOPOLIS, SC, Latitude: -27.5973002, Longitude: -48.5496098
+Município: FRAIBURGO, SC, Latitude: -27.023288, Longitude: -50.919978
+Município: FREI ROGERIO, SC, Latitude: -27.175021, Longitude: -50.807621
+Município: GAROPABA, SC, Latitude: -28.0274798, Longitude: -48.6240197
+Município: GARUVA, SC, Latitude: -26.0294904, Longitude: -48.8545202
+Município: GASPAR, SC, Latitude: -26.9307306, Longitude: -48.9566824
+Município: GOVERNADOR CELSO RAMOS, SC, Latitude: -27.317161, Longitude: -48.557608
+Município: CRICIUMA, SC, Latitude: -28.6789941, Longitude: -49.3695627
+Município: CORREIA PINTO, SC, Latitude: -27.587688, Longitude: -50.361448
+Município: OTACILIO COSTA, SC, Latitude: -27.4832304, Longitude: -50.1195204
+Município: CORONEL FREITAS, SC, Latitude: -26.9058932, Longitude: -52.7028055
+Município: BRUSQUE, SC, Latitude: -27.0964628, Longitude: -48.9136323
+Município: CACADOR, SC, Latitude: -26.77567, Longitude: -51.0120041
+Município: CAIBI, SC, Latitude: -27.0751925, Longitude: -53.2502133
+Município: CAMBORIU, SC, Latitude: -27.0273601, Longitude: -48.6535657
+Município: CAMPO ERE, SC, Latitude: -26.3947432, Longitude: -53.0790495
+Município: CAMPOS NOVOS, SC, Latitude: -27.3962904, Longitude: -51.2224397
+Município: CANELINHA, SC, Latitude: -27.2660341, Longitude: -48.7666708
+Município: CANOINHAS, SC, Latitude: -26.1755121, Longitude: -50.3949592
+Município: CAPAO ALTO, SC, Latitude: -27.9382827, Longitude: -50.511491
+Município: CAPIVARI DE BAIXO, SC, Latitude: -28.449773, Longitude: -48.963144
+Município: CATANDUVAS, SC, Latitude: -27.0689719, Longitude: -51.660158
+Município: CELSO RAMOS, SC, Latitude: -27.6335797, Longitude: -51.3368111
+Município: CHAPECO, SC, Latitude: -27.0922364, Longitude: -52.6166878
+Município: CONCORDIA, SC, Latitude: -27.2312011, Longitude: -52.0231024
+Município: CORDILHEIRA ALTA, SC, Latitude: -26.9853947, Longitude: -52.603549
+Município: GUARACIABA, SC, Latitude: -26.6001986, Longitude: -53.5216209
+Município: GUARAMIRIM, SC, Latitude: -26.4744805, Longitude: -48.9981151
+Município: GUARUJA DO SUL, SC, Latitude: -26.3850268, Longitude: -53.527794
+Município: HERVAL DOESTE, SC, Latitude: -26.9258311, Longitude: -49.1226377
+Município: JOINVILLE, SC, Latitude: -26.3044898, Longitude: -48.8486726
+Município: LAGES, SC, Latitude: -27.8165664, Longitude: -50.325883
+Município: LAGUNA, SC, Latitude: -28.4837443, Longitude: -48.7816572
+Município: LAURENTINO, SC, Latitude: -27.2193231, Longitude: -49.7322856
+Município: LONTRAS, SC, Latitude: -27.1679891, Longitude: -49.5424602
+Município: LUIZ ALVES, SC, Latitude: -26.7118577, Longitude: -48.9126756
+Município: MAFRA, SC, Latitude: -26.1150943, Longitude: -49.8035982
+Município: MARACAJA, SC, Latitude: -28.8628566, Longitude: -49.449388
+Município: MARAVILHA, SC, Latitude: -26.7623898, Longitude: -53.1747387
+Município: MONTE CARLO, SC, Latitude: -27.2216645, Longitude: -50.9784032
+Município: MONTE CASTELO, SC, Latitude: -26.460989, Longitude: -50.232724
+Município: MORRO DA FUMACA, SC, Latitude: -28.6522275, Longitude: -49.2133979
+Município: NAVEGANTES, SC, Latitude: -26.8898813, Longitude: -48.6495828
+Município: NOVA ERECHIM, SC, Latitude: -26.9027688, Longitude: -52.9071258
+Município: NOVA ITABERABA, SC, Latitude: -26.9406956, Longitude: -52.8132923
+Município: JOACABA, SC, Latitude: -27.1737204, Longitude: -51.5065214
+Município: JARAGUA DO SUL, SC, Latitude: -26.4897432, Longitude: -49.0778063
+Município: JAGUARUNA, SC, Latitude: -28.6237365, Longitude: -49.0288664
+Município: IPUMIRIM, SC, Latitude: -27.0762287, Longitude: -52.135736
+Município: IBIRAMA, SC, Latitude: -27.0537021, Longitude: -49.5190771
+Município: ICARA, SC, Latitude: -28.7116553, Longitude: -49.2971441
+Município: ILHOTA, SC, Latitude: -26.9022824, Longitude: -48.8284968
+Município: IMARUI, SC, Latitude: -28.3440491, Longitude: -48.8151737
+Município: IMBITUBA, SC, Latitude: -28.241827, Longitude: -48.6643444
+Município: INDAIAL, SC, Latitude: -26.8901747, Longitude: -49.2416736
+Município: IRACEMINHA, SC, Latitude: -26.8237077, Longitude: -53.272834
+Município: JABORA, SC, Latitude: -27.1743246, Longitude: -51.7348631
+Município: IRANI, SC, Latitude: -27.0230476, Longitude: -51.9010675
+Município: IRINEOPOLIS, SC, Latitude: -26.242006, Longitude: -50.795687
+Município: ITAIOPOLIS, SC, Latitude: -26.3391899, Longitude: -49.9071983
+Município: ITAJAI, SC, Latitude: -26.9046787, Longitude: -48.6552979
+Município: ITAPEMA, SC, Latitude: -27.09472, Longitude: -48.6137778
+Município: ITUPORANGA, SC, Latitude: -27.4096219, Longitude: -49.6014812
+Município: MALHADA DOS BOIS, SE, Latitude: -10.3450779, Longitude: -36.9206659
+Município: MURIBECA, SE, Latitude: -10.4227085, Longitude: -36.9567299
+Município: TANGARA, RN, Latitude: -6.19649, Longitude: -35.798888
+Município: TAUBATE, SP, Latitude: -23.031448, Longitude: -45.5612792
+Município: UBATUBA, SP, Latitude: -23.433162, Longitude: -45.083415
+Município: UBIRAJARA, SP, Latitude: -22.5261054, Longitude: -49.6635412
+Município: URUPES, SP, Latitude: -21.2027026, Longitude: -49.2921996
+Município: VARGEM, SP, Latitude: -22.8902379, Longitude: -46.4145366
+Município: VERA CRUZ, SP, Latitude: -22.2212638, Longitude: -49.8243021
+Município: ABREULANDIA, TO, Latitude: -9.6221526, Longitude: -49.1558343
+Município: AGUIARNOPOLIS, TO, Latitude: -6.5600452, Longitude: -47.4721189
+Município: ALIANCA DO TOCANTINS, TO, Latitude: -11.3055927, Longitude: -48.9409096
+Município: ALVORADA, TO, Latitude: -29.9981184, Longitude: -51.0772509
+Município: ARAGUAINA, TO, Latitude: -7.193241, Longitude: -48.2018597
+Município: ARAGUATINS, TO, Latitude: -5.6529384, Longitude: -48.1161923
+Município: BARROLANDIA, TO, Latitude: -9.837246, Longitude: -48.7264346
+Município: BRASILANDIA DO TOCANTINS, TO, Latitude: -8.3886619, Longitude: -48.4842729
+Município: CACHOEIRINHA, TO, Latitude: -29.9493353, Longitude: -51.0898927
+Município: CARIRI DO TOCANTINS, TO, Latitude: -11.8882727, Longitude: -49.1604216
+Município: UBARANA, SP, Latitude: -21.1637674, Longitude: -49.7167796
+Município: TABOAO DA SERRA, SP, Latitude: -23.6121912, Longitude: -46.7790539
+Município: CRIXAS DO TOCANTINS, TO, Latitude: -11.1039404, Longitude: -48.918827
+Município: SILVEIRAS, SP, Latitude: -22.66384, Longitude: -44.852157
+Município: REGISTRO, SP, Latitude: -24.497942, Longitude: -47.844895
+Município: RIBEIRAO DO SUL, SP, Latitude: -22.7861813, Longitude: -49.9285258
+Município: RIO DAS PEDRAS, SP, Latitude: -22.8441256, Longitude: -47.6065667
+Município: ROSEIRA, SP, Latitude: -22.8980898, Longitude: -45.3093218
+Município: RUBINEIA, SP, Latitude: -20.1718325, Longitude: -50.9995571
+Município: SALTO GRANDE, SP, Latitude: -22.8878776, Longitude: -49.9837107
+Município: SANTA CRUZ DO RIO PARDO, SP, Latitude: -22.9060715, Longitude: -49.6277378
+Município: SANTA ISABEL, SP, Latitude: -23.3194222, Longitude: -46.2271903
+Município: SAO BERNARDO DO CAMPO, SP, Latitude: -23.7080345, Longitude: -46.5506747
+Município: SAO JOSE DO RIO PARDO, SP, Latitude: -21.595288, Longitude: -46.887303
+Município: SAO JOSE DO RIO PRETO, SP, Latitude: -20.8125851, Longitude: -49.3804212
+Município: SAO JOSE DOS CAMPOS, SP, Latitude: -23.1867782, Longitude: -45.8854538
+Município: SAO LOURENCO DA SERRA, SP, Latitude: -23.8535923, Longitude: -46.9440587
+Município: SAO PAULO, SP, Latitude: -23.5506507, Longitude: -46.6333824
+Município: SAO PEDRO DO TURVO, SP, Latitude: -22.745286, Longitude: -49.742829
+Município: COLINAS DO TOCANTINS, TO, Latitude: -8.0612688, Longitude: -48.4716768
+Município: DARCINOPOLIS, TO, Latitude: -6.7085964, Longitude: -47.7524283
+Município: NOSSA SENHORA DE LOURDES, SE, Latitude: -10.0786746, Longitude: -37.0572176
+Município: PALMEIRAS DO TOCANTINS, TO, Latitude: -6.6096035, Longitude: -47.546399
+Município: PARANA, TO, Latitude: -12.616747, Longitude: -47.873378
+Município: PEDRO AFONSO, TO, Latitude: -8.9757351, Longitude: -48.1733282
+Município: PEIXE, TO, Latitude: -12.0390993, Longitude: -48.5392455
+Município: PIRAQUE, TO, Latitude: -6.769831, Longitude: -48.2945507
+Município: PRESIDENTE KENNEDY, TO, Latitude: -8.5340643, Longitude: -48.5060747
+Município: PUGMIL, TO, Latitude: -10.4255161, Longitude: -48.8969824
+Município: RIO DOS BOIS, TO, Latitude: -9.3412231, Longitude: -48.5349207
+Município: SANTA RITA DO TOCANTINS, TO, Latitude: -10.8643623, Longitude: -48.9082979
+Município: SANTA TEREZINHA DO TOCANTINS, TO, Latitude: -6.4356048, Longitude: -47.673061
+Município: SAO BENTO DO TOCANTINS, TO, Latitude: -6.021853, Longitude: -47.900057
+Município: SUCUPIRA, TO, Latitude: -11.9850885, Longitude: -48.9113689
+Município: TALISMA, TO, Latitude: -12.797836, Longitude: -49.0929839
+Município: TOCANTINOPOLIS, TO, Latitude: -6.3280931, Longitude: -47.4217673
+Município: TUPIRAMA, TO, Latitude: -8.9746528, Longitude: -48.1887392
+Município: WANDERLANDIA, TO, Latitude: -6.8522727, Longitude: -47.9653917
+Município: PARAISO DO TOCANTINS, TO, Latitude: -10.1752474, Longitude: -48.886759
+Município: PALMEIRANTE, TO, Latitude: -7.8582335, Longitude: -47.9264382
+Município: DOIS IRMAOS DO TOCANTINS, TO, Latitude: -9.2539897, Longitude: -49.0665558
+Município: PALMAS, TO, Latitude: -10.1837852, Longitude: -48.3336423
+Município: DUERE, TO, Latitude: -11.341631, Longitude: -49.271566
+Município: FATIMA, TO, Latitude: -10.7575656, Longitude: -48.9031328
+Município: FIGUEIROPOLIS, TO, Latitude: -12.1347916, Longitude: -49.1737141
+Município: FORMOSO DO ARAGUAIA, TO, Latitude: -11.8059989, Longitude: -49.5257153
+Município: FORTALEZA DO TABOCAO, TO, Latitude: -9.0565211, Longitude: -48.5216745
+Município: GUARAI, TO, Latitude: -8.835429, Longitude: -48.511432
+Município: GURUPI, TO, Latitude: -11.72794, Longitude: -49.068046
+Município: LUZINOPOLIS, TO, Latitude: -6.1918183, Longitude: -47.8562036
+Município: MIRACEMA DO TOCANTINS, TO, Latitude: -9.5617939, Longitude: -48.3966536
+Município: MIRANORTE, TO, Latitude: -9.529068, Longitude: -48.592222
+Município: NATIVIDADE, TO, Latitude: -11.7089881, Longitude: -47.7284165
+Município: NAZARE, TO, Latitude: -6.3733313, Longitude: -47.6632702
+Município: NOVA OLINDA, TO, Latitude: -7.631712, Longitude: -48.425232
+Município: NOVA ROSALANDIA, TO, Latitude: -10.565102, Longitude: -48.912477
+Município: OLIVEIRA DE FATIMA, TO, Latitude: -10.7091365, Longitude: -48.9077446
+Município: QUELUZ, SP, Latitude: -22.5371881, Longitude: -44.7752585
+Município: PROMISSAO, SP, Latitude: -21.5404913, Longitude: -49.8574709
+Município: PIQUETE, SP, Latitude: -22.6138451, Longitude: -45.1777096
+Município: BARUERI, SP, Latitude: -23.5112184, Longitude: -46.8764612
+Município: CACAPAVA, SP, Latitude: -23.099204, Longitude: -45.707645
+Município: CACHOEIRA PAULISTA, SP, Latitude: -22.666498, Longitude: -45.015384
+Município: CAJATI, SP, Latitude: -24.7272376, Longitude: -48.1077914
+Município: CAMPINAS, SP, Latitude: -22.90556, Longitude: -47.06083
+Município: CAMPOS NOVOS PAULISTA, SP, Latitude: -22.601952, Longitude: -49.998726
+Município: CANANEIA, SP, Latitude: -25.0104609, Longitude: -47.9315628
+Município: CANAS, SP, Latitude: -22.7029347, Longitude: -45.0526508
+Município: CASTILHO, SP, Latitude: -20.8695636, Longitude: -51.4877792
+Município: COTIA, SP, Latitude: -23.603889, Longitude: -46.918889
+Município: CRUZEIRO, SP, Latitude: -22.5783685, Longitude: -44.9642044
+Município: CUNHA, SP, Latitude: -23.07753, Longitude: -44.9567436
+Município: EMBU, SP, Latitude: -23.6495294, Longitude: -46.8528497
+Município: EMBU DAS ARTES, SP, Latitude: -23.6495294, Longitude: -46.8528497
+Município: FRANCO DA ROCHA, SP, Latitude: -23.3328038, Longitude: -46.724446
+Município: GALIA, SP, Latitude: -22.2936976, Longitude: -49.5516228
+Município: BRAGANCA PAULISTA, SP, Latitude: -22.9520235, Longitude: -46.5418586
+Município: BARRA DO TURVO, SP, Latitude: -24.756421, Longitude: -48.5056942
+Município: PINDAMONHANGABA, SP, Latitude: -22.9364, Longitude: -45.4622602
+Município: BADY BASSITT, SP, Latitude: -20.9178969, Longitude: -49.4517911
+Município: NOSSA SENHORA DO SOCORRO, SE, Latitude: -10.8553115, Longitude: -37.1264863
+Município: PROPRIA, SE, Latitude: -10.212427, Longitude: -36.8372254
+Município: RIBEIROPOLIS, SE, Latitude: -10.5405577, Longitude: -37.4368783
+Município: ROSARIO DO CATETE, SE, Latitude: -10.6968099, Longitude: -37.0319184
+Município: SANTA LUZIA DO ITANHY, SE, Latitude: -11.3517434, Longitude: -37.4478339
+Município: SANTO AMARO DAS BROTAS, SE, Latitude: -10.7866999, Longitude: -37.054711
+Município: SAO CRISTOVAO, SE, Latitude: -11.0136465, Longitude: -37.2071134
+Município: SAO DOMINGOS, SE, Latitude: -10.7903753, Longitude: -37.5667586
+Município: SAO FRANCISCO, SE, Latitude: -20.3604438, Longitude: -50.696603
+Município: SIRIRI, SE, Latitude: -10.604584, Longitude: -37.1143295
+Município: TOMAR DO GERU, SE, Latitude: -11.3752475, Longitude: -37.8413399
+Município: UMBAUBA, SE, Latitude: -11.3826792, Longitude: -37.6565562
+Município: APARECIDA, SP, Latitude: -22.851552, Longitude: -45.2340924
+Município: ARUJA, SP, Latitude: -23.396266, Longitude: -46.3175449
+Município: ATIBAIA, SP, Latitude: -23.1177393, Longitude: -46.5547861
+Município: GETULINA, SP, Latitude: -21.7988557, Longitude: -49.9288096
+Município: GUAICARA, SP, Latitude: -21.6213012, Longitude: -49.7962941
+Município: GUAIMBE, SP, Latitude: -21.909072, Longitude: -49.89861
+Município: GUARAREMA, SP, Latitude: -23.4133724, Longitude: -46.0379249
+Município: MAIRIPORA, SP, Latitude: -23.3186111, Longitude: -46.5866667
+Município: MARILIA, SP, Latitude: -22.2172002, Longitude: -49.9500061
+Município: MAUA, SP, Latitude: -23.6669527, Longitude: -46.4616922
+Município: MIRACATU, SP, Latitude: -24.2839078, Longitude: -47.4535128
+Município: MIRASSOL, SP, Latitude: -20.8141411, Longitude: -49.507449
+Município: MOGI DAS CRUZES, SP, Latitude: -23.5234284, Longitude: -46.1926671
+Município: NOVA GRANADA, SP, Latitude: -20.5345426, Longitude: -49.3186951
+Município: OCAUCU, SP, Latitude: -22.4396255, Longitude: -49.9226712
+Município: ONDA VERDE, SP, Latitude: -20.6071428, Longitude: -49.2950997
+Município: OSASCO, SP, Latitude: -23.5324859, Longitude: -46.7916801
+Município: OURINHOS, SP, Latitude: -22.9777918, Longitude: -49.868204
+Município: PALESTINA, SP, Latitude: -20.389344, Longitude: -49.4320384
+Município: PARIQUERA-ACU, SP, Latitude: -24.7146891, Longitude: -47.8802361
+Município: PAULICEIA, SP, Latitude: -21.3143975, Longitude: -51.8316259
+Município: PEDRO DE TOLEDO, SP, Latitude: -24.2769071, Longitude: -47.23393
+Município: LUPERCIO, SP, Latitude: -22.4145801, Longitude: -49.8183516
+Município: LORENA, SP, Latitude: -22.7367652, Longitude: -45.1070876
+Município: LINS, SP, Latitude: -21.6741873, Longitude: -49.7518932
+Município: ITAQUAQUECETUBA, SP, Latitude: -23.4754492, Longitude: -46.3514033
+Município: GUARATINGUETA, SP, Latitude: -22.8057839, Longitude: -45.1908926
+Município: GUARULHOS, SP, Latitude: -23.4675941, Longitude: -46.5277704
+Município: ICEM, SP, Latitude: -20.3413103, Longitude: -49.1970982
+Município: INDAIATUBA, SP, Latitude: -23.09028, Longitude: -47.21806
+Município: IPIGUA, SP, Latitude: -20.657282, Longitude: -49.3881146
+Município: ITAPECERICA DA SERRA, SP, Latitude: -23.7176303, Longitude: -46.8492435
+Município: JACAREI, SP, Latitude: -23.30528, Longitude: -45.96583
+Município: LENCOIS PAULISTA, SP, Latitude: -22.6029897, Longitude: -48.8031367
+Município: JACI, SP, Latitude: -20.8844434, Longitude: -49.5710544
+Município: JACUPIRANGA, SP, Latitude: -24.703773, Longitude: -48.0060639
+Município: JOSE BONIFACIO, SP, Latitude: -23.564114500000002, Longitude: -46.43473669552859
+Município: JUQUIA, SP, Latitude: -24.3172209, Longitude: -47.6355618
+Município: JUQUITIBA, SP, Latitude: -23.932346, Longitude: -47.0714217
+Município: LAVRINHAS, SP, Latitude: -22.570047, Longitude: -44.902359
+Município: BRUNOPOLIS, SC, Latitude: -27.310953, Longitude: -50.837585
+Município: BRACO DO TROMBUDO, SC, Latitude: -27.358578, Longitude: -49.882145
+Município: BOM RETIRO, SC, Latitude: -27.798993, Longitude: -49.486994
+Município: CERRITO, RS, Latitude: -31.8546304, Longitude: -52.8151659
+Município: CHARQUEADAS, RS, Latitude: -29.955012, Longitude: -51.6249195
+Município: CHUI, RS, Latitude: -33.6895237, Longitude: -53.454704
+Município: CIRIACO, RS, Latitude: -28.3429139, Longitude: -51.8763682
+Município: COLINAS, RS, Latitude: -29.3866023, Longitude: -51.8697911
+Município: COLORADO, RS, Latitude: -28.525842, Longitude: -52.99282
+Município: CONDOR, RS, Latitude: -28.2058277, Longitude: -53.4844696
+Município: CONSTANTINA, RS, Latitude: -27.7331711, Longitude: -52.9929561
+Município: COQUEIROS DO SUL, RS, Latitude: -28.1184032, Longitude: -52.7824375
+Município: CORONEL BARROS, RS, Latitude: -28.3826325, Longitude: -54.0704116
+Município: CORONEL BICACO, RS, Latitude: -27.7174002, Longitude: -53.705821
+Município: COXILHA, RS, Latitude: -28.1255645, Longitude: -52.2976394
+Município: CRISTAL, RS, Latitude: -31.00166, Longitude: -52.0491777
+Município: CRUZ ALTA, RS, Latitude: -28.645056, Longitude: -53.6058047
+Município: DILERMANDO DE AGUIAR, RS, Latitude: -29.7049966, Longitude: -54.2078988
+Município: DOIS IRMAOS, RS, Latitude: -29.58356, Longitude: -51.089776
+Município: CERRO LARGO, RS, Latitude: -28.147498, Longitude: -54.7383681
+Município: CAXIAS DO SUL, RS, Latitude: -29.1685045, Longitude: -51.1796385
+Município: DOM PEDRITO, RS, Latitude: -30.983755, Longitude: -54.6746483
+Município: CASEIROS, RS, Latitude: -28.2721149, Longitude: -51.6873536
+Município: CACHOEIRA DO SUL, RS, Latitude: -30.0482234, Longitude: -52.8901686
+Município: CACHOEIRINHA, RS, Latitude: -29.9493353, Longitude: -51.0898927
+Município: CAIBATE, RS, Latitude: -28.290475, Longitude: -54.645407
+Município: CAMAQUA, RS, Latitude: -30.8524752, Longitude: -51.8075619
+Município: CAMPESTRE DA SERRA, RS, Latitude: -28.7188986, Longitude: -51.106379937123265
+Município: CAMPO BOM, RS, Latitude: -29.678418, Longitude: -51.0572268
+Município: CAMPO NOVO, RS, Latitude: -27.650487249999998, Longitude: -53.81568759295091
+Município: CANDIOTA, RS, Latitude: -31.5451894, Longitude: -53.719538
+Município: CANGUCU, RS, Latitude: -31.398276, Longitude: -52.6773522
+Município: CANOAS, RS, Latitude: -29.9216045, Longitude: -51.1799525
+Município: CAPAO BONITO DO SUL, RS, Latitude: -28.1287941, Longitude: -51.393771
+Município: CAPAO DO LEAO, RS, Latitude: -31.766133, Longitude: -52.5013148
+Município: CAPIVARI DO SUL, RS, Latitude: -30.1437605, Longitude: -50.5129169
+Município: CARAZINHO, RS, Latitude: -28.2981634, Longitude: -52.7942363
+Município: CARLOS BARBOSA, RS, Latitude: -29.2978372, Longitude: -51.5005613
+Município: DOIS LAJEADOS, RS, Latitude: -28.984916, Longitude: -51.8366385
+Município: DOM PEDRO DE ALCANTARA, RS, Latitude: -29.3698329, Longitude: -49.8479971
+Município: BOCAINA DO SUL, SC, Latitude: -27.745494, Longitude: -49.942279
+Município: GLORINHA, RS, Latitude: -29.8790534, Longitude: -50.7869437
+Município: GUAIBA, RS, Latitude: -30.1130731, Longitude: -51.329442
+Município: GUARANI DAS MISSOES, RS, Latitude: -28.1445277, Longitude: -54.5570355
+Município: HULHA NEGRA, RS, Latitude: -31.4074739, Longitude: -53.8699535
+Município: HUMAITA, RS, Latitude: -27.5660564, Longitude: -53.9719817
+Município: IBIRAPUITA, RS, Latitude: -28.6226503, Longitude: -52.5170577
+Município: IBIRUBA, RS, Latitude: -28.630161, Longitude: -53.096124
+Município: IJUI, RS, Latitude: -28.3878734, Longitude: -53.9201692
+Município: IPIRANGA DO SUL, RS, Latitude: -27.9367583, Longitude: -52.4251556
+Município: IRAI, RS, Latitude: -27.1955392, Longitude: -53.256791
+Município: ITAARA, RS, Latitude: -29.6071165, Longitude: -53.7557841
+Município: ITAQUI, RS, Latitude: -29.1222037, Longitude: -56.5551258
+Município: IVOTI, RS, Latitude: -29.5934057, Longitude: -51.1599403
+Município: JABOTICABA, RS, Latitude: -27.6311203, Longitude: -53.2794089
+Município: JAGUARAO, RS, Latitude: -32.5662724, Longitude: -53.3765705
+Município: JAGUARI, RS, Latitude: -29.4695286, Longitude: -54.66003353501375
+Município: GRAVATAI, RS, Latitude: -29.9440222, Longitude: -50.9930938
+Município: GENTIL, RS, Latitude: -28.4319165, Longitude: -52.0348748
+Município: ELDORADO DO SUL, RS, Latitude: -29.9957368, Longitude: -51.314251
+Município: GAURAMA, RS, Latitude: -27.5879319, Longitude: -52.0927073
+Município: ENCRUZILHADA DO SUL, RS, Latitude: -30.536175200000002, Longitude: -52.51560417047334
+Município: ENTRE IJUIS, RS, Latitude: -28.361628, Longitude: -54.2670019
+Município: ENTRE-IJUIS, RS, Latitude: -28.361628, Longitude: -54.2670019
+Município: EREBANGO, RS, Latitude: -27.8542708, Longitude: -52.3029274
+Município: ERECHIM, RS, Latitude: -27.6350709, Longitude: -52.2738654
+Município: ESTANCIA VELHA, RS, Latitude: -29.6529666, Longitude: -51.1719687
+Município: ESTEIO, RS, Latitude: -29.8511627, Longitude: -51.1778852
+Município: ESTRELA, RS, Latitude: -29.5010545, Longitude: -51.962226
+Município: FAZENDA VILANOVA, RS, Latitude: -29.588511, Longitude: -51.821714
+Município: FLORES DA CUNHA, RS, Latitude: -29.030129, Longitude: -51.1833349
+Município: FONTOURA XAVIER, RS, Latitude: -28.981655, Longitude: -52.344455
+Município: FORMIGUEIRO, RS, Latitude: -29.9982245, Longitude: -53.5029931
+Município: FORQUETINHA, RS, Latitude: -29.3818754, Longitude: -52.1008021
+Município: FREDERICO WESTPHALEN, RS, Latitude: -27.35711, Longitude: -53.3964117
+Município: GARIBALDI, RS, Latitude: -29.2562253, Longitude: -51.5269167
+Município: CACEQUI, RS, Latitude: -29.8838059, Longitude: -54.8273443
+Município: CACAPAVA DO SUL, RS, Latitude: -30.5113286, Longitude: -53.4916761
+Município: BUTIA, RS, Latitude: -30.1256795, Longitude: -51.9692224
+Município: ITAPUA DO OESTE, RO, Latitude: -9.128, Longitude: -63.123707762557075
+Município: JARU, RO, Latitude: -10.431826, Longitude: -62.478769
+Município: JI-PARANA, RO, Latitude: -10.8778148, Longitude: -61.9277854
+Município: MONTE NEGRO, RO, Latitude: -10.2603463, Longitude: -63.2986252
+Município: NOVA MAMORE, RO, Latitude: -10.4104864, Longitude: -65.3313761
+Município: OURO PRETO DO OESTE, RO, Latitude: -10.717914, Longitude: -62.2566611
+Município: PIMENTA BUENO, RO, Latitude: -11.6767868, Longitude: -61.1863902
+Município: PORTO VELHO, RO, Latitude: -8.7494525, Longitude: -63.8735438
+Município: PRESIDENTE MEDICI, RO, Latitude: -11.1686638, Longitude: -61.9057627
+Município: RIO CRESPO, RO, Latitude: -9.6876925, Longitude: -62.83609371666667
+Município: SAO FRANCISCO DO GUAPORE, RO, Latitude: -12.0609982, Longitude: -63.5668307
+Município: SAO MIGUEL DO GUAPORE, RO, Latitude: -11.6951466, Longitude: -62.7195739
+Município: SERINGUEIRAS, RO, Latitude: -11.7715738, Longitude: -63.0346835
+Município: THEOBROMA, RO, Latitude: -10.246489, Longitude: -62.3493803
+Município: VILA NOVA DO MAMORE, RO, Latitude: -10.3883726, Longitude: -65.3814168
+Município: VILHENA, RO, Latitude: -12.7368536, Longitude: -60.1465555
+Município: ITAPUÃ DO OESTE, RO, Latitude: -9.128, Longitude: -63.123707762557075
+Município: GUAJARA-MIRIM, RO, Latitude: -10.7804239, Longitude: -65.3327825
+Município: BOZANO, RS, Latitude: -28.3669953, Longitude: -53.7705165
+Município: CUJUBIM, RO, Latitude: -9.3687919, Longitude: -62.5832107
+Município: TENENTE LAURENTINO CRUZ, RN, Latitude: -6.1498142, Longitude: -36.7174889
+Município: TIBAU, RN, Latitude: -4.8349636, Longitude: -37.2542651
+Município: TIMBAUBA DOS BATISTAS, RN, Latitude: -6.4634028, Longitude: -37.2696374
+Município: TOUROS, RN, Latitude: -5.1998625, Longitude: -35.4595051
+Município: TRIUNFO POTIGUAR, RN, Latitude: -5.866913, Longitude: -37.1857379
+Município: UPANEMA, RN, Latitude: -5.6431701, Longitude: -37.2625341
+Município: ALTO PARAISO, RO, Latitude: -9.725454899999999, Longitude: -63.31150062807788
+Município: ALVORADA DOESTE, RO, Latitude: None, Longitude: None
+Município: ARIQUEMES, RO, Latitude: -9.9076522, Longitude: -63.033069
+Município: CACAULANDIA, RO, Latitude: -10.3380043, Longitude: -62.9007231
+Município: CACOAL, RO, Latitude: -11.4333, Longitude: -61.4420502
+Município: CANDEIAS DO JAMARI, RO, Latitude: -8.7949939, Longitude: -63.7018851
+Município: CEREJEIRAS, RO, Latitude: -13.1924248, Longitude: -60.81924455857779
+Município: CHUPINGUAIA, RO, Latitude: -12.5528918, Longitude: -60.9027819
+Município: COLORADO DO OESTE, RO, Latitude: -13.12109915, Longitude: -60.54207007205348
+Município: AMAJARI, RR, Latitude: 3.6523869, Longitude: -61.4194315
+Município: BOA VISTA, RR, Latitude: 2.8208478, Longitude: -60.6719582
+Município: BONFIM, RR, Latitude: 3.3613818, Longitude: -59.8427241
+Município: CANTA, RR, Latitude: 2.60994, Longitude: -60.605827
+Município: BARAO, RS, Latitude: -29.372474, Longitude: -51.494908
+Município: BARAO DE COTEGIPE, RS, Latitude: -27.6214694, Longitude: -52.3765316
+Município: BARAO DO TRIUNFO, RS, Latitude: -30.3909877, Longitude: -51.7375349
+Município: BARRA DO QUARAI, RS, Latitude: -30.208947, Longitude: -57.5505128
+Município: BARRA DO RIBEIRO, RS, Latitude: -30.2930206, Longitude: -51.301437
+Município: BARRA FUNDA, RS, Latitude: -27.9230048, Longitude: -53.0401045
+Município: BARRACAO, RS, Latitude: -27.6722339, Longitude: -51.4583497
+Município: BENTO GONCALVES, RS, Latitude: -29.1654014, Longitude: -51.5197627
+Município: BOA VISTA DAS MISSOES, RS, Latitude: -27.6677983, Longitude: -53.3127622
+Município: BOA VISTA DO BURICA, RS, Latitude: -27.6687782, Longitude: -54.1111913
+Município: BOM JESUS, RS, Latitude: -28.6692723, Longitude: -50.4346894
+Município: BOM PRINCIPIO, RS, Latitude: -29.489788, Longitude: -51.3566782
+Município: BOM PROGRESSO, RS, Latitude: -27.5490948, Longitude: -53.8655601
+Município: BOM RETIRO DO SUL, RS, Latitude: -29.6000007, Longitude: -51.9359243
+Município: BOSSOROCA, RS, Latitude: -28.7278885, Longitude: -54.9120278
+Município: BAGE, RS, Latitude: -31.3314264, Longitude: -54.1062808
+Município: ARROIO GRANDE, RS, Latitude: -29.548078, Longitude: -52.0971166
+Município: ARROIO DOS RATOS, RS, Latitude: -30.0894524, Longitude: -51.7265541
+Município: RORAINOPOLIS, RR, Latitude: 0.9387308, Longitude: -60.4236464
+Município: CARACARAI, RR, Latitude: 1.827598, Longitude: -61.125389
+Município: CAROEBE, RR, Latitude: 0.8808696, Longitude: -59.6963796
+Município: IRACEMA, RR, Latitude: 2.1664742, Longitude: -61.0513048
+Município: MUCAJAI, RR, Latitude: 2.4486084, Longitude: -60.9199986
+Município: NORMANDIA, RR, Latitude: 3.8792356, Longitude: -59.6293367
+Município: PACARAIMA, RR, Latitude: 4.4787884, Longitude: -61.1389799
+Município: SAO JOAO DA BALIZA, RR, Latitude: 0.951659, Longitude: -59.913293
+Município: ARAMBARE, RS, Latitude: -30.9132252, Longitude: -51.4994625
+Município: SAO LUIZ, RR, Latitude: 1.0170607, Longitude: -60.0371719
+Município: ACEGUA, RS, Latitude: -31.8695131, Longitude: -54.1615593
+Município: AGUA SANTA, RS, Latitude: -28.1775297, Longitude: -52.0360304
+Município: ALEGRETE, RS, Latitude: -29.790166, Longitude: -55.794862
+Município: ALMIRANTE TAMANDARE DO SUL, RS, Latitude: -28.1141129, Longitude: -52.9134874
+Município: ANDRE DA ROCHA, RS, Latitude: -28.6309124, Longitude: -51.5733328
+Município: JULIO DE CASTILHOS, RS, Latitude: -29.2286575, Longitude: -53.6825217
+Município: LAGOA VERMELHA, RS, Latitude: -28.2087034, Longitude: -51.527499
+Município: LAJEADO, RS, Latitude: -29.4671522, Longitude: -51.9624046
+Município: SARANDI, RS, Latitude: -27.942, Longitude: -52.923085
+Município: SENTINELA DO SUL, RS, Latitude: -30.6118857, Longitude: -51.5817117
+Município: SERTAO, RS, Latitude: -27.9853815, Longitude: -52.257587
+Município: SERTAO SANTANA, RS, Latitude: -30.4617134, Longitude: -51.6041992
+Município: SETE DE SETEMBRO, RS, Latitude: -28.1297132, Longitude: -54.462746
+Município: SEVERIANO DE ALMEIDA, RS, Latitude: -27.4332178, Longitude: -52.1155068
+Município: SOLEDADE, RS, Latitude: -28.8272467, Longitude: -52.5109157
+Município: TABAI, RS, Latitude: -29.6877843, Longitude: -51.7180847
+Município: TAPEJARA, RS, Latitude: -28.069233, Longitude: -52.0117161
+Município: TAPES, RS, Latitude: -30.6747721, Longitude: -51.3986199
+Município: TAQUARI, RS, Latitude: -29.79433, Longitude: -51.865346
+Município: TAVARES, RS, Latitude: -31.287471, Longitude: -51.0897986
+Município: TERRA DE AREIA, RS, Latitude: -29.5789455, Longitude: -50.06336
+Município: TEUTONIA, RS, Latitude: -29.4514561, Longitude: -51.8087983
+Município: TIO HUGO, RS, Latitude: -28.5768433, Longitude: -52.5969066
+Município: TIRADENTES DO SUL, RS, Latitude: -27.3973624, Longitude: -54.0853785
+Município: SEBERI, RS, Latitude: -27.4828134, Longitude: -53.4013251
+Município: SAPUCAIA DO SUL, RS, Latitude: -29.8197019, Longitude: -51.1608722
+Município: SAO JOSE DO INHACORA, RS, Latitude: -27.725055, Longitude: -54.127462
+Município: SAO VICENTE DO SUL, RS, Latitude: -29.688161, Longitude: -54.682643
+Município: SAO JOSE DO OURO, RS, Latitude: -27.7736185, Longitude: -51.5947672
+Município: SAO JOSE DO SUL, RS, Latitude: -29.537476, Longitude: -51.4828905
+Município: SAO JOSE DOS AUSENTES, RS, Latitude: -28.747731, Longitude: -50.0645582
+Município: SAO LEOPOLDO, RS, Latitude: -29.7544405, Longitude: -51.1516497
+Município: SAO LOURENCO DO SUL, RS, Latitude: -31.3669286, Longitude: -51.9814839
+Município: SAO LUIZ GONZAGA, RS, Latitude: -28.4074546, Longitude: -54.9609081
+Município: SAO MARCOS, RS, Latitude: -29.515627, Longitude: -56.841496
+Município: SAO MARTINHO, RS, Latitude: -27.7075144, Longitude: -53.9663489
+Município: SAO MIGUEL DAS MISSOES, RS, Latitude: -28.5451471, Longitude: -54.5469209
+Município: SAO PAULO DAS MISSOES, RS, Latitude: -28.0225895, Longitude: -54.936466
+Município: SAO PEDRO DA SERRA, RS, Latitude: -29.4195585, Longitude: -51.5142114
+Município: SAO PEDRO DAS MISSOES, RS, Latitude: -27.7729041, Longitude: -53.2478857
+Município: SAO PEDRO DO BUTIA, RS, Latitude: -28.12425, Longitude: -54.892603
+Município: SAO PEDRO DO SUL, RS, Latitude: -29.6152729, Longitude: -54.1790311
+Município: SAO SEPE, RS, Latitude: -30.167219, Longitude: -53.5690914
+Município: TORRES, RS, Latitude: -29.3373663, Longitude: -49.7299648
+Município: TRES ARROIOS, RS, Latitude: -27.4995057, Longitude: -52.149354
+Município: TRES CACHOEIRAS, RS, Latitude: -29.4521243, Longitude: -49.9190608
+Município: TRES DE MAIO, RS, Latitude: -27.7799415, Longitude: -54.2356626
+Município: AGUAS MORNAS, SC, Latitude: -27.696316, Longitude: -48.8247831
+Município: ALFREDO WAGNER, SC, Latitude: -27.6961513, Longitude: -49.3326734
+Município: ANCHIETA, SC, Latitude: -26.5350527, Longitude: -53.3293938
+Município: APIUNA, SC, Latitude: -27.0374658, Longitude: -49.3885037
+Município: ARAQUARI, SC, Latitude: -26.3703324, Longitude: -48.7210994
+Município: ARARANGUA, SC, Latitude: -28.9348832, Longitude: -49.4858389
+Município: ASCURRA, SC, Latitude: -26.9569975, Longitude: -49.3767752
+Município: BALNEARIO BARRA DO SUL, SC, Latitude: -26.459842, Longitude: -48.6061471
+Município: BALNEARIO CAMBORIU, SC, Latitude: -26.9924395, Longitude: -48.6339782
+Município: BALNEARIO PICARRAS, SC, Latitude: -26.7638889, Longitude: -48.6716667
+Município: BARRA DO SUL, SC, Latitude: -26.6526364, Longitude: -53.4419581
+Município: BARRA VELHA, SC, Latitude: -26.6338203, Longitude: -48.6835001
+Município: BELA VISTA DO TOLDO, SC, Latitude: -26.274625, Longitude: -50.466354
+Município: BIGUACU, SC, Latitude: -27.4961277, Longitude: -48.6542432
+Município: BLUMENAU, SC, Latitude: -26.9195567, Longitude: -49.0658025
+Município: AGUA DOCE, SC, Latitude: -26.9986047, Longitude: -51.5529306
+Município: AGRONOMICA, SC, Latitude: -27.2660744, Longitude: -49.7104753
+Município: XANGRI-LA, RS, Latitude: -29.8039422, Longitude: -50.0413748
+Município: UNISTALDA, RS, Latitude: -29.0476115, Longitude: -55.1503792
+Município: TRES FORQUILHAS, RS, Latitude: -29.5375482, Longitude: -50.0650535
+Município: TRES PASSOS, RS, Latitude: -27.4556106, Longitude: -53.9294399
+Município: TRIUNFO, RS, Latitude: -29.9407972, Longitude: -51.7191859
+Município: TUPANCI DO SUL, RS, Latitude: -27.9239665, Longitude: -51.5377991
+Município: TUPANCIRETA, RS, Latitude: -29.0798756, Longitude: -53.8386668
+Município: TURUCU, RS, Latitude: -31.4191603, Longitude: -52.1765159
+Município: URUGUAIANA, RS, Latitude: -29.7560726, Longitude: -57.0867546
+Município: VITORIA DAS MISSOES, RS, Latitude: -28.3525794, Longitude: -54.4995706
+Município: VACARIA, RS, Latitude: -28.5102901, Longitude: -50.9356044
+Município: VERANOPOLIS, RS, Latitude: -28.9351293, Longitude: -51.5516741
+Município: VIAMAO, RS, Latitude: -30.0819338, Longitude: -51.0261927
+Município: VICTOR GRAEFF, RS, Latitude: -28.563163, Longitude: -52.749535
+Município: VILA FLORES, RS, Latitude: -28.8644244, Longitude: -51.5506499
+Município: VILA NOVA DO SUL, RS, Latitude: -30.343232, Longitude: -53.8833913
+Município: SAO JOSE DO NORTE, RS, Latitude: -32.0145182, Longitude: -52.0406082
+Município: SAO JOSE DO HERVAL, RS, Latitude: -29.0448214, Longitude: -52.2948783
+Município: LAJEADO DO BUGRE, RS, Latitude: -27.6903262, Longitude: -53.1811907
+Município: NOVA ESPERANCA DO SUL, RS, Latitude: -29.4102156, Longitude: -54.8287783
+Município: NOVA PRATA, RS, Latitude: -28.7849383, Longitude: -51.6091999
+Município: NOVA SANTA RITA, RS, Latitude: -29.8489972, Longitude: -51.2764275
+Município: NOVO CABRAIS, RS, Latitude: -29.7347439, Longitude: -52.9499851
+Município: NOVO HAMBURGO, RS, Latitude: -29.6905705, Longitude: -51.1429035
+Município: OSORIO, RS, Latitude: -29.8890733, Longitude: -50.2740498
+Município: PALMARES DO SUL, RS, Latitude: -30.2580247, Longitude: -50.5097954
+Município: PALMEIRA DAS MISSOES, RS, Latitude: -27.9010519, Longitude: -53.3135927
+Município: PANAMBI, RS, Latitude: -28.2898542, Longitude: -53.501822
+Município: PANTANO GRANDE, RS, Latitude: -30.1907942, Longitude: -52.3721771
+Município: PARAISO DO SUL, RS, Latitude: -29.7311548, Longitude: -53.1777338
+Município: PASSO FUNDO, RS, Latitude: -28.2550598, Longitude: -52.3966606
+Município: PAULO BENTO, RS, Latitude: -27.7034385, Longitude: -52.4220174
+Município: PAVERAMA, RS, Latitude: -29.5521033, Longitude: -51.7343769
+Município: PEDRO OSORIO, RS, Latitude: -31.861921, Longitude: -52.8219388
+Município: PEJUCARA, RS, Latitude: -28.4217646, Longitude: -53.6554254
+Município: NOVA PETROPOLIS, RS, Latitude: -29.3759836, Longitude: -51.1123342
+Município: MULITERNO, RS, Latitude: -28.3295989, Longitude: -51.7682438
+Município: SAO JOSE DAS MISSOES, RS, Latitude: -27.7783652, Longitude: -53.1185847
+Município: MUITOS CAPOES, RS, Latitude: -28.3162856, Longitude: -51.1836226
+Município: LAVRAS DO SUL, RS, Latitude: -30.8118057, Longitude: -53.8982856
+Município: MACAMBARA, RS, Latitude: -29.144485, Longitude: -56.067444
+Município: MAQUINE, RS, Latitude: -29.6756372, Longitude: -50.2056317
+Município: MARCELINO RAMOS, RS, Latitude: -27.4622708, Longitude: -51.9081009
+Município: MARIANA PIMENTEL, RS, Latitude: -30.3536856, Longitude: -51.5832775
+Município: MARQUES DE SOUZA, RS, Latitude: -29.3275642, Longitude: -52.0961801
+Município: MATA, RS, Latitude: -29.5637643, Longitude: -54.4590898
+Município: MATO CASTELHANO, RS, Latitude: -28.2782729, Longitude: -52.1948111
+Município: MINAS DO LEAO, RS, Latitude: -30.1334499, Longitude: -52.0455962
+Município: MONTE ALEGRE DOS CAMPOS, RS, Latitude: -28.6840498, Longitude: -50.7820322
+Município: MONTENEGRO, RS, Latitude: -29.6826112, Longitude: -51.4687455
+Município: MORMACO, RS, Latitude: -28.6935499, Longitude: -52.6925978
+Município: MORRO REDONDO, RS, Latitude: -31.5921148, Longitude: -52.6257669
+Município: MORRO REUTER, RS, Latitude: -29.5389519, Longitude: -51.0818864
+Município: MOSTARDAS, RS, Latitude: -31.10538, Longitude: -50.916692
+Município: PELOTAS, RS, Latitude: -31.7699736, Longitude: -52.3410161
+Município: PICADA CAFE, RS, Latitude: -29.446421, Longitude: -51.136725
+Município: PINHEIRO MACHADO, RS, Latitude: -31.5792646, Longitude: -53.3822191
+Município: PIRATINI, RS, Latitude: -31.448451, Longitude: -53.1039931
+Município: SANTA ROSA, RS, Latitude: -27.8643546, Longitude: -54.4779287
+Município: SANTA VITORIA DO PALMAR, RS, Latitude: -33.5198333, Longitude: -53.3693967
+Município: SANTANA DA BOA VISTA, RS, Latitude: -30.8736867, Longitude: -53.1148304
+Município: SANTANA DO LIVRAMENTO, RS, Latitude: -30.8894097, Longitude: -55.5317694
+Município: SANTIAGO, RS, Latitude: -29.189675, Longitude: -54.866624
+Município: SANTO ANGELO, RS, Latitude: -28.3000481, Longitude: -54.2669971
+Município: SANTO ANTONIO DA PATRULHA, RS, Latitude: -29.826768, Longitude: -50.517489
+Município: SANTO ANTONIO DAS MISSOES, RS, Latitude: -28.5117897, Longitude: -55.2290047
+Município: SANTO ANTONIO DO PLANALTO, RS, Latitude: -28.3991804, Longitude: -52.6910319
+Município: SANTO AUGUSTO, RS, Latitude: -27.852577, Longitude: -53.777605
+Município: SANTO CRISTO, RS, Latitude: -27.826259, Longitude: -54.661963
+Município: SAO BORJA, RS, Latitude: -28.6592237, Longitude: -56.0044295
+Município: SAO FRANCISCO DE PAULA, RS, Latitude: -29.448454, Longitude: -50.5833027
+Município: SAO GABRIEL, RS, Latitude: -30.334214, Longitude: -54.3227149
+Município: SAO JERONIMO, RS, Latitude: -29.959642, Longitude: -51.7238192
+Município: SANTA MARIA, RS, Latitude: -29.6860512, Longitude: -53.8069214
+Município: SANTA MARGARIDA DO SUL, RS, Latitude: -30.339117, Longitude: -54.0856735
+Município: SANTA CRUZ DO SUL, RS, Latitude: -29.7141869, Longitude: -52.4285914
+Município: RIO PARDO, RS, Latitude: -29.9820554, Longitude: -52.3702447
+Município: PORTO ALEGRE, RS, Latitude: -30.0324999, Longitude: -51.2303767
+Município: PORTO XAVIER, RS, Latitude: -27.9061459, Longitude: -55.1395757
+Município: POUSO NOVO, RS, Latitude: -29.1695872, Longitude: -52.2085122
+Município: QUARAI, RS, Latitude: -30.3818093, Longitude: -56.4526576
+Município: QUATRO IRMAOS, RS, Latitude: -27.8229301, Longitude: -52.4427548
+Município: RIO GRANDE, RS, Latitude: -32.0334252, Longitude: -52.0991297
+Município: ROCA SALES, RS, Latitude: -29.2872555, Longitude: -51.8724318
+Município: SANTA BARBARA DO SUL, RS, Latitude: -28.3654722, Longitude: -53.2510995
+Município: ROQUE GONZALES, RS, Latitude: -28.1324578, Longitude: -55.0263416
+Município: ROSARIO DO SUL, RS, Latitude: -30.2527151, Longitude: -54.9179382
+Município: SAGRADA FAMILIA, RS, Latitude: -27.7085454, Longitude: -53.1364113
+Município: SALDANHA MARINHO, RS, Latitude: -28.3966396, Longitude: -53.0952929
+Município: SALVADOR DAS MISSOES, RS, Latitude: -28.1232686, Longitude: -54.8354107
+Município: SALVADOR DO SUL, RS, Latitude: -29.4395698, Longitude: -51.5103295
+Município: CATINGUEIRA, PB, Latitude: -7.120081, Longitude: -37.60638
+Município: CAPIM, PB, Latitude: -6.9174091, Longitude: -35.1720326
+Município: CAMPINA GRANDE, PB, Latitude: -7.2246743, Longitude: -35.8771292
+Município: SAO GONCALO DO AMARANTE, CE, Latitude: -3.6099755, Longitude: -38.9687182
+Município: SAO LUIS DO CURU, CE, Latitude: -3.672399, Longitude: -39.2364881
+Município: SENADOR POMPEU, CE, Latitude: -5.5874386, Longitude: -39.3730901
+Município: SOBRAL, CE, Latitude: -3.6879135, Longitude: -40.3456372
+Município: SOLONOPOLE, CE, Latitude: -5.7329092, Longitude: -39.0098669
+Município: TABULEIRO DO NORTE, CE, Latitude: -5.2440865, Longitude: -38.1284605
+Município: TAUA, CE, Latitude: -6.0031372, Longitude: -40.2947268
+Município: TIANGUA, CE, Latitude: -3.7307332, Longitude: -41.0004019
+Município: TURURU, CE, Latitude: -3.5985489, Longitude: -39.4358101
+Município: UBAJARA, CE, Latitude: -3.8534468, Longitude: -40.9185642
+Município: UMARI, CE, Latitude: -6.6465102, Longitude: -38.6995155
+Município: UMIRIM, CE, Latitude: -3.6777738, Longitude: -39.348725
+Município: URUBURETAMA, CE, Latitude: -3.6235302, Longitude: -39.5050697
+Município: VARZEA ALEGRE, CE, Latitude: -6.7936089, Longitude: -39.2989333
+Município: BRASILIA, DF, Latitude: -15.7934036, Longitude: -47.8823172
+Município: AFONSO CLAUDIO, ES, Latitude: -20.0744817, Longitude: -41.1251335
+Município: SAO JOAO DO JAGUARIBE, CE, Latitude: -5.2719441, Longitude: -38.271993
+Município: RUSSAS, CE, Latitude: -4.9354279, Longitude: -37.9783838
+Município: ALFREDO CHAVES, ES, Latitude: -20.624970400000002, Longitude: -40.75006690147988
+Município: PEREIRO, CE, Latitude: -6.046269, Longitude: -38.4604192
+Município: MADALENA, CE, Latitude: -4.8542961, Longitude: -39.5766436
+Município: MARACANAU, CE, Latitude: -3.8779438, Longitude: -38.6247697
+Município: MARANGUAPE, CE, Latitude: -3.8922967, Longitude: -38.6835427
+Município: MARCO, CE, Latitude: -3.1221945, Longitude: -40.1514585
+Município: MILAGRES, CE, Latitude: -7.3106846, Longitude: -38.9447146
+Município: MILHA, CE, Latitude: -5.6834601, Longitude: -39.1970885
+Município: MORADA NOVA, CE, Latitude: -5.1076699, Longitude: -38.3727852
+Município: MORRINHOS, CE, Latitude: -3.2275749, Longitude: -40.1280783
+Município: OCARA, CE, Latitude: -4.4910653, Longitude: -38.5964829
+Município: PACAJUS, CE, Latitude: -4.171073, Longitude: -38.464988
+Município: PACATUBA, CE, Latitude: -3.9841, Longitude: -38.6180383
+Município: PALHANO, CE, Latitude: -4.7449408, Longitude: -37.9608401
+Município: PARAMBU, CE, Latitude: -6.2123856, Longitude: -40.6954982
+Município: PEDRA BRANCA, CE, Latitude: -5.455674, Longitude: -39.7166286
+Município: PENAFORTE, CE, Latitude: -7.8288372, Longitude: -39.0751908
+Município: ALEGRE, ES, Latitude: -20.7625787, Longitude: -41.5318886
+Município: ANCHIETA, ES, Latitude: -20.8057672, Longitude: -40.6454564
+Município: RIO NOVO DO SUL, ES, Latitude: -20.8641487, Longitude: -40.9384378
+Município: ICONHA, ES, Latitude: -20.7935003, Longitude: -40.8108852
+Município: ITAPEMIRIM, ES, Latitude: -21.0105534, Longitude: -40.8351239
+Município: IUNA, ES, Latitude: -20.3427029, Longitude: -41.5360386
+Município: JAGUARE, ES, Latitude: -18.9058375, Longitude: -40.0710964
+Município: JERONIMO MONTEIRO, ES, Latitude: -20.7882214, Longitude: -41.3921464
+Município: JOAO NEIVA, ES, Latitude: -19.7570307, Longitude: -40.3856633
+Município: LINHARES, ES, Latitude: -19.3816944, Longitude: -40.0612213
+Município: MARECHAL FLORIANO, ES, Latitude: -20.4124966, Longitude: -40.6749858
+Município: MARILANDIA, ES, Latitude: -19.4117824, Longitude: -40.5442916
+Município: MIMOSO DO SUL, ES, Latitude: -21.0628724, Longitude: -41.3640478
+Município: MUNIZ FREIRE, ES, Latitude: -20.4636068, Longitude: -41.4137007
+Município: MUQUI, ES, Latitude: -20.9509368, Longitude: -41.3444285
+Município: PEDRO CANARIO, ES, Latitude: -18.2998272, Longitude: -39.9558844
+Município: PINHEIROS, ES, Latitude: -18.4127047, Longitude: -40.217534
+Município: PIUMA, ES, Latitude: -20.8375312, Longitude: -40.7271589
+Município: PRESIDENTE KENNEDY, ES, Latitude: -21.1000137, Longitude: -41.0436113
+Município: IRUPI, ES, Latitude: -20.346479, Longitude: -41.6392581
+Município: IBIRACU, ES, Latitude: -19.8309496, Longitude: -40.3686594
+Município: APIACA, ES, Latitude: -21.152272, Longitude: -41.569297
+Município: IBATIBA, ES, Latitude: -20.2342792, Longitude: -41.5082981
+Município: ARACRUZ, ES, Latitude: -19.8245218, Longitude: -40.2735025
+Município: ATILIO VIVACQUA, ES, Latitude: -20.9139369, Longitude: -41.1947519
+Município: BAIXO GUANDU, ES, Latitude: -19.5138322, Longitude: -41.0182089
+Município: BREJETUBA, ES, Latitude: -20.1465817, Longitude: -41.2902303
+Município: CACHOEIRO DE ITAPEMIRIM, ES, Latitude: -20.848084, Longitude: -41.11129
+Município: CARIACICA, ES, Latitude: -20.263202, Longitude: -40.416549
+Município: CASTELO, ES, Latitude: -20.6034476, Longitude: -41.2033505
+Município: COLATINA, ES, Latitude: -19.5346732, Longitude: -40.6287836
+Município: CONCEICAO DA BARRA, ES, Latitude: -18.5841421, Longitude: -39.7371844
+Município: CONCEICAO DO CASTELO, ES, Latitude: -20.3601311, Longitude: -41.2470343
+Município: DOMINGOS MARTINS, ES, Latitude: -20.3646483, Longitude: -40.6585797
+Município: DORES DO RIO PRETO, ES, Latitude: -20.6907113, Longitude: -41.846385
+Município: FUNDAO, ES, Latitude: -19.9332174, Longitude: -40.4049674
+Município: GUACUI, ES, Latitude: -20.7726679, Longitude: -41.6750657
+Município: GUARAPARI, ES, Latitude: -20.6718755, Longitude: -40.4984617
+Município: LIMOEIRO DO NORTE, CE, Latitude: -5.1455607, Longitude: -38.0984936
+Município: LAVRAS DA MANGABEIRA, CE, Latitude: -6.7533331, Longitude: -38.96538686618186
+Município: JATI, CE, Latitude: -7.6894344, Longitude: -39.006074
+Município: UBATA, BA, Latitude: -14.212002, Longitude: -39.5245924
+Município: URUCUCA, BA, Latitude: -14.5913092, Longitude: -39.2862094
+Município: UTINGA, BA, Latitude: -12.0781018, Longitude: -41.090787
+Município: VALENCA, BA, Latitude: -13.3723582, Longitude: -39.0694243
+Município: VARZEDO, BA, Latitude: -12.9745346, Longitude: -39.3944723
+Município: VEREDA, BA, Latitude: -17.2247466, Longitude: -40.0856161
+Município: VITORIA DA CONQUISTA, BA, Latitude: -14.8567487, Longitude: -40.8414804
+Município: WAGNER, BA, Latitude: -12.2818593, Longitude: -41.1686734
+Município: WANDERLEY, BA, Latitude: -12.1208986, Longitude: -43.8905685
+Município: WENCESLAU GUIMARAES, BA, Latitude: -13.6866356, Longitude: -39.479122
+Município: ACARAPE, CE, Latitude: -4.2237866, Longitude: -38.7071663
+Município: ACARAU, CE, Latitude: -2.8869514, Longitude: -40.1194713
+Município: ALTO SANTO, CE, Latitude: -5.5190371, Longitude: -38.2719351
+Município: AMONTADA, CE, Latitude: -3.3634586, Longitude: -39.8284791
+Município: AQUIRAZ, CE, Latitude: -3.9063117, Longitude: -38.387504
+Município: ARACATI, CE, Latitude: -4.558259, Longitude: -37.767894
+Município: URANDI, BA, Latitude: -14.7680766, Longitude: -42.6573988
+Município: UBAITABA, BA, Latitude: -14.3117771, Longitude: -39.3226605
+Município: JAGUARUANA, CE, Latitude: -4.831508, Longitude: -37.780997
+Município: UBAIRA, BA, Latitude: -13.2616682, Longitude: -39.6612866
+Município: SEABRA, BA, Latitude: -12.4172071, Longitude: -41.772051
+Município: SENHOR DO BONFIM, BA, Latitude: -10.4602509, Longitude: -40.189151
+Município: SERRINHA, BA, Latitude: -11.66199, Longitude: -39.0034021
+Município: SIMOES FILHO, BA, Latitude: -12.7867839, Longitude: -38.4030365
+Município: SITIO DO QUINTO, BA, Latitude: -10.3675979, Longitude: -38.2041664
+Município: TABOCAS DO BREJO VELHO, BA, Latitude: -12.7020751, Longitude: -44.0091066
+Município: TANHACU, BA, Latitude: -14.019662, Longitude: -41.247271
+Município: TANQUINHO, BA, Latitude: -11.9747061, Longitude: -39.1057638
+Município: TEIXEIRA DE FREITAS, BA, Latitude: -17.5384774, Longitude: -39.7451701
+Município: TEODORO SAMPAIO, BA, Latitude: -12.3053855, Longitude: -38.6408979
+Município: TEOFILANDIA, BA, Latitude: -11.4891658, Longitude: -38.9997411
+Município: TEOLANDIA, BA, Latitude: -13.603575, Longitude: -39.4927143
+Município: TERRA NOVA, BA, Latitude: -12.4069929, Longitude: -38.6191596
+Município: TUCANO, BA, Latitude: -10.963517, Longitude: -38.785957
+Município: UAUA, BA, Latitude: -9.8384079, Longitude: -39.4793914
+Município: ARACOIABA, CE, Latitude: -4.3702577, Longitude: -38.8084313
+Município: AURORA, CE, Latitude: -6.9426019, Longitude: -38.9693765
+Município: BAIXIO, CE, Latitude: -6.7303544, Longitude: -38.7170095
+Município: BANABUIU, CE, Latitude: -5.3046404, Longitude: -38.919766
+Município: FRECHEIRINHA, CE, Latitude: -3.755572, Longitude: -40.818019
+Município: HORIZONTE, CE, Latitude: -4.0964618, Longitude: -38.4965574
+Município: IBARETAMA, CE, Latitude: -4.8194345, Longitude: -38.8208476
+Município: ICAPUI, CE, Latitude: -4.7158474, Longitude: -37.3535365
+Município: ICO, CE, Latitude: -6.4003992, Longitude: -38.8575946
+Município: INDEPENDENCIA, CE, Latitude: -5.3958538, Longitude: -40.3108896
+Município: IPAUMIRIM, CE, Latitude: -6.7883197, Longitude: -38.7172034
+Município: IRAUCUBA, CE, Latitude: -3.7466828, Longitude: -39.7840904
+Município: ITAITINGA, CE, Latitude: -3.965768, Longitude: -38.529763
+Município: ITAPAGE, CE, Latitude: -3.667868, Longitude: -39.591681
+Município: ITAPAJE, CE, Latitude: -3.6841324, Longitude: -39.5851265
+Município: ITAPIPOCA, CE, Latitude: -3.499329, Longitude: -39.583571
+Município: ITATIRA, CE, Latitude: -4.5305504, Longitude: -39.6210481
+Município: JAGUARIBARA, CE, Latitude: -5.454494, Longitude: -38.4679295
+Município: JAGUARIBE, CE, Latitude: -5.8854585, Longitude: -38.6212957
+Município: FORTALEZA, CE, Latitude: -3.7304512, Longitude: -38.5217989
+Município: FORQUILHA, CE, Latitude: -3.799447, Longitude: -40.263405
+Município: FARIAS BRITO, CE, Latitude: -6.9272823, Longitude: -39.5714222
+Município: CANINDE, CE, Latitude: -4.3547946, Longitude: -39.3108516
+Município: BARRO, CE, Latitude: -7.1713587, Longitude: -38.7742136
+Município: BEBERIBE, CE, Latitude: -4.1810469, Longitude: -38.1298101
+Município: BELA CRUZ, CE, Latitude: -3.0529129, Longitude: -40.167582
+Município: BOA VIAGEM, CE, Latitude: -5.1261877, Longitude: -39.7300055
+Município: BREJO SANTO, CE, Latitude: -7.4909841, Longitude: -38.9859152
+Município: CAMOCIM, CE, Latitude: -2.9009918, Longitude: -40.8427389
+Município: CARIDADE, CE, Latitude: -4.2316487, Longitude: -39.1946515
+Município: EUSEBIO, CE, Latitude: -3.8889838, Longitude: -38.4546585
+Município: CARIRE, CE, Latitude: -3.948584, Longitude: -40.476028
+Município: CASCAVEL, CE, Latitude: -4.129666, Longitude: -38.241178
+Município: CAUCAIA, CE, Latitude: -3.7300563, Longitude: -38.6593082
+Município: CHOROZINHO, CE, Latitude: -4.3010895, Longitude: -38.4976923
+Município: COREAU, CE, Latitude: -3.5519794, Longitude: -40.6528409
+Município: CROATA, CE, Latitude: -4.4156199, Longitude: -40.9048081
+Município: RIO BANANAL, ES, Latitude: -19.2614413, Longitude: -40.3353272
+Município: SANTA MARIA DE JETIBA, ES, Latitude: -20.025296, Longitude: -40.743931
+Município: CAMALAU, PB, Latitude: -7.885031, Longitude: -36.824191
+Município: SANTA FE DE GOIAS, GO, Latitude: -15.7705927, Longitude: -51.1018204
+Município: SANTA RITA DO ARAGUAIA, GO, Latitude: -17.3269099, Longitude: -53.2012361
+Município: SANTA RITA DO NOVO DESTINO, GO, Latitude: -15.1350719, Longitude: -49.1202541
+Município: SANTA ROSA DE GOIAS, GO, Latitude: -16.0839829, Longitude: -49.495326
+Município: SANTA TEREZA DE GOIAS, GO, Latitude: -13.713116, Longitude: -49.0164361
+Município: SANTO ANTONIO DA BARRA, GO, Latitude: -17.5584989, Longitude: -50.6345431
+Município: SANTO ANTONIO DE GOIAS, GO, Latitude: -16.4861723, Longitude: -49.3093885
+Município: SANTO ANTONIO DO DESCOBERTO, GO, Latitude: -15.9465415, Longitude: -48.2616527
+Município: SAO DOMINGOS, GO, Latitude: -13.3998769, Longitude: -46.3217961
+Município: SAO FRANCISCO DE GOIAS, GO, Latitude: -15.9334279, Longitude: -49.2608329
+Município: SAO LUIZ DO NORTE, GO, Latitude: -14.8620462, Longitude: -49.3320827
+Município: SAO MIGUEL DO ARAGUAIA, GO, Latitude: -13.2726442, Longitude: -50.1627219
+Município: SAO SIMAO, GO, Latitude: -18.9939882, Longitude: -50.5463828
+Município: SIMOLANDIA, GO, Latitude: -14.4733312, Longitude: -46.4832791
+Município: TERESINA DE GOIAS, GO, Latitude: -13.7789573, Longitude: -47.266894
+Município: TEREZOPOLIS DE GOIAS, GO, Latitude: -16.4837865, Longitude: -49.0949299
+Município: SANTA HELENA DE GOIAS, GO, Latitude: -17.8115199, Longitude: -50.5976641
+Município: RIO VERDE, GO, Latitude: -17.7921255, Longitude: -50.9191219
+Município: URUACU, GO, Latitude: -14.5244164, Longitude: -49.1510022
+Município: RIANAPOLIS, GO, Latitude: -15.4479209, Longitude: -49.5102051
+Município: PADRE BERNARDO, GO, Latitude: -15.1676411, Longitude: -48.2840561
+Município: PANAMA, GO, Latitude: -18.1755033, Longitude: -49.3523852
+Município: PARANAIGUARA, GO, Latitude: -18.9137048, Longitude: -50.6536307
+Município: PIRACANJUBA, GO, Latitude: -17.3020379, Longitude: -49.0170101
+Município: PIRANHAS, GO, Latitude: -16.4252491, Longitude: -51.8231427
+Município: PIRENOPOLIS, GO, Latitude: -15.8501619, Longitude: -48.957317
+Município: PLANALTINA, GO, Latitude: -15.4571536, Longitude: -47.6089024
+Município: PONTALINA, GO, Latitude: -17.5144331, Longitude: -49.4449688
+Município: PORANGATU, GO, Latitude: -13.444663, Longitude: -49.1423569
+Município: PORTEIRAO, GO, Latitude: -17.8139944, Longitude: -50.1653411
+Município: PORTELANDIA, GO, Latitude: -17.3573086, Longitude: -52.6777879
+Município: POSSE, GO, Latitude: -14.0835852, Longitude: -46.3563185
+Município: PROFESSOR JAMIL, GO, Latitude: -17.25316, Longitude: -49.2442452
+Município: QUIRINOPOLIS, GO, Latitude: -18.4471859, Longitude: -50.4546981
+Município: RIALMA, GO, Latitude: -15.3144819, Longitude: -49.5813991
+Município: TRINDADE, GO, Latitude: -16.6549924, Longitude: -49.4876203
+Município: VALPARAISO DE GOIAS, GO, Latitude: -16.0686394, Longitude: -47.9764907
+Município: SAO GABRIEL DA PALHA, ES, Latitude: -19.0148349, Longitude: -40.539464
+Município: BOA VISTA DO GURUPI, MA, Latitude: -1.7981168, Longitude: -46.3071882
+Município: BOM JESUS DAS SELVAS, MA, Latitude: -4.4878075, Longitude: -46.8526639
+Município: BOM LUGAR, MA, Latitude: -4.3728019, Longitude: -45.0366054
+Município: BURITI BRAVO, MA, Latitude: -5.8391884, Longitude: -43.8367876
+Município: BURITICUPU, MA, Latitude: -4.3227472, Longitude: -46.4516989
+Município: CAMPESTRE DO MARANHAO, MA, Latitude: -6.1729113, Longitude: -47.3640512
+Município: CAPINZAL DO NORTE, MA, Latitude: -4.7304006, Longitude: -44.3249063
+Município: CAROLINA, MA, Latitude: -7.3313437, Longitude: -47.4738762
+Município: CAXIAS, MA, Latitude: -4.8654201, Longitude: -43.353664
+Município: CHAPADINHA, MA, Latitude: -3.7416803, Longitude: -43.3548006
+Município: CIDELANDIA, MA, Latitude: -5.174655, Longitude: -47.7833531
+Município: CODO, MA, Latitude: -4.455623, Longitude: -43.892354
+Município: COLINAS, MA, Latitude: -6.0332631, Longitude: -44.2528542
+Município: DAVINOPOLIS, MA, Latitude: -5.5265775, Longitude: -47.3942217
+Município: DOM PEDRO, MA, Latitude: -5.0398278, Longitude: -44.4385724
+Município: ESTREITO, MA, Latitude: -6.5583016, Longitude: -47.4432212
+Município: BOM JARDIM, MA, Latitude: -3.54129, Longitude: -45.606004
+Município: BELA VISTA DO MARANHAO, MA, Latitude: -3.7416367, Longitude: -45.2514192
+Município: VARJAO, GO, Latitude: -17.045397, Longitude: -49.632599
+Município: BARREIRINHAS, MA, Latitude: -2.7541271, Longitude: -42.8259693
+Município: VILA BOA, GO, Latitude: -15.0357754, Longitude: -47.0561444
+Município: VILA PROPICIO, GO, Latitude: -15.4558431, Longitude: -48.8855024
+Município: ACAILANDIA, MA, Latitude: -4.9515026, Longitude: -47.500732
+Município: ALTO ALEGRE DO MARANHAO, MA, Latitude: -4.2055693, Longitude: -44.4525287
+Município: AMAPA DO MARANHAO, MA, Latitude: -1.6762114, Longitude: -46.0109669
+Município: ANAJATUBA, MA, Latitude: -3.26441, Longitude: -44.6179916
+Município: ARAGUANA, MA, Latitude: -2.9508403, Longitude: -45.6651986
+Município: ARAME, MA, Latitude: -4.8858769, Longitude: -46.0102484
+Município: ARARI, MA, Latitude: -3.4547602, Longitude: -44.7772723
+Município: AXIXA, MA, Latitude: -2.8379465, Longitude: -44.0561053
+Município: BACABAL, MA, Latitude: -4.2318132, Longitude: -44.781167
+Município: BACABEIRA, MA, Latitude: -2.9786744, Longitude: -44.3163504
+Município: BALSAS, MA, Latitude: -7.53214, Longitude: -46.037163
+Município: BARAO DE GRAJAU, MA, Latitude: -6.7542591, Longitude: -43.0263477
+Município: BARRA DO CORDA, MA, Latitude: -5.496823, Longitude: -45.248496
+Município: NOVA GLORIA, GO, Latitude: -15.1481798, Longitude: -49.577239
+Município: NIQUELANDIA, GO, Latitude: -14.4648655, Longitude: -48.4572244
+Município: MORRINHOS, GO, Latitude: -17.7333689, Longitude: -49.105908
+Município: AMARALINA, GO, Latitude: -13.9236199, Longitude: -49.2962411
+Município: APARECIDA DE GOIANIA, GO, Latitude: -16.8226769, Longitude: -49.2452546
+Município: APARECIDA DO RIO DOCE, GO, Latitude: -18.2980167, Longitude: -51.1491312
+Município: ARAGARCAS, GO, Latitude: -15.8957166, Longitude: -52.2514538
+Município: ARAGOIANIA, GO, Latitude: -16.9146388, Longitude: -49.4499148
+Município: BARRO ALTO, GO, Latitude: -14.9696025, Longitude: -48.9190985
+Município: BOM JARDIM DE GOIAS, GO, Latitude: -16.2062659, Longitude: -52.172793
+Município: BOM JESUS DE GOIAS, GO, Latitude: -18.2174587, Longitude: -49.739721
+Município: BONOPOLIS, GO, Latitude: -13.649331, Longitude: -49.8329113
+Município: BURITI ALEGRE, GO, Latitude: -18.1377879, Longitude: -49.0404411
+Município: CABECEIRAS, GO, Latitude: -15.7995459, Longitude: -46.9264991
+Município: CACHOEIRA ALTA, GO, Latitude: -18.7618269, Longitude: -50.9432431
+Município: CACHOEIRA DOURADA, GO, Latitude: -18.4934204, Longitude: -49.481062
+Município: CACU, GO, Latitude: -18.5637222, Longitude: -51.1369685
+Município: CAIAPONIA, GO, Latitude: -16.9538779, Longitude: -51.8090761
+Município: CAMPINORTE, GO, Latitude: -14.3104574, Longitude: -49.1552173
+Município: ANAPOLIS, GO, Latitude: -16.3332828, Longitude: -48.9525756
+Município: ALVORADA DO NORTE, GO, Latitude: -14.483911, Longitude: -46.4959897
+Município: MONTES CLAROS DE GOIAS, GO, Latitude: -16.0059459, Longitude: -51.3978781
+Município: ALTO HORIZONTE, GO, Latitude: -14.1954948, Longitude: -49.3366993
+Município: SAO MATEUS, ES, Latitude: -18.7146049, Longitude: -39.8539499
+Município: SERRA, ES, Latitude: -20.1252961, Longitude: -40.3064477
+Município: SOORETAMA, ES, Latitude: -19.1918129, Longitude: -40.1037067
+Município: VARGEM ALTA, ES, Latitude: -20.6742303, Longitude: -41.010615
+Município: VENDA NOVA DO IMIGRANTE, ES, Latitude: -20.3325787, Longitude: -41.1295842
+Município: VIANA, ES, Latitude: -20.3914471, Longitude: -40.4966587
+Município: VILA PAVAO, ES, Latitude: -18.6191731, Longitude: -40.6043622
+Município: VILA VELHA, ES, Latitude: -20.3297037, Longitude: -40.2920174
+Município: VITORIA, ES, Latitude: -20.3200917, Longitude: -40.3376682
+Município: ABADIA DE GOIAS, GO, Latitude: -16.7572644, Longitude: -49.4412205
+Município: ABADIANIA, GO, Latitude: -16.1940946, Longitude: -48.7067767
+Município: ACREUNA, GO, Latitude: -17.3959899, Longitude: -50.3749031
+Município: AGUA FRIA DE GOIAS, GO, Latitude: -14.9803368, Longitude: -47.7824312
+Município: AGUAS LINDAS DE GOIAS, GO, Latitude: -15.7392283, Longitude: -48.2793357
+Município: ALEXANIA, GO, Latitude: -16.0834049, Longitude: -48.5077803
+Município: CAMPO ALEGRE DE GOIAS, GO, Latitude: -17.6337896, Longitude: -47.779291
+Município: CASTELANDIA, GO, Latitude: -18.089062, Longitude: -50.220798
+Município: CATALAO, GO, Latitude: -18.1702546, Longitude: -47.9447082
+Município: CERES, GO, Latitude: -15.3103568, Longitude: -49.6032054
+Município: INDIARA, GO, Latitude: -17.1387389, Longitude: -49.9861621
+Município: IPAMERI, GO, Latitude: -17.7215439, Longitude: -48.158118
+Município: ITABERAI, GO, Latitude: -16.0205509, Longitude: -49.8060341
+Município: ITAGUARI, GO, Latitude: -15.9180439, Longitude: -49.6070841
+Município: ITAPACI, GO, Latitude: -14.9522349, Longitude: -49.5511221
+Município: ITAPIRAPUA, GO, Latitude: -15.8204999, Longitude: -50.6094341
+Município: ITUMBIARA, GO, Latitude: -18.4135862, Longitude: -49.2172596
+Município: JANDAIA, GO, Latitude: -17.0479665, Longitude: -50.1475485
+Município: JARAGUA, GO, Latitude: -15.7528866, Longitude: -49.3344033
+Município: JATAI, GO, Latitude: -17.8783829, Longitude: -51.7204241
+Município: JUSSARA, GO, Latitude: -15.874813, Longitude: -50.867431
+Município: LUZIANIA, GO, Latitude: -16.2535456, Longitude: -47.9500276
+Município: MARA ROSA, GO, Latitude: -14.0148159, Longitude: -49.1776521
+Município: MAURILANDIA, GO, Latitude: -17.9718589, Longitude: -50.3388361
+Município: MINEIROS, GO, Latitude: -17.5653879, Longitude: -52.5536721
+Município: HIDROLINA, GO, Latitude: -14.722224, Longitude: -49.4694448
+Município: HIDROLANDIA, GO, Latitude: -16.9671342, Longitude: -49.22826
+Município: GUARANI DE GOIAS, GO, Latitude: -13.9393794, Longitude: -46.4781536
+Município: ESTRELA DO NORTE, GO, Latitude: -13.8687665, Longitude: -49.0690546
+Município: CEZARINA, GO, Latitude: -16.9718289, Longitude: -49.775814
+Município: CIDADE OCIDENTAL, GO, Latitude: -16.1000758, Longitude: -47.9445014
+Município: COCALZINHO DE GOIAS, GO, Latitude: -15.7762854, Longitude: -48.7730427
+Município: CORUMBA DE GOIAS, GO, Latitude: -15.9268355, Longitude: -48.8074659
+Município: CRISTALINA, GO, Latitude: -16.7680599, Longitude: -47.6133427
+Município: CUMARI, GO, Latitude: -18.2644369, Longitude: -48.1511341
+Município: FLORES DE GOIAS, GO, Latitude: -14.4580291, Longitude: -47.0395396
+Município: GUAPO, GO, Latitude: -16.8308602, Longitude: -49.5343721
+Município: FORMOSA, GO, Latitude: -15.5492443, Longitude: -47.3301212
+Município: GOIANAPOLIS, GO, Latitude: -16.5071038, Longitude: -49.0213217
+Município: GOIANESIA, GO, Latitude: -15.3118269, Longitude: -49.1162001
+Município: GOIANIA, GO, Latitude: -16.680882, Longitude: -49.2532691
+Município: GOIAS, GO, Latitude: -15.9408902, Longitude: -50.1465398
+Município: GOIATUBA, GO, Latitude: -18.0154577, Longitude: -49.3640591
+Município: SATIRO DIAS, BA, Latitude: -11.6033746, Longitude: -38.581456
+Município: SAPEACU, BA, Latitude: -12.7294438, Longitude: -39.1862263
+Município: SAO SEBASTIAO DO PASSE, BA, Latitude: -12.5177926, Longitude: -38.4921566
+Município: TAPAUA, AM, Latitude: -5.6232283, Longitude: -63.1879157
+Município: CALCOENE, AP, Latitude: 2.4981757, Longitude: -50.9539503
+Município: FERREIRA GOMES, AP, Latitude: 0.8580838, Longitude: -51.1814
+Município: LARANJAL DO JARI, AP, Latitude: -0.8419994, Longitude: -52.516
+Município: MACAPA, AP, Latitude: 0.0401529, Longitude: -51.0569588
+Município: MAZAGAO, AP, Latitude: -0.1160565, Longitude: -51.2861759
+Município: OIAPOQUE, AP, Latitude: 3.8432128, Longitude: -51.8350798
+Município: PEDRA BRANCA DO AMAPARI, AP, Latitude: 0.7771833, Longitude: -51.9523218
+Município: PORTO GRANDE, AP, Latitude: 0.7028371, Longitude: -51.4041605
+Município: PRACUUBA, AP, Latitude: 1.7429041, Longitude: -50.7848832
+Município: SANTANA, AP, Latitude: -0.0307068, Longitude: -51.1789666
+Município: SERRA DO NAVIO, AP, Latitude: 1.6424398999999998, Longitude: -52.27026174349028
+Município: TARTARUGALZINHO, AP, Latitude: 1.5052391, Longitude: -50.9123126
+Município: ABARE, BA, Latitude: -8.7239913, Longitude: -39.1139689
+Município: AIQUARA, BA, Latitude: -14.126918, Longitude: -39.8887574
+Município: ALAGOINHAS, BA, Latitude: -12.133526, Longitude: -38.420772
+Município: AMAPA, AP, Latitude: 2.0533333, Longitude: -50.7930556
+Município: RIO PRETO DA EVA, AM, Latitude: -2.6990647, Longitude: -59.7012494
+Município: AMARGOSA, BA, Latitude: -13.0302189, Longitude: -39.6040692
+Município: PRESIDENTE FIGUEIREDO, AM, Latitude: -2.0486359, Longitude: -60.0236658
+Município: TAQUARANA, AL, Latitude: -9.64529, Longitude: -36.492844
+Município: TEOTONIO VILELA, AL, Latitude: -9.9062736, Longitude: -36.3571341
+Município: UNIAO DOS PALMARES, AL, Latitude: -9.1576807, Longitude: -36.0342251
+Município: VICOSA, AL, Latitude: -9.3728032, Longitude: -36.2432636
+Município: APUI, AM, Latitude: -7.1940195, Longitude: -59.8830192
+Município: BERURI, AM, Latitude: -3.9007135, Longitude: -61.3717319
+Município: BOCA DO ACRE, AM, Latitude: -8.7553487, Longitude: -67.3930873
+Município: CANUTAMA, AM, Latitude: -6.5330019, Longitude: -64.3834966
+Município: CAREIRO, AM, Latitude: -3.8185277, Longitude: -60.3616505
+Município: CAREIRO DA VARZEA, AM, Latitude: -3.197024, Longitude: -59.8259104
+Município: HUMAITA, AM, Latitude: -7.5099404, Longitude: -63.0248674
+Município: LABREA, AM, Latitude: -7.2613683, Longitude: -64.7924505
+Município: MANAUS, AM, Latitude: -3.1316333, Longitude: -59.9825041
+Município: MANICORE, AM, Latitude: -5.804618, Longitude: -61.289483
+Município: NOVO ARIPUANA, AM, Latitude: -5.125929, Longitude: -60.373179
+Município: ALCOBACA, BA, Latitude: -17.5215875, Longitude: -39.1965474
+Município: AMELIA RODRIGUES, BA, Latitude: -12.4015388, Longitude: -38.7516971
+Município: SAO MIGUEL DAS MATAS, BA, Latitude: -13.047749, Longitude: -39.4554608
+Município: BOA VISTA DO TUPIM, BA, Latitude: -12.6605988, Longitude: -40.6083594
+Município: BONINAL, BA, Latitude: -12.7095183, Longitude: -41.8299984
+Município: BREJOES, BA, Latitude: -13.1033754, Longitude: -39.7909837
+Município: BROTAS DE MACAUBAS, BA, Latitude: -12.0019007, Longitude: -42.6257506
+Município: BRUMADO, BA, Latitude: -14.2950215, Longitude: -41.659239732941316
+Município: BUERAREMA, BA, Latitude: -14.9571177, Longitude: -39.3008035
+Município: CACHOEIRA, BA, Latitude: -12.5998256, Longitude: -38.9665918
+Município: CAEM, BA, Latitude: -11.0909658, Longitude: -40.4322187
+Município: CAETITE, BA, Latitude: -14.0691776, Longitude: -42.4852428
+Município: CALDEIRAO GRANDE, BA, Latitude: -11.0208483, Longitude: -40.3041387
+Município: CAMACAN, BA, Latitude: -15.4166631, Longitude: -39.4930088
+Município: CAMACARI, BA, Latitude: -12.6998188, Longitude: -38.3260762
+Município: CAMAMU, BA, Latitude: -13.9438142, Longitude: -39.1060917
+Município: CANDEAL, BA, Latitude: -11.8053441, Longitude: -39.1206515
+Município: CANDEIAS, BA, Latitude: -12.6693806, Longitude: -38.5406462
+Município: CANDIDO SALES, BA, Latitude: -15.5037649, Longitude: -41.2391141
+Município: BOM JESUS DA LAPA, BA, Latitude: -13.2498754, Longitude: -43.4101019
+Município: BOA NOVA, BA, Latitude: -14.365907, Longitude: -40.2063056
+Município: ANDARAI, BA, Latitude: -12.8059674, Longitude: -41.3322919
+Município: BELMONTE, BA, Latitude: -15.8630837, Longitude: -38.8792845
+Município: ANGICAL, BA, Latitude: -12.005623, Longitude: -44.7000236
+Município: ANTAS, BA, Latitude: -10.4114649, Longitude: -38.3308815
+Município: ANTONIO CARDOSO, BA, Latitude: -12.4363122, Longitude: -39.1200307
+Município: ARACI, BA, Latitude: -11.3390214, Longitude: -38.9586849
+Município: ARAMARI, BA, Latitude: -12.0907897, Longitude: -38.4985065
+Município: ARATACA, BA, Latitude: -15.2617424, Longitude: -39.4122943
+Município: AURELINO LEAL, BA, Latitude: -14.3167137, Longitude: -39.3256107
+Município: BAIANOPOLIS, BA, Latitude: -12.3067564, Longitude: -44.5383591
+Município: BAIXA GRANDE, BA, Latitude: -11.9630941, Longitude: -40.1657537
+Município: BARRA, BA, Latitude: -11.0892702, Longitude: -43.1420453
+Município: BARRA DO CHOCA, BA, Latitude: -14.8638173, Longitude: -40.5761637
+Município: BARRA DO MENDES, BA, Latitude: -11.8053298, Longitude: -42.057037
+Município: BARRA DO ROCHA, BA, Latitude: -14.2090974, Longitude: -39.6004395
+Município: BARREIRAS, BA, Latitude: -12.1440031, Longitude: -44.9967406
+Município: BARRO PRETO, BA, Latitude: -14.8068289, Longitude: -39.4727588
+Município: TANQUE DARCA, AL, Latitude: None, Longitude: None
+Município: SATUBA, AL, Latitude: -9.569113, Longitude: -35.822697
+Município: SAO SEBASTIAO, AL, Latitude: -23.8027866, Longitude: -45.4070527
+Município: SENA MADUREIRA, AC, Latitude: -9.0659556, Longitude: -68.6571058
+Município: TARAUACA, AC, Latitude: -8.1602019, Longitude: -70.7665368
+Município: XAPURI, AC, Latitude: -10.6511174, Longitude: -68.5017902
+Município: AGUA BRANCA, AL, Latitude: -9.2613606, Longitude: -37.9361053
+Município: ARAPIRACA, AL, Latitude: -9.754866, Longitude: -36.661471
+Município: ATALAIA, AL, Latitude: -23.1513833, Longitude: -52.0529697
+Município: BARRA DE SAO MIGUEL, AL, Latitude: -9.8261357, Longitude: -35.8837777
+Município: BELEM, AL, Latitude: -1.45056, Longitude: -48.4682453
+Município: BOCA DA MATA, AL, Latitude: -9.6452054, Longitude: -36.2116658
+Município: BRANQUINHA, AL, Latitude: -9.2478057, Longitude: -36.0152009
+Município: CACIMBINHAS, AL, Latitude: -9.401212, Longitude: -36.991082
+Município: CAJUEIRO, AL, Latitude: -9.399589, Longitude: -36.1524309
+Município: CAMPO ALEGRE, AL, Latitude: -26.1941684, Longitude: -49.2657484
+Município: CANAPI, AL, Latitude: -9.1173572, Longitude: -37.6011704
+Município: COLONIA LEOPOLDINA, AL, Latitude: -8.9144649, Longitude: -35.7220255
+Município: COQUEIRO SECO, AL, Latitude: -9.637147, Longitude: -35.799377
+Município: SENADOR GUIOMARD, AC, Latitude: -9.98, Longitude: -67.32429365079365
+Município: RIO BRANCO, AC, Latitude: -9.9765362, Longitude: -67.8220778
+Município: SAO MIGUEL DOS CAMPOS, AL, Latitude: -9.7831115, Longitude: -36.0967804
+Município: PORTO ACRE, AC, Latitude: -9.5879722, Longitude: -67.53307
+Município: PEIXOTO DE AZEVEDO, (null), Latitude: None, Longitude: None
+Município: SAO JOAO DE MERITI, (null), Latitude: None, Longitude: None
+Município: TABOAO DA SERRA, (null), Latitude: None, Longitude: None
+Município: TERRA NOVA DO NORTE, (null), Latitude: None, Longitude: None
+Município: VALPARAISO DE GOIAS, (null), Latitude: None, Longitude: None
+Município: ACRELANDIA, AC, Latitude: -10.0759167, Longitude: -67.0526898
+Município: ASSIS BRASIL, AC, Latitude: -10.9409203, Longitude: -69.5672108
+Município: BRASILEIA, AC, Latitude: -11.0010413, Longitude: -68.7487894
+Município: BUJARI, AC, Latitude: -9.8309656, Longitude: -67.9520886
+Município: CAPIXABA, AC, Latitude: -10.5741345, Longitude: -67.6759719
+Município: CRUZEIRO DO SUL, AC, Latitude: -7.6307956, Longitude: -72.6703869
+Município: EPITACIOLANDIA, AC, Latitude: -11.0289439, Longitude: -68.7411519
+Município: FEIJO, AC, Latitude: -8.1648652, Longitude: -70.3539579
+Município: MANOEL URBANO, AC, Latitude: -8.838755, Longitude: -69.2619465
+Município: PLACIDO DE CASTRO, AC, Latitude: -10.3239154, Longitude: -67.1824196
+Município: DELMIRO GOUVEIA, AL, Latitude: -9.3841161, Longitude: -37.997756
+Município: DOIS RIACHOS, AL, Latitude: -9.384645, Longitude: -37.096502
+Município: ESTRELA DE ALAGOAS, AL, Latitude: -9.3888972, Longitude: -36.7616833
+Município: FLEXEIRAS, AL, Latitude: -9.2788679, Longitude: -35.7235246
+Município: NOVO LINO, AL, Latitude: -8.941905, Longitude: -35.664001
+Município: OLHO DAGUA GRANDE, AL, Latitude: -6.3169286, Longitude: -35.0474445
+Município: OURO BRANCO, AL, Latitude: -9.1622698, Longitude: -37.3582893
+Município: PALMEIRA DOS INDIOS, AL, Latitude: -9.4076249, Longitude: -36.6323616
+Município: PARICONHA, AL, Latitude: -9.2540147, Longitude: -38.0039241
+Município: PILAR, AL, Latitude: -9.6016711, Longitude: -35.9511275
+Município: PINDOBA, AL, Latitude: -9.473822, Longitude: -36.291829
+Município: POCO DAS TRINCHEIRAS, AL, Latitude: -9.3063206, Longitude: -37.2855185
+Município: PORTO REAL DO COLEGIO, AL, Latitude: -10.186833, Longitude: -36.8357056
+Município: QUEBRANGULO, AL, Latitude: -9.3217611, Longitude: -36.4735837
+Município: RIO LARGO, AL, Latitude: -9.477829, Longitude: -35.839435
+Município: SANTA LUZIA DO NORTE, AL, Latitude: -9.6037, Longitude: -35.823196
+Município: SANTANA DO IPANEMA, AL, Latitude: -9.369989, Longitude: -37.248018
+Município: SAO BRAS, AL, Latitude: -10.1258829, Longitude: -36.898249
+Município: SAO JOSE DA LAJE, AL, Latitude: -9.0093044, Longitude: -36.056732
+Município: MURICI, AL, Latitude: -9.306823, Longitude: -35.942798
+Município: MINADOR DO NEGRAO, AL, Latitude: -9.312358, Longitude: -36.869553
+Município: MESSIAS, AL, Latitude: -9.393843, Longitude: -35.839182
+Município: JOAQUIM GOMES, AL, Latitude: -9.1372894, Longitude: -35.7518862
+Município: IBATEGUARA, AL, Latitude: -8.9737196, Longitude: -35.9279963
+Município: IGACI, AL, Latitude: -9.537678, Longitude: -36.637191
+Município: IGREJA NOVA, AL, Latitude: -10.1267244, Longitude: -36.658151
+Município: INHAPI, AL, Latitude: -9.222095, Longitude: -37.7480654
+Município: JACUIPE, AL, Latitude: -8.83951, Longitude: -35.459074
+Município: JEQUIA DA PRAIA, AL, Latitude: -10.0092595, Longitude: -36.0232787
+Município: JUNDIA, AL, Latitude: -8.944022, Longitude: -35.5546827
+Município: MATRIZ DE CAMARAGIBE, AL, Latitude: -9.154373, Longitude: -35.524302
+Município: JUNQUEIRO, AL, Latitude: -9.9201549, Longitude: -36.474737
+Município: MACEIO, AL, Latitude: -9.6476843, Longitude: -35.7339264
+Município: MARAVILHA, AL, Latitude: -9.230449, Longitude: -37.352419
+Município: MARECHAL DEODORO, AL, Latitude: -9.709715, Longitude: -35.896731
+Município: MARIBONDO, AL, Latitude: -9.5808649, Longitude: -36.3040574
+Município: MATA GRANDE, AL, Latitude: -9.118243, Longitude: -37.732298
+Município: CANUDOS, BA, Latitude: -9.8948692, Longitude: -39.0266244
+Município: CAPIM GROSSO, BA, Latitude: -11.3793228, Longitude: -40.0112095
+Município: CARAVELAS, BA, Latitude: -17.7296514, Longitude: -39.2660082
+Município: MURITIBA, BA, Latitude: -12.624266, Longitude: -38.9885844
+Município: NAZARE, BA, Latitude: -13.0345586, Longitude: -39.0062515
+Município: NOVA FATIMA, BA, Latitude: -11.6046105, Longitude: -39.631054
+Município: NOVA ITARANA, BA, Latitude: -13.0280762, Longitude: -40.0678848
+Município: NOVA SOURE, BA, Latitude: -11.2409332, Longitude: -38.4774123
+Município: NOVA VICOSA, BA, Latitude: -17.8907712, Longitude: -39.3725471
+Município: OLINDINA, BA, Latitude: -11.3601309, Longitude: -38.3269571
+Município: OLIVEIRA DOS BREJINHOS, BA, Latitude: -12.3193308, Longitude: -42.8914271
+Município: OUROLANDIA, BA, Latitude: -10.9686909, Longitude: -41.0808672
+Município: PALMAS DE MONTE ALTO, BA, Latitude: -14.2636093, Longitude: -43.1649976
+Município: PALMEIRAS, BA, Latitude: -12.5151234, Longitude: -41.5746054
+Município: PAULO AFONSO, BA, Latitude: -9.3991006, Longitude: -38.226711
+Município: PEDRAO, BA, Latitude: -12.1451302, Longitude: -38.6466197
+Município: PEDRO ALEXANDRE, BA, Latitude: -10.0118695, Longitude: -37.894739
+Município: PIATA, BA, Latitude: -13.1535638, Longitude: -41.7743761
+Município: PLANALTO, BA, Latitude: -14.6689214, Longitude: -40.481006
+Município: MUTUIPE, BA, Latitude: -13.2282298, Longitude: -39.5060149
+Município: MUQUEM DO SAO FRANCISCO, BA, Latitude: -12.0650162, Longitude: -43.5497188
+Município: LAJE, BA, Latitude: -13.1809956, Longitude: -39.4222968
+Município: MUQUEM DE SAO FRANCISCO, BA, Latitude: -15.9353738, Longitude: -49.2643749
+Município: LAMARAO, BA, Latitude: -11.7954003, Longitude: -38.8852303
+Município: LAURO DE FREITAS, BA, Latitude: -12.89242, Longitude: -38.3127691
+Município: LENCOIS, BA, Latitude: -12.5634288, Longitude: -41.3901717
+Município: LUIS EDUARDO MAGALHAES, BA, Latitude: -12.0869117, Longitude: -45.7834163
+Município: MACURURE, BA, Latitude: -9.1717089, Longitude: -39.0574899
+Município: MALHADA DE PEDRAS, BA, Latitude: -14.3866285, Longitude: -41.8791848
+Município: MANOEL VITORINO, BA, Latitude: -14.1448395, Longitude: -40.2439696
+Município: MANSIDAO, BA, Latitude: -10.7196537, Longitude: -44.0356021
+Município: MARACAS, BA, Latitude: -13.4408898, Longitude: -40.433052
+Município: MARAU, BA, Latitude: -14.103022, Longitude: -39.0144322
+Município: MASCOTE, BA, Latitude: -15.5645474, Longitude: -39.3026663
+Município: MILAGRES, BA, Latitude: -12.864635, Longitude: -39.861092
+Município: MORPARA, BA, Latitude: -11.5628341, Longitude: -43.2768414
+Município: MUCURI, BA, Latitude: -18.0787156, Longitude: -39.5469886
+Município: MUNDO NOVO, BA, Latitude: -11.8573859, Longitude: -40.4731656
+Município: POCOES, BA, Latitude: -14.5274879, Longitude: -40.3665326
+Município: POJUCA, BA, Latitude: -12.4260268, Longitude: -38.3266573
+Município: PONTO NOVO, BA, Latitude: -10.8642828, Longitude: -40.1328306
+Município: PORTO SEGURO, BA, Latitude: -16.443473, Longitude: -39.064251
+Município: SANTA LUZIA, BA, Latitude: -15.4307844, Longitude: -39.3303259
+Município: SANTA MARIA DA VITORIA, BA, Latitude: -13.3901477, Longitude: -44.2013167
+Município: SANTA RITA DE CASSIA, BA, Latitude: -11.0013969, Longitude: -44.5209684
+Município: SANTA TERESINHA, BA, Latitude: -7.0849073, Longitude: -37.4433667
+Município: SANTO AMARO, BA, Latitude: -12.5519686, Longitude: -38.7060448
+Município: SANTO ANTONIO DE JESUS, BA, Latitude: -12.9689361, Longitude: -39.260914
+Município: SANTO ESTEVAO, BA, Latitude: -12.4340621, Longitude: -39.2556115
+Município: SAO DESIDERIO, BA, Latitude: -12.357196, Longitude: -44.976881
+Município: SAO DOMINGOS, BA, Latitude: -11.4636112, Longitude: -39.526527
+Município: SAO FELIX, BA, Latitude: -12.6069891, Longitude: -38.9695574
+Município: SAO FELIX DO CORIBE, BA, Latitude: -13.4041311, Longitude: -44.1902554
+Município: SAO FRANCISCO DO CONDE, BA, Latitude: -12.628108, Longitude: -38.6811326
+Município: SAO GONCALO DOS CAMPOS, BA, Latitude: -12.4339991, Longitude: -38.9488082
+Município: SAO JOSE DA VITORIA, BA, Latitude: -15.0790716, Longitude: -39.3365369
+Município: SAO JOSE DO JACUIPE, BA, Latitude: -11.5040358, Longitude: -40.025658
+Município: SANTA INES, BA, Latitude: -13.2897697, Longitude: -39.8179701
+Município: SANTA CRUZ CABRALIA, BA, Latitude: -16.2815556, Longitude: -39.0239196
+Município: SANTA BRIGIDA, BA, Latitude: -9.7343772, Longitude: -38.1259256
+Município: RIACHAO DAS NEVES, BA, Latitude: -11.7481049, Longitude: -44.9109851
+Município: PRADO, BA, Latitude: -17.336357, Longitude: -39.222721
+Município: PRESIDENTE TANCREDO NEVES, BA, Latitude: -13.4556558, Longitude: -39.4212197
+Município: QUIJINGUE, BA, Latitude: -10.7513728, Longitude: -39.2075228
+Município: QUIXABEIRA, BA, Latitude: -11.4123294, Longitude: -40.1264724
+Município: RAFAEL JAMBEIRO, BA, Latitude: -12.3988144, Longitude: -39.5020289
+Município: REMANSO, BA, Latitude: -9.6179416, Longitude: -42.0830557
+Município: RIACHAO DO JACUIPE, BA, Latitude: -11.8071084, Longitude: -39.3816843
+Município: SANTA BARBARA, BA, Latitude: -11.9543757, Longitude: -38.9736385
+Município: RIBEIRA DO AMPARO, BA, Latitude: -11.0412527, Longitude: -38.4299461
+Município: RIBEIRA DO POMBAL, BA, Latitude: -10.837299, Longitude: -38.538152
+Município: RIO DO ANTONIO, BA, Latitude: -14.4073367, Longitude: -42.0767012
+Município: RIO REAL, BA, Latitude: -11.4869788, Longitude: -37.9317491
+Município: RUY BARBOSA, BA, Latitude: -12.2856669, Longitude: -40.4958361
+Município: SALVADOR, BA, Latitude: -12.9822499, Longitude: -38.4812772
+Município: LAJEDINHO, BA, Latitude: -12.3555395, Longitude: -40.9033041
+Município: LAGOA REAL, BA, Latitude: -14.0346296, Longitude: -42.1421925
+Município: CASA NOVA, BA, Latitude: -9.1736775, Longitude: -40.9734475
+Município: CRUZ DAS ALMAS, BA, Latitude: -12.6722649, Longitude: -39.1053665
+Município: DARIO MEIRA, BA, Latitude: -14.4332181, Longitude: -39.9028712
+Município: DOM MACEDO COSTA, BA, Latitude: -12.907806, Longitude: -39.1905875
+Município: ENCRUZILHADA, BA, Latitude: -15.5322113, Longitude: -40.9072488
+Município: ENTRE RIOS, BA, Latitude: -11.9423743, Longitude: -38.0836985
+Município: ESPLANADA, BA, Latitude: -11.800614, Longitude: -37.9453
+Município: EUCLIDES DA CUNHA, BA, Latitude: -10.5060835, Longitude: -39.0129875
+Município: EUNAPOLIS, BA, Latitude: -16.3722412, Longitude: -39.575704
+Município: FEIRA DE SANTANA, BA, Latitude: -12.2578934, Longitude: -38.9598047
+Município: FILADELFIA, BA, Latitude: -10.7418885, Longitude: -40.1304175
+Município: FLORESTA AZUL, BA, Latitude: -14.8602238, Longitude: -39.6561384
+Município: FORMOSA DO RIO PRETO, BA, Latitude: -11.0414544, Longitude: -45.1903983
+Município: GANDU, BA, Latitude: -13.7448138, Longitude: -39.4844732
+Município: GAVIAO, BA, Latitude: -11.4714303, Longitude: -39.7826316
+Município: GONGOGI, BA, Latitude: -14.3240248, Longitude: -39.4665106
+Município: GOVERNADOR MANGABEIRA, BA, Latitude: -12.6038648, Longitude: -39.0372154
+Município: CURACA, BA, Latitude: -8.9925655, Longitude: -39.9053169
+Município: CRISTOPOLIS, BA, Latitude: -12.2349301, Longitude: -44.4160811
+Município: LAFAIETE COUTINHO, BA, Latitude: -13.6557671, Longitude: -40.2121188
+Município: CRISOPOLIS, BA, Latitude: -11.5105813, Longitude: -38.1506278
+Município: CASTRO ALVES, BA, Latitude: -12.7617572, Longitude: -39.4284444
+Município: CATOLANDIA, BA, Latitude: -12.315088, Longitude: -44.8616434
+Município: CATU, BA, Latitude: -12.351274, Longitude: -38.379108
+Município: CHORROCHO, BA, Latitude: -8.9774059, Longitude: -39.0993132
+Município: CICERO DANTAS, BA, Latitude: -10.5932265, Longitude: -38.3834411
+Município: CIPO, BA, Latitude: -11.0990534, Longitude: -38.5153006
+Município: COCOS, BA, Latitude: -14.1811222, Longitude: -44.5382117
+Município: CONCEICAO DA FEIRA, BA, Latitude: -12.5013001, Longitude: -39.0002166
+Município: CONCEICAO DO ALMEIDA, BA, Latitude: -12.7772763, Longitude: -39.1692214
+Município: CONCEICAO DO COITE, BA, Latitude: -11.5629384, Longitude: -39.2839543
+Município: CONCEICAO DO JACUIPE, BA, Latitude: -12.326831, Longitude: -38.768433
+Município: CORACAO DE MARIA, BA, Latitude: -12.2484345, Longitude: -38.7499274
+Município: CORONEL JOAO SA, BA, Latitude: -10.2856387, Longitude: -37.9259435
+Município: CORRENTINA, BA, Latitude: -13.344157, Longitude: -44.6345066
+Município: COTEGIPE, BA, Latitude: -12.0315387, Longitude: -44.260401
+Município: GUANAMBI, BA, Latitude: -14.223066, Longitude: -42.779943
+Município: HELIOPOLIS, BA, Latitude: -10.6753416, Longitude: -38.2815308
+Município: IBICARAI, BA, Latitude: -14.8625311, Longitude: -39.5890865
+Município: IBIQUERA, BA, Latitude: -12.6489164, Longitude: -40.9323004
+Município: ITANHEM, BA, Latitude: -17.1665806, Longitude: -40.3291027
+Município: ITAPE, BA, Latitude: -14.8970856, Longitude: -39.4246637
+Município: ITAPEBI, BA, Latitude: -15.9691891, Longitude: -39.5320541
+Município: ITAQUARA, BA, Latitude: -13.4464331, Longitude: -39.9384891
+Município: ITATIM, BA, Latitude: -12.7073174, Longitude: -39.6974476
+Município: JACOBINA, BA, Latitude: -11.1851561, Longitude: -40.5112434
+Município: JAGUAQUARA, BA, Latitude: -13.5294974, Longitude: -39.9693081
+Município: JAGUARARI, BA, Latitude: -10.2575875, Longitude: -40.1944363
+Município: JAGUARIPE, BA, Latitude: -13.1147557, Longitude: -38.8944977
+Município: JEQUIE, BA, Latitude: -13.8604033, Longitude: -40.0719627
+Município: JEREMOABO, BA, Latitude: -10.0754917, Longitude: -38.3476326
+Município: JIQUIRICA, BA, Latitude: -13.255353, Longitude: -39.5693044
+Município: JITAUNA, BA, Latitude: -14.017019, Longitude: -39.8889976
+Município: JUAZEIRO, BA, Latitude: -9.4336959, Longitude: -40.5068201
+Município: JUSSARI, BA, Latitude: -15.1882453, Longitude: -39.493597
+Município: ITAMARAJU, BA, Latitude: -17.0363103, Longitude: -39.527994
+Município: ITAJUIPE, BA, Latitude: -14.6744381, Longitude: -39.3759427
+Município: ITAGIMIRIM, BA, Latitude: -16.0852591, Longitude: -39.614789
+Município: ILHEUS, BA, Latitude: -14.792599, Longitude: -39.0453843
+Município: IBIRAPITANGA, BA, Latitude: -14.1615686, Longitude: -39.369522
+Município: IBIRAPUA, BA, Latitude: -17.6873491, Longitude: -40.109661
+Município: IBIRATAIA, BA, Latitude: -14.0689024, Longitude: -39.6394008
+Município: IBITIARA, BA, Latitude: -12.6493766, Longitude: -42.2172476
+Município: IBOTIRAMA, BA, Latitude: -12.1829519, Longitude: -43.2181138
+Município: IGAPORA, BA, Latitude: -13.7725318, Longitude: -42.7168442
+Município: INHAMBUPE, BA, Latitude: -11.7921718, Longitude: -38.3596957
+Município: ITAGI, BA, Latitude: -14.1627902, Longitude: -40.0069366
+Município: IPIAU, BA, Latitude: -14.1318211, Longitude: -39.7373177
+Município: IRAJUBA, BA, Latitude: -13.2525307, Longitude: -40.0842042
+Município: ITABELA, BA, Latitude: -16.5742292, Longitude: -39.5619193
+Município: ITABERABA, BA, Latitude: -12.524182, Longitude: -40.305897
+Município: ITABUNA, BA, Latitude: -14.793173, Longitude: -39.2750341
+Município: ITACARE, BA, Latitude: -14.2779427, Longitude: -38.9955683
+Município: FORTALEZA DOS NOGUEIRAS, MA, Latitude: -6.9643779, Longitude: -46.1703933
+Município: GOVERNADOR EDISON LOBAO, MA, Latitude: -5.7456705, Longitude: -47.363091
+Município: GOVERNADOR EUGENIO BARROS, MA, Latitude: -5.3200262, Longitude: -44.2440583
+Município: ELDORADO, MS, Latitude: -23.7838809, Longitude: -54.2832024
+Município: FIGUEIRAO, MS, Latitude: -18.67821, Longitude: -53.6379864
+Município: GLORIA DE DOURADOS, MS, Latitude: -22.4173731, Longitude: -54.2313391
+Município: GUIA LOPES DA LAGUNA, MS, Latitude: -21.550264, Longitude: -55.957065064598666
+Município: IGUATEMI, MS, Latitude: -23.673555, Longitude: -54.563731
+Município: ITAPORA, MS, Latitude: -22.0799142, Longitude: -54.7874239
+Município: ITAQUIRAI, MS, Latitude: -23.4801914, Longitude: -54.1833692
+Município: IVINHEMA, MS, Latitude: -22.302254, Longitude: -53.8276006
+Município: JARAGUARI, MS, Latitude: -20.1019755, Longitude: -54.4377423
+Município: JARDIM, MS, Latitude: -21.479941, Longitude: -56.148902
+Município: JATEI, MS, Latitude: -22.4815624, Longitude: -54.307006
+Município: JUTI, MS, Latitude: -22.8611994, Longitude: -54.604793
+Município: LADARIO, MS, Latitude: -19.0036585, Longitude: -57.6028285
+Município: MARACAJU, MS, Latitude: -21.6163005, Longitude: -55.164605
+Município: MIRANDA, MS, Latitude: -20.2401082, Longitude: -56.3844728
+Município: MUNDO NOVO, MS, Latitude: -23.9378876, Longitude: -54.2859489
+Município: FATIMA DO SUL, MS, Latitude: -22.3750499, Longitude: -54.516698
+Município: DOURADOS, MS, Latitude: -22.2206145, Longitude: -54.812208
+Município: NIOAQUE, MS, Latitude: -21.1605528, Longitude: -55.8283423
+Município: DOURADINA, MS, Latitude: -22.0402812, Longitude: -54.6118292
+Município: BELA VISTA, MS, Latitude: -22.107327, Longitude: -56.5317344
+Município: BODOQUENA, MS, Latitude: -20.5508775, Longitude: -56.6769653
+Município: BRASILANDIA, MS, Latitude: -21.255575, Longitude: -52.0365617
+Município: CAARAPO, MS, Latitude: -22.6349267, Longitude: -54.8240903
+Município: CAMAPUA, MS, Latitude: -19.5291747, Longitude: -54.0434641
+Município: CAMPO GRANDE, MS, Latitude: -20.4640173, Longitude: -54.6162947
+Município: CARACOL, MS, Latitude: -22.0169949, Longitude: -57.0298349
+Município: CASSILANDIA, MS, Latitude: -19.1128242, Longitude: -51.7345354
+Município: CHAPADAO DO SUL, MS, Latitude: -18.7949051, Longitude: -52.6199512
+Município: CORGUINHO, MS, Latitude: -19.827429, Longitude: -54.8322243
+Município: CORUMBA, MS, Latitude: -19.0016365, Longitude: -57.6534316
+Município: COSTA RICA, MS, Latitude: -18.5333859, Longitude: -53.1394286
+Município: COXIM, MS, Latitude: -18.504915, Longitude: -54.7450251
+Município: DEODAPOLIS, MS, Latitude: -22.276272, Longitude: -54.168163
+Município: DOIS IRMAOS DO BURITI, MS, Latitude: -20.6906107, Longitude: -55.2760274
+Município: NAVIRAI, MS, Latitude: -23.0622152, Longitude: -54.2018319
+Município: NOVA ALVORADA DO SUL, MS, Latitude: -21.4587274, Longitude: -54.3760634
+Município: RIO CASCA, MG, Latitude: -20.2259378, Longitude: -42.6515492
+Município: ALTO ARAGUAIA, MT, Latitude: -17.3156528, Longitude: -53.2169365
+Município: ALTO GARCAS, MT, Latitude: -16.9469683, Longitude: -53.529427
+Município: ARAGUAIANA, MT, Latitude: -15.729144, Longitude: -51.834112
+Município: BARRA DO GARCAS, MT, Latitude: -15.35695095, Longitude: -52.462873422565764
+Município: BOM JESUS DO ARAGUAIA, MT, Latitude: -12.1725897, Longitude: -51.5074425
+Município: BRASNORTE, MT, Latitude: -12.1218837, Longitude: -58.0042714
+Município: CACERES, MT, Latitude: -16.0644315, Longitude: -57.6879744
+Município: CAMPO NOVO DO PARECIS, MT, Latitude: -13.658735, Longitude: -57.890723
+Município: CAMPO VERDE, MT, Latitude: -15.5430787, Longitude: -55.1590511
+Município: CAMPOS DE JULIO, MT, Latitude: -13.7223646, Longitude: -59.2645296
+Município: CANABRAVA DO NORTE, MT, Latitude: -11.0516481, Longitude: -51.8301897
+Município: CANARANA, MT, Latitude: -13.5564602, Longitude: -52.2691167
+Município: CASTANHEIRA, MT, Latitude: -11.1391946, Longitude: -58.6088547
+Município: CLAUDIA, MT, Latitude: -11.5057202, Longitude: -54.8763166
+Município: COMODORO, MT, Latitude: -13.6581107, Longitude: -59.786883
+Município: CONFRESA, MT, Latitude: -10.643695, Longitude: -51.569873
+Município: ALTO BOA VISTA, MT, Latitude: -11.6723985, Longitude: -51.3744431
+Município: AGUA BOA, MT, Latitude: -14.0522968, Longitude: -52.1617625
+Município: NOVA ANDRADINA, MS, Latitude: -22.2477565, Longitude: -53.3480621
+Município: ACORIZAL, MT, Latitude: -15.2001544, Longitude: -56.3668953
+Município: PARAISO DAS AGUAS, MS, Latitude: -19.0219279, Longitude: -53.0122646
+Município: PARANAIBA, MS, Latitude: -19.6751971, Longitude: -51.1874986
+Município: PEDRO GOMES, MS, Latitude: -18.0990797, Longitude: -54.550579
+Município: PONTA PORA, MS, Latitude: -22.5286917, Longitude: -55.723426
+Município: PORTO MURTINHO, MS, Latitude: -21.698078, Longitude: -57.883586
+Município: RIBAS DO RIO PARDO, MS, Latitude: -20.4477984, Longitude: -53.7609001
+Município: RIO BRILHANTE, MS, Latitude: -21.8046467, Longitude: -54.5433047
+Município: RIO VERDE DE MATO GROSSO, MS, Latitude: -18.9169208, Longitude: -54.8410727
+Município: SAO GABRIEL DO OESTE, MS, Latitude: -19.3944843, Longitude: -54.5755213
+Município: SELVIRIA, MS, Latitude: -20.3616393, Longitude: -51.4251863
+Município: SIDROLANDIA, MS, Latitude: -20.9361042, Longitude: -54.9640262
+Município: SONORA, MS, Latitude: -17.5852028, Longitude: -54.7548288
+Município: TERENOS, MS, Latitude: -20.4409259, Longitude: -54.8656049
+Município: TRES LAGOAS, MS, Latitude: -20.7866799, Longitude: -51.7061247
+Município: VICENTINA, MS, Latitude: -22.4093447, Longitude: -54.4370921
+Município: BATAGUASSU, MS, Latitude: -21.715899, Longitude: -52.422058
+Município: BANDEIRANTES, MS, Latitude: -19.9179623, Longitude: -54.3646768
+Município: AQUIDAUANA, MS, Latitude: -20.473969, Longitude: -55.7821375
+Município: SANTA RITA DE CALDAS, MG, Latitude: -22.028889, Longitude: -46.336944
+Município: SANTA RITA DO SAPUCAI, MG, Latitude: -22.2486968, Longitude: -45.7064507
+Município: SANTA VITORIA, MG, Latitude: -18.8465718, Longitude: -50.1292823
+Município: SANTANA DE PIRAPAMA, MG, Latitude: -19.0075, Longitude: -44.040833
+Município: SANTANA DO PARAISO, MG, Latitude: -19.3652914, Longitude: -42.5494833
+Município: SANTO ANTONIO DO AMPARO, MG, Latitude: -20.9413389, Longitude: -44.9187397
+Município: SANTO ANTONIO DO GRAMA, MG, Latitude: -20.314444, Longitude: -42.608611
+Município: SANTO ANTONIO DO RIO ABAIXO, MG, Latitude: -19.2280364, Longitude: -43.2532149
+Município: SANTOS DUMONT, MG, Latitude: -21.455867, Longitude: -43.5522107
+Município: SAO DOMINGOS DO PRATA, MG, Latitude: -19.8671078, Longitude: -42.9658318
+Município: SAO FRANCISCO, MG, Latitude: -15.948889, Longitude: -44.864444
+Município: SAO FRANCISCO DO GLORIA, MG, Latitude: -20.790069, Longitude: -42.2679636
+Município: SAO GONCALO DO ABAETE, MG, Latitude: -18.3420302, Longitude: -45.834112
+Município: SAO GONCALO DO PARA, MG, Latitude: -19.982778, Longitude: -44.859167
+Município: SAO GONCALO DO RIO ABAIXO, MG, Latitude: -19.8252042, Longitude: -43.362126
+Município: SAO GONCALO DO SAPUCAI, MG, Latitude: -21.8905238, Longitude: -45.5935943
+Município: SANTA RITA DE MINAS, MG, Latitude: -19.8745404, Longitude: -42.1325122
+Município: SANTA MARIA DE ITABIRA, MG, Latitude: -19.4483453, Longitude: -43.1167817
+Município: APARECIDA DO TABOADO, MS, Latitude: -20.0840304, Longitude: -51.1013943
+Município: SANTA MARGARIDA, MG, Latitude: -20.3817696, Longitude: -42.2522123
+Município: RIO PIRACICABA, MG, Latitude: -19.982333, Longitude: -43.2322858
+Município: RIO PRETO, MG, Latitude: -16.535859, Longitude: -46.696753
+Município: RIO VERMELHO, MG, Latitude: -18.3477193, Longitude: -43.0276643
+Município: ROMARIA, MG, Latitude: -18.8823522, Longitude: -47.5854354
+Município: RUBELITA, MG, Latitude: -16.4067495, Longitude: -42.2623615
+Município: SABARA, MG, Latitude: -19.8900372, Longitude: -43.8107916
+Município: SACRAMENTO, MG, Latitude: -19.8652854, Longitude: -47.4402746
+Município: SALINAS, MG, Latitude: -16.1699073, Longitude: -42.2910368
+Município: SANTA BARBARA, MG, Latitude: -19.959444, Longitude: -43.415278
+Município: SANTA BARBARA DO LESTE, MG, Latitude: -19.978334, Longitude: -42.140555
+Município: SANTA BARBARA DO TUGURIO, MG, Latitude: -21.245833, Longitude: -43.559444
+Município: SANTA CRUZ DE SALINAS, MG, Latitude: -16.0972405, Longitude: -41.7474332
+Município: SANTA EFIGENIA DE MINAS, MG, Latitude: -18.8275746, Longitude: -42.4400734
+Município: SANTA JULIANA, MG, Latitude: -19.308611, Longitude: -47.525
+Município: SANTA LUZIA, MG, Latitude: -19.7702097, Longitude: -43.8505291
+Município: SAO JOAO DO MANHUACU, MG, Latitude: -20.3938555, Longitude: -42.1499705
+Município: SAO JOAO NEPOMUCENO, MG, Latitude: -21.5359158, Longitude: -43.0151428
+Município: SAO JOAQUIM DE BICAS, MG, Latitude: -20.0489052, Longitude: -44.2731691
+Município: SAO JOSE DO GOIABAL, MG, Latitude: -19.925098, Longitude: -42.7083162
+Município: TRES MARIAS, MG, Latitude: -18.2051533, Longitude: -45.2484314
+Município: UBAPORANGA, MG, Latitude: -19.6344637, Longitude: -42.1073048
+Município: UBERABA, MG, Latitude: -19.750833, Longitude: -47.936666
+Município: UBERLANDIA, MG, Latitude: -18.9188041, Longitude: -48.2767837
+Município: VARGINHA, MG, Latitude: -21.5565914, Longitude: -45.4340674
+Município: VARJAO DE MINAS, MG, Latitude: -18.3791473, Longitude: -46.030627
+Município: VARZEA DA PALMA, MG, Latitude: -17.5983328, Longitude: -44.7317086
+Município: VAZANTE, MG, Latitude: -17.9896107, Longitude: -46.9003899
+Município: VERISSIMO, MG, Latitude: -19.6680818, Longitude: -48.308771
+Município: VIRGINOPOLIS, MG, Latitude: -18.8226124, Longitude: -42.7053967
+Município: WENCESLAU BRAZ, MG, Latitude: -22.5342367, Longitude: -45.3614735
+Município: AGUA CLARA, MS, Latitude: -20.4385757, Longitude: -52.8797496
+Município: ALCINOPOLIS, MS, Latitude: -18.3264121, Longitude: -53.7094463
+Município: ANASTACIO, MS, Latitude: -20.4832458, Longitude: -55.8048448
+Município: ANAURILANDIA, MS, Latitude: -22.185169, Longitude: -52.719056
+Município: TRES CORACOES, MG, Latitude: -21.695625, Longitude: -45.2543675
+Município: TIROS, MG, Latitude: -19.003889, Longitude: -45.963611
+Município: TIMOTEO, MG, Latitude: -19.5771395, Longitude: -42.6436108
+Município: SERITINGA, MG, Latitude: -21.9096949, Longitude: -44.5216061
+Município: SAO LOURENCO, MG, Latitude: -22.116389, Longitude: -45.054167
+Município: SAO PEDRO DOS FERROS, MG, Latitude: -20.1706687, Longitude: -42.522901
+Município: SAO SEBASTIAO DA BELA VISTA, MG, Latitude: -22.159167, Longitude: -45.754167
+Município: SAO SEBASTIAO DO PARAISO, MG, Latitude: -20.9124331, Longitude: -46.9823296
+Município: SENADOR JOSE BENTO, MG, Latitude: -22.1641985, Longitude: -46.1785855
+Município: SERICITA, MG, Latitude: -20.4738307, Longitude: -42.4821683
+Município: SETE LAGOAS, MG, Latitude: -19.466111, Longitude: -44.246944
+Município: TEOFILO OTONI, MG, Latitude: -17.8579267, Longitude: -41.5081533
+Município: SIMAO PEREIRA, MG, Latitude: -21.963611, Longitude: -43.311667
+Município: SIMONESIA, MG, Latitude: -20.1233838, Longitude: -42.0024294
+Município: SOLEDADE DE MINAS, MG, Latitude: -22.0607267, Longitude: -45.044957
+Município: TAIOBEIRAS, MG, Latitude: -15.8080842, Longitude: -42.2270207
+Município: TAPARUBA, MG, Latitude: -19.7621023, Longitude: -41.614796
+Município: TARUMIRIM, MG, Latitude: -19.2818607, Longitude: -42.0070412
+Município: CONQUISTA DOESTE, MT, Latitude: None, Longitude: None
+Município: CUIABA, MT, Latitude: -15.5986686, Longitude: -56.0991301
+Município: DIAMANTINO, MT, Latitude: -14.4036262, Longitude: -56.4364488
+Município: MEDICILANDIA, PA, Latitude: -3.4438388, Longitude: -52.8889236
+Município: NOVA TIMBOTEUA, PA, Latitude: -1.2052428, Longitude: -47.3935775
+Município: NOVO PROGRESSO, PA, Latitude: -7.0374884, Longitude: -55.4185904
+Município: NOVO REPARTIMENTO, PA, Latitude: -4.2519172, Longitude: -49.9524257
+Município: OUREM, PA, Latitude: -1.5489964, Longitude: -47.1174572
+Município: PACAJA, PA, Latitude: -3.8354195, Longitude: -50.6399248
+Município: PALESTINA DO PARA, PA, Latitude: -5.7423938, Longitude: -48.3185533
+Município: PARAGOMINAS, PA, Latitude: -2.99564, Longitude: -47.3548942
+Município: PAU DARCO, PA, Latitude: -7.8331153, Longitude: -50.0404438
+Município: PEIXE-BOI, PA, Latitude: -1.193824, Longitude: -47.324031
+Município: PLACAS, PA, Latitude: -3.8689529, Longitude: -54.2154346
+Município: REDENCAO, PA, Latitude: -8.025294, Longitude: -50.031687
+Município: RIO MARIA, PA, Latitude: -7.3137312, Longitude: -50.0465372
+Município: RONDON DO PARA, PA, Latitude: -4.7804416, Longitude: -48.06983
+Município: RUROPOLIS, PA, Latitude: -4.1014311, Longitude: -54.9086853
+Município: SANTA ISABEL DO PARA, PA, Latitude: -1.2968557, Longitude: -48.1605533
+Município: MOJUI DOS CAMPOS, PA, Latitude: -2.682167, Longitude: -54.642717
+Município: MARITUBA, PA, Latitude: -1.3595306, Longitude: -48.3361504
+Município: BRASIL NOVO, PA, Latitude: -3.3055853, Longitude: -52.539198
+Município: MARABA, PA, Latitude: -5.3462821, Longitude: -49.1007401
+Município: CACHOEIRA DO PIRIA, PA, Latitude: -1.7599443, Longitude: -46.5446954
+Município: CAPANEMA, PA, Latitude: -25.6704878, Longitude: -53.8083036
+Município: CASTANHAL, PA, Latitude: -1.2927031, Longitude: -47.9223903
+Município: CURUA, PA, Latitude: -1.887754, Longitude: -55.116842
+Município: DOM ELISEU, PA, Latitude: -4.2928111, Longitude: -47.5559083
+Município: ELDORADO DO CARAJAS, PA, Latitude: -6.1029246, Longitude: -49.3572487
+Município: ELDORADO DOS CARAJAS, PA, Latitude: -6.117130899999999, Longitude: -49.258271273759696
+Município: FLORESTA DO ARAGUAIA, PA, Latitude: -7.5597065, Longitude: -49.7032829
+Município: IGARAPE-ACU, PA, Latitude: -4.2865751, Longitude: -55.6346369
+Município: IPIXUNA DO PARA, PA, Latitude: -2.5592139, Longitude: -47.4965462
+Município: IRITUIA, PA, Latitude: -1.7709543, Longitude: -47.4399687
+Município: ITAITUBA, PA, Latitude: -4.2625218, Longitude: -55.9878139
+Município: ITUPIRANGA, PA, Latitude: -5.1337224, Longitude: -49.3321988
+Município: JACAREACANGA, PA, Latitude: -6.2196518, Longitude: -57.758625
+Município: MAE DO RIO, PA, Latitude: -2.0458692, Longitude: -47.5522076
+Município: SANTA IZABEL DO PARA, PA, Latitude: -1.2968557, Longitude: -48.1605533
+Município: SANTA LUZIA DO PARA, PA, Latitude: -1.5220049, Longitude: -46.9020697
+Município: SANTA MARIA DAS BARREIRAS, PA, Latitude: -8.8710157, Longitude: -49.7171263
+Município: SANTA MARIA DO PARA, PA, Latitude: -1.3455478, Longitude: -47.5782981
+Município: ALGODAO DE JANDAIRA, PB, Latitude: -6.9040175, Longitude: -36.0089879
+Município: ALHANDRA, PB, Latitude: -7.4304246, Longitude: -34.9106103
+Município: APARECIDA, PB, Latitude: -6.7859598, Longitude: -38.0831353
+Município: AROEIRAS, PB, Latitude: -7.5462904, Longitude: -35.7080002
+Município: ASSUNCAO, PB, Latitude: -7.073396, Longitude: -36.7274003
+Município: BARRA DE SANTA ROSA, PB, Latitude: -6.7218007, Longitude: -36.0564638
+Município: BARRA DE SANTANA, PB, Latitude: -7.5230865, Longitude: -35.9988518
+Município: BAYEUX, PB, Latitude: -7.1301631, Longitude: -34.936532
+Município: BOA VISTA, PB, Latitude: -7.2620711, Longitude: -36.2415161
+Município: BOM JESUS, PB, Latitude: -6.8154728, Longitude: -38.6554684
+Município: CAAPORA, PB, Latitude: -7.510234, Longitude: -34.9154114
+Município: CABEDELO, PB, Latitude: -6.97324, Longitude: -34.8351609
+Município: CACHOEIRA DOS INDIOS, PB, Latitude: -6.9259193, Longitude: -38.6742159
+Município: CAJAZEIRAS, PB, Latitude: -6.8897849, Longitude: -38.5570389
+Município: CALDAS BRANDAO, PB, Latitude: -7.1027959, Longitude: -35.3254676
+Município: ALCANTIL, PB, Latitude: -7.7425491, Longitude: -36.0609604
+Município: XINGUARA, PA, Latitude: -7.0998514, Longitude: -49.9416632
+Município: VITORIA DO XINGU, PA, Latitude: -2.8833063, Longitude: -52.0114889
+Município: SAO JOAO DO ARAGUAIA, PA, Latitude: -5.3617017, Longitude: -48.7911109
+Município: SANTANA DO ARAGUAIA, PA, Latitude: -9.3348334, Longitude: -50.3427734
+Município: SANTAREM, PA, Latitude: -2.438489, Longitude: -54.699611
+Município: SAO DOMINGOS DO ARAGUAIA, PA, Latitude: -5.5412778, Longitude: -48.7300015
+Município: SAO DOMINGOS DO CAPIM, PA, Latitude: -1.6789331, Longitude: -47.7717815
+Município: SAO FRANCISCO DO PARA, PA, Latitude: -1.1693995, Longitude: -47.7972589
+Município: SAO GERALDO DO ARAGUAIA, PA, Latitude: -6.394715, Longitude: -48.559169
+Município: SAO MIGUEL DO GUAMA, PA, Latitude: -1.6116804, Longitude: -47.4757551
+Município: VISEU, PA, Latitude: -1.204892, Longitude: -46.1392244
+Município: SAPUCAIA, PA, Latitude: -6.9411006, Longitude: -49.6991328
+Município: TRACUATEUA, PA, Latitude: -1.0765338, Longitude: -46.9030822
+Município: TRAIRAO, PA, Latitude: -4.700551, Longitude: -55.9972165
+Município: TUCURUI, PA, Latitude: -3.7738509, Longitude: -49.6708204
+Município: ULIANOPOLIS, PA, Latitude: -3.7575266, Longitude: -47.5009377
+Município: URUARA, PA, Latitude: -3.7185381, Longitude: -53.738549
+Município: BREJO GRANDE DO ARAGUAIA, PA, Latitude: -5.7011449, Longitude: -48.4037308
+Município: BRAGANCA, PA, Latitude: -0.9787359, Longitude: -46.78485358756709
+Município: DOM AQUINO, MT, Latitude: -15.809899, Longitude: -54.922298
+Município: NOSSA SENHORA DO LIVRAMENTO, MT, Latitude: -15.7725185, Longitude: -56.3442904
+Município: NOVA LACERDA, MT, Latitude: -14.4753855, Longitude: -59.5881498
+Município: NOVA MARILANDIA, MT, Latitude: -14.3653436, Longitude: -56.9709009
+Município: NOVA MARINGA, MT, Latitude: -13.0314433, Longitude: -57.0922657
+Município: NOVA MUTUM, MT, Latitude: -13.8255015, Longitude: -56.0849262
+Município: NOVA NAZARE, MT, Latitude: -13.9897745, Longitude: -51.7998937
+Município: NOVA SANTA HELENA, MT, Latitude: -10.8495357, Longitude: -55.1780435
+Município: NOVA XAVANTINA, MT, Latitude: -14.6794165, Longitude: -52.351994
+Município: NOVO SANTO ANTONIO, MT, Latitude: -12.2909756, Longitude: -50.97048
+Município: PEDRA PRETA, MT, Latitude: -16.6230015, Longitude: -54.4761228
+Município: PEIXOTO DE AZEVEDO, MT, Latitude: -10.2429203, Longitude: -54.9919857
+Município: POCONE, MT, Latitude: -16.2581978, Longitude: -56.6325633
+Município: PONTAL DO ARAGUAIA, MT, Latitude: -15.9045099, Longitude: -52.257365
+Município: PONTES E LACERDA, MT, Latitude: -15.2315171, Longitude: -59.3349512
+Município: PORTO ALEGRE DO NORTE, MT, Latitude: -10.8792851, Longitude: -51.6391975
+Município: PORTO ESPERIDIAO, MT, Latitude: -15.8521665, Longitude: -58.4693093
+Município: NOVA BRASILANDIA, MT, Latitude: -14.9298622, Longitude: -54.973665
+Município: NORTELANDIA, MT, Latitude: -14.4518972, Longitude: -56.8043752
+Município: BONITO, PA, Latitude: -1.3605722, Longitude: -47.3049907
+Município: NOBRES, MT, Latitude: -14.7196233, Longitude: -56.3351314
+Município: FIGUEIROPOLIS DOESTE, MT, Latitude: None, Longitude: None
+Município: GENERAL CARNEIRO, MT, Latitude: -15.7070922, Longitude: -52.7606044
+Município: GLORIA DOESTE, MT, Latitude: None, Longitude: None
+Município: GUARANTA DO NORTE, MT, Latitude: -9.9517992, Longitude: -54.9098178
+Município: ITAUBA, MT, Latitude: -11.0084948, Longitude: -55.2480739
+Município: ITIQUIRA, MT, Latitude: -17.2033274, Longitude: -54.1446924
+Município: JACIARA, MT, Latitude: -15.9520115, Longitude: -54.9762106
+Município: JANGADA, MT, Latitude: -15.2369949, Longitude: -56.4902844
+Município: JAURU, MT, Latitude: -15.3407762, Longitude: -58.8683137
+Município: JUINA, MT, Latitude: -11.4230908, Longitude: -58.7570212
+Município: JUSCIMEIRA, MT, Latitude: -16.0517819, Longitude: -54.8893514
+Município: LUCAS DO RIO VERDE, MT, Latitude: -13.0664609, Longitude: -55.9196711
+Município: MARCELANDIA, MT, Latitude: -11.0794264, Longitude: -54.5202451
+Município: MATUPA, MT, Latitude: -10.1683242, Longitude: -54.9346194
+Município: MIRASSOL DOESTE, MT, Latitude: -5.7416992, Longitude: -35.2807568
+Município: POXOREO, MT, Latitude: -15.870545, Longitude: -54.3417478
+Município: PRIMAVERA DO LESTE, MT, Latitude: -15.5614127, Longitude: -54.2993946
+Município: QUERENCIA, MT, Latitude: -12.5944625, Longitude: -52.2088505
+Município: RIBEIRAO CASCALHEIRA, MT, Latitude: -12.936738, Longitude: -51.824421
+Município: VILA BELA DA SANTISSIMA TRINDADE, MT, Latitude: -15.009904, Longitude: -59.961115
+Município: VILA RICA, MT, Latitude: -10.013666, Longitude: -51.118599
+Município: ABEL FIGUEIREDO, PA, Latitude: -4.953001, Longitude: -48.3958485
+Município: AGUA AZUL DO NORTE, PA, Latitude: -6.8064885, Longitude: -50.4849667
+Município: ALMEIRIM, PA, Latitude: -1.5290377, Longitude: -52.5788111
+Município: ALTAMIRA, PA, Latitude: -3.204065, Longitude: -52.209961
+Município: ANAJAS, PA, Latitude: -0.9878802, Longitude: -49.9390114
+Município: ANANINDEUA, PA, Latitude: -1.374035, Longitude: -48.4016623
+Município: ANAPU, PA, Latitude: -3.4668292, Longitude: -51.2057035
+Município: AUGUSTO CORREA, PA, Latitude: -1.0229335, Longitude: -46.6404029
+Município: AURORA DO PARA, PA, Latitude: -2.1323199, Longitude: -47.558436
+Município: BELEM, PA, Latitude: -1.45056, Longitude: -48.4682453
+Município: BELTERRA, PA, Latitude: -2.636091, Longitude: -54.937392
+Município: BENEVIDES, PA, Latitude: -1.3555577, Longitude: -48.252235
+Município: BOM JESUS DO TOCANTINS, PA, Latitude: -5.0471796, Longitude: -48.5978362
+Município: VERA, MT, Latitude: -12.2949604, Longitude: -55.2947571
+Município: VARZEA GRANDE, MT, Latitude: -15.645816, Longitude: -56.132218
+Município: VALE DE SAO DOMINGOS, MT, Latitude: -15.2966987, Longitude: -59.065637
+Município: SAO FELIX DO ARAGUAIA, MT, Latitude: -11.6170646, Longitude: -50.6667246
+Município: RONDOLANDIA, MT, Latitude: -10.8428772, Longitude: -61.4596962
+Município: RONDONOPOLIS, MT, Latitude: -16.4603533, Longitude: -54.6397099
+Município: ROSARIO OESTE, MT, Latitude: -14.825938, Longitude: -56.42357
+Município: SANTA CARMEM, MT, Latitude: -11.9745987, Longitude: -55.2787877
+Município: SANTA CRUZ DO XINGU, MT, Latitude: -10.1533447, Longitude: -52.392016
+Município: SANTO ANTONIO DO LEVERGER, MT, Latitude: -15.84980135, Longitude: -56.08614356248529
+Município: SAO PEDRO DA CIPA, MT, Latitude: -16.0030443, Longitude: -54.9212312
+Município: TESOURO, MT, Latitude: -16.0802073, Longitude: -53.553114
+Município: SAPEZAL, MT, Latitude: -13.547958, Longitude: -58.8146235
+Município: SERRA NOVA DOURADA, MT, Latitude: -12.0890348, Longitude: -51.4005672
+Município: SINOP, MT, Latitude: -11.8577512, Longitude: -55.496788
+Município: SORRISO, MT, Latitude: -12.5444887, Longitude: -55.7233972
+Município: TANGARA DA SERRA, MT, Latitude: -14.6213903, Longitude: -57.4907268
+Município: TERRA NOVA DO NORTE, MT, Latitude: -10.5995196, Longitude: -55.1167029
+Município: RIO MANSO, MG, Latitude: -20.1912278, Longitude: -44.2756505
+Município: RIBEIRAO VERMELHO, MG, Latitude: -21.1881942, Longitude: -45.0627632
+Município: GOVERNADOR NEWTON BELLO, MA, Latitude: -3.4285914, Longitude: -45.6714297
+Município: ATALEIA, MG, Latitude: -18.0441576, Longitude: -41.1104812
+Município: BAEPENDI, MG, Latitude: -21.9575733, Longitude: -44.8891463
+Município: BANDEIRA, MG, Latitude: -15.884444, Longitude: -40.559167
+Município: BANDEIRA DO SUL, MG, Latitude: -21.728056, Longitude: -46.385555
+Município: BARAO DE COCAIS, MG, Latitude: -19.9452437, Longitude: -43.4870298
+Município: BARBACENA, MG, Latitude: -21.2254524, Longitude: -43.7735087
+Município: BELA VISTA DE MINAS, MG, Latitude: -19.8289721, Longitude: -43.0973688
+Município: BELO HORIZONTE, MG, Latitude: -19.9227318, Longitude: -43.9450948
+Município: BELO ORIENTE, MG, Latitude: -19.2232523, Longitude: -42.4807033
+Município: BETIM, MG, Latitude: -19.968056, Longitude: -44.198333
+Município: BICAS, MG, Latitude: -21.7213723, Longitude: -43.0604327
+Município: BOA ESPERANCA, MG, Latitude: -21.0901253, Longitude: -45.5660195
+Município: BOCAIUVA, MG, Latitude: -17.1160208, Longitude: -43.8122678
+Município: BOM DESPACHO, MG, Latitude: -19.7375242, Longitude: -45.2517288
+Município: BOM JARDIM DE MINAS, MG, Latitude: -21.9476466, Longitude: -44.1906033
+Município: BOM JESUS DA PENHA, MG, Latitude: -21.0178774, Longitude: -46.5213848
+Município: AUGUSTO DE LIMA, MG, Latitude: -18.1092963, Longitude: -44.2651945
+Município: ARINOS, MG, Latitude: -15.917223, Longitude: -46.106111
+Município: BOM JESUS DO GALHO, MG, Latitude: -19.8283191, Longitude: -42.3162256
+Município: ARGIRITA, MG, Latitude: -21.612761, Longitude: -42.8371922
+Município: AGUA BOA, MG, Latitude: -17.9956411, Longitude: -42.3899261
+Município: AGUAS VERMELHAS, MG, Latitude: -15.7469091, Longitude: -41.4601975
+Município: AIMORES, MG, Latitude: -19.4917754, Longitude: -41.0615603
+Município: AIURUOCA, MG, Latitude: -21.9759554, Longitude: -44.6036637
+Município: ALEM PARAIBA, MG, Latitude: -21.8760576, Longitude: -42.6810473
+Município: ALFREDO VASCONCELOS, MG, Latitude: -21.145833, Longitude: -43.776389
+Município: ALPERCATA, MG, Latitude: -18.9803616, Longitude: -41.9827637
+Município: ANDRADAS, MG, Latitude: -22.0693412, Longitude: -46.5707584
+Município: ANTONIO DIAS, MG, Latitude: -19.6525, Longitude: -42.872778
+Município: ARAGUARI, MG, Latitude: -18.6511256, Longitude: -48.1933764
+Município: ARANTINA, MG, Latitude: -21.911667, Longitude: -44.255833
+Município: ARAPORA, MG, Latitude: -18.4318188, Longitude: -49.188313
+Município: ARAPUA, MG, Latitude: -19.034444, Longitude: -46.155556
+Município: ARAUJOS, MG, Latitude: -19.948055, Longitude: -45.165556
+Município: ARAXA, MG, Latitude: -19.5928536, Longitude: -46.940241
+Município: BOM JESUS DO AMPARO, MG, Latitude: -19.7045132, Longitude: -43.4752911
+Município: BOTELHOS, MG, Latitude: -21.65, Longitude: -46.394722
+Município: RIBEIRAO DAS NEVES, MG, Latitude: -19.7672898, Longitude: -44.0875436
+Município: CANAPOLIS, MG, Latitude: -18.7228793, Longitude: -49.2016329
+Município: CARAI, MG, Latitude: -17.1884104, Longitude: -41.6976554
+Município: CARANDAI, MG, Latitude: -20.9523934, Longitude: -43.8043903
+Município: CARATINGA, MG, Latitude: -19.7900887, Longitude: -42.140533
+Município: CAREACU, MG, Latitude: -22.0434124, Longitude: -45.6995247
+Município: CARMO DA CACHOEIRA, MG, Latitude: -21.460556, Longitude: -45.223334
+Município: CARMO DE MINAS, MG, Latitude: -22.1216655, Longitude: -45.1323836
+Município: CARMOPOLIS DE MINAS, MG, Latitude: -20.541224, Longitude: -44.6350611
+Município: CARVALHOS, MG, Latitude: -22.001667, Longitude: -44.461667
+Município: CASCALHO RICO, MG, Latitude: -18.579344, Longitude: -47.875774
+Município: CATAGUASES, MG, Latitude: -21.387426, Longitude: -42.6957219
+Município: CATUJI, MG, Latitude: -17.3023659, Longitude: -41.5166395
+Município: CAXAMBU, MG, Latitude: -21.9755872, Longitude: -44.9311403
+Município: CENTRALINA, MG, Latitude: -18.5843349, Longitude: -49.1954739
+Município: CHIADOR, MG, Latitude: -22.002778, Longitude: -43.057222
+Município: CLARO DOS POCOES, MG, Latitude: -17.0758235, Longitude: -44.2117357
+Município: CAPIM BRANCO, MG, Latitude: -16.3877865, Longitude: -46.8970553
+Município: CAMPOS ALTOS, MG, Latitude: -19.696389, Longitude: -46.171389
+Município: BRUMADINHO, MG, Latitude: -20.143611, Longitude: -44.2
+Município: CAMPO FLORIDO, MG, Latitude: -19.760833, Longitude: -48.572223
+Município: BUENOPOLIS, MG, Latitude: -17.8756607, Longitude: -44.1749365
+Município: BURITIZEIRO, MG, Latitude: -17.3667765, Longitude: -44.9647781
+Município: CABECEIRA GRANDE, MG, Latitude: -16.0297, Longitude: -47.0906
+Município: CABO VERDE, MG, Latitude: -21.4743338, Longitude: -46.3964995
+Município: CACHOEIRA DE MINAS, MG, Latitude: -22.3554043, Longitude: -45.7796324
+Município: CACHOEIRA DE PAJEU, MG, Latitude: -15.965833, Longitude: -41.496666
+Município: CAETANOPOLIS, MG, Latitude: -19.2947496, Longitude: -44.4138386
+Município: CAETE, MG, Latitude: -19.897777, Longitude: -43.670278
+Município: CALDAS, MG, Latitude: -21.923611, Longitude: -46.386111
+Município: CAMANDUCAIA, MG, Latitude: -22.755278, Longitude: -46.144444
+Município: CAMBUI, MG, Latitude: -22.6122501, Longitude: -46.0572137
+Município: CAMBUQUIRA, MG, Latitude: -21.8565598, Longitude: -45.254290825
+Município: CAMPANARIO, MG, Latitude: -18.2398144, Longitude: -41.7271768
+Município: CAMPANHA, MG, Latitude: -21.8361108, Longitude: -45.401986
+Município: CAMPESTRE, MG, Latitude: -19.6142116, Longitude: -43.219378
+Município: ABRE CAMPO, MG, Latitude: -20.295421, Longitude: -42.480131
+Município: ZE DOCA, MA, Latitude: -3.270145, Longitude: -45.655344
+Município: VITORINO FREIRE, MA, Latitude: -4.2885303, Longitude: -45.2417582
+Município: MATINHA, MA, Latitude: -3.102212, Longitude: -45.032208
+Município: MATOES DO NORTE, MA, Latitude: -3.6268881, Longitude: -44.5547543
+Município: MIRANDA DO NORTE, MA, Latitude: -3.5658706, Longitude: -44.5825329
+Município: MONCAO, MA, Latitude: -3.4842036, Longitude: -45.2515472
+Município: MONTES ALTOS, MA, Latitude: -5.8316731, Longitude: -47.0658003
+Município: MORROS, MA, Latitude: -2.8652201, Longitude: -44.0390477
+Município: NOVA OLINDA DO MARANHAO, MA, Latitude: -2.8043732, Longitude: -45.7013215
+Município: OLHO DAGUA DAS CUNHAS, MA, Latitude: None, Longitude: None
+Município: PARAIBANO, MA, Latitude: -6.4316929, Longitude: -43.9877038
+Município: PASTOS BONS, MA, Latitude: -6.6013999, Longitude: -44.0878124
+Município: PEDREIRAS, MA, Latitude: -4.5687989, Longitude: -44.6003029
+Município: PERITORO, MA, Latitude: -4.3723643, Longitude: -44.3317455
+Município: PINDARE MIRIM, MA, Latitude: -3.6124457, Longitude: -45.3404235
+Município: PINDARE-MIRIM, MA, Latitude: -3.6124457, Longitude: -45.3404235
+Município: PIO XII, MA, Latitude: -3.8911223, Longitude: -45.1710284
+Município: PORTO FRANCO, MA, Latitude: -6.34149, Longitude: -47.396188
+Município: MATOES, MA, Latitude: -5.5210672, Longitude: -43.2041534
+Município: MARANHAOZINHO, MA, Latitude: -2.2429316, Longitude: -45.8588977
+Município: VITORIA DO MEARIM, MA, Latitude: -3.4622876, Longitude: -44.869715
+Município: MARACACUME, MA, Latitude: -2.049177, Longitude: -45.958734
+Município: GOVERNADOR NUNES FREIRE, MA, Latitude: -2.1303959, Longitude: -45.8900498
+Município: GRACA ARANHA, MA, Latitude: -5.4063519, Longitude: -44.33271
+Município: GRAJAU, MA, Latitude: -5.8154034, Longitude: -46.1361454
+Município: HUMBERTO DE CAMPOS, MA, Latitude: -2.598282, Longitude: -43.464877
+Município: ICATU, MA, Latitude: -2.772065, Longitude: -44.050061
+Município: IGARAPE DO MEIO, MA, Latitude: -3.6397814, Longitude: -45.1872837
+Município: IMPERATRIZ, MA, Latitude: -5.5269279, Longitude: -47.478115
+Município: ITAPECURU MIRIM, MA, Latitude: -3.3973569, Longitude: -44.3560724
+Município: ITINGA DO MARANHAO, MA, Latitude: -4.452925, Longitude: -47.5253727
+Município: JATOBA, MA, Latitude: -5.8195391, Longitude: -44.223188
+Município: JENIPAPO DOS VIEIRAS, MA, Latitude: -5.3679814, Longitude: -45.6348267
+Município: JUNCO DO MARANHAO, MA, Latitude: -1.8799132, Longitude: -46.0726685
+Município: LAGO VERDE, MA, Latitude: -4.042525, Longitude: -44.9364782
+Município: LAJEADO NOVO, MA, Latitude: -6.1898777, Longitude: -47.0325965
+Município: LORETO, MA, Latitude: -7.08562, Longitude: -45.1397421
+Município: PRESIDENTE DUTRA, MA, Latitude: -5.289801, Longitude: -44.49498
+Município: PRESIDENTE JUSCELINO, MA, Latitude: -2.9262742, Longitude: -44.0653783
+Município: PRESIDENTE MEDICI, MA, Latitude: -2.3764612, Longitude: -45.8207313
+Município: PRESIDENTE VARGAS, MA, Latitude: -3.4065166, Longitude: -44.0270508
+Município: SAO JOAO DO SOTER, MA, Latitude: -5.1122323, Longitude: -43.8109269
+Município: SAO JOAO DOS PATOS, MA, Latitude: -6.4934, Longitude: -43.703623
+Município: SAO JOSE DE RIBAMAR, MA, Latitude: -2.5609115, Longitude: -44.0559509
+Município: SAO LUIS, MA, Latitude: -2.5295265, Longitude: -44.2963942
+Município: SAO LUIS GONZAGA DO MARANHAO, MA, Latitude: -4.3727458, Longitude: -44.6690368
+Município: SAO MATEUS DO MARANHAO, MA, Latitude: -4.0289169, Longitude: -44.4667342
+Município: SAO RAIMUNDO DAS MANGABEIRAS, MA, Latitude: -7.023608, Longitude: -45.4769436
+Município: SATUBINHA, MA, Latitude: -4.037456, Longitude: -45.238266
+Município: SENADOR ALEXANDRE COSTA, MA, Latitude: -5.2597445, Longitude: -44.0542395
+Município: SITIO NOVO, MA, Latitude: -5.881254, Longitude: -46.7017184
+Município: SUCUPIRA DO RIACHAO, MA, Latitude: -6.4136163, Longitude: -43.5453433
+Município: TIMON, MA, Latitude: -5.1023325, Longitude: -42.8449518
+Município: TUFILANDIA, MA, Latitude: -3.6734127, Longitude: -45.6357014
+Município: TUNTUM, MA, Latitude: -5.2630885, Longitude: -44.6448502
+Município: VARGEM GRANDE, MA, Latitude: -3.5443611, Longitude: -43.9149128
+Município: SAO FRANCISCO DO MARANHAO, MA, Latitude: -6.249397, Longitude: -42.8581192
+Município: SAO FRANCISCO DO BREJAO, MA, Latitude: -5.124869, Longitude: -47.3871865
+Município: SAO FELIX DE BALSAS, MA, Latitude: -7.0834586, Longitude: -44.8139329
+Município: SANTA INES, MA, Latitude: -3.6647821, Longitude: -45.3826869
+Município: PRIMEIRA CRUZ, MA, Latitude: -2.5076725, Longitude: -43.4385918
+Município: RIACHAO, MA, Latitude: -7.3642557, Longitude: -46.6226095
+Município: RIBAMAR FIQUENE, MA, Latitude: -5.930666, Longitude: -47.388777
+Município: ROSARIO, MA, Latitude: -2.9405903, Longitude: -44.2491088
+Município: SAMBAIBA, MA, Latitude: -7.134473, Longitude: -45.351506
+Município: SANTA HELENA, MA, Latitude: -2.234387, Longitude: -45.3002279
+Município: SANTA LUZIA, MA, Latitude: -3.9633675, Longitude: -45.6637956
+Município: SAO DOMINGOS DO MARANHAO, MA, Latitude: -5.5799743, Longitude: -44.3841617
+Município: SANTA LUZIA DO PARUA, MA, Latitude: -2.5440662, Longitude: -45.775757
+Município: SANTA QUITERIA DO MARANHAO, MA, Latitude: -3.4967557, Longitude: -42.563878
+Município: SANTA RITA, MA, Latitude: -3.1411146, Longitude: -44.3270285
+Município: SANTO AMARO DO MARANHAO, MA, Latitude: -2.4987599, Longitude: -43.253274
+Município: SANTO ANTONIO DOS LOPES, MA, Latitude: -4.866134, Longitude: -44.365278
+Município: SAO DOMINGOS DO AZEITAO, MA, Latitude: -6.810868, Longitude: -44.6445713
+Município: COMENDADOR GOMES, MG, Latitude: -19.695155, Longitude: -49.0843408
+Município: CONCEICAO DAS ALAGOAS, MG, Latitude: -19.9194009, Longitude: -48.3803414
+Município: CONCEICAO DO PARA, MG, Latitude: -19.752222, Longitude: -44.896944
+Município: MATIPO, MG, Latitude: -20.2896695, Longitude: -42.3426599
+Município: MEDINA, MG, Latitude: -16.2270466, Longitude: -41.4763373
+Município: MIRADOURO, MG, Latitude: -20.890277, Longitude: -42.3425
+Município: MOEMA, MG, Latitude: -19.8435409, Longitude: -45.4106241
+Município: MONSENHOR PAULO, MG, Latitude: -21.757778, Longitude: -45.541111
+Município: MONTE ALEGRE DE MINAS, MG, Latitude: -18.870278, Longitude: -48.880556
+Município: MONTE CARMELO, MG, Latitude: -18.7260939, Longitude: -47.4958859
+Município: MONTES CLAROS, MG, Latitude: -16.7273538, Longitude: -43.8717676
+Município: MORRO DA GARCA, MG, Latitude: -18.5435188, Longitude: -44.6030199
+Município: MURIAE, MG, Latitude: -21.130556, Longitude: -42.366389
+Município: MUZAMBINHO, MG, Latitude: -21.3684325, Longitude: -46.522317
+Município: NAQUE, MG, Latitude: -19.2271271, Longitude: -42.3280185
+Município: NEPOMUCENO, MG, Latitude: -21.232744, Longitude: -45.2352276
+Município: NOVA ERA, MG, Latitude: -20.7426124, Longitude: -42.8807584
+Município: NOVA LIMA, MG, Latitude: -19.9854089, Longitude: -43.8470691
+Município: NOVA PONTE, MG, Latitude: -19.1692213, Longitude: -47.6717642
+Município: MATOZINHOS, MG, Latitude: -19.5576547, Longitude: -44.0816035
+Município: MATIAS BARBOSA, MG, Latitude: -21.8691643, Longitude: -43.3180624
+Município: JURUAIA, MG, Latitude: -21.252778, Longitude: -46.577223
+Município: MATHIAS LOBATO, MG, Latitude: -18.5760459, Longitude: -41.9155448
+Município: LAGOA GRANDE, MG, Latitude: -17.836111, Longitude: -46.517223
+Município: LARANJAL, MG, Latitude: -21.365278, Longitude: -42.477778
+Município: LAVRAS, MG, Latitude: -21.2425512, Longitude: -44.9991978
+Município: LEOPOLDINA, MG, Latitude: -21.5314282, Longitude: -42.6403534
+Município: LIBERDADE, MG, Latitude: -22.0253009, Longitude: -44.3208231
+Município: LIMA DUARTE, MG, Latitude: -21.842777, Longitude: -43.792777
+Município: LUISLANDIA, MG, Latitude: -16.1150169, Longitude: -44.5849349
+Município: LUZ, MG, Latitude: -19.7871171, Longitude: -45.6846736
+Município: MACHADO, MG, Latitude: -21.6762861, Longitude: -45.9211696
+Município: MANHUACU, MG, Latitude: -20.2574434, Longitude: -42.0340769
+Município: MANHUMIRIM, MG, Latitude: -20.3599141, Longitude: -41.9554606
+Município: MARIO CAMPOS, MG, Latitude: -20.0511, Longitude: -44.1858
+Município: MARIPA DE MINAS, MG, Latitude: -21.6975, Longitude: -42.959167
+Município: MARTINS SOARES, MG, Latitude: -20.2583778, Longitude: -41.8761462
+Município: MATEUS LEME, MG, Latitude: -19.986666, Longitude: -44.428056
+Município: NOVA SERRANA, MG, Latitude: -19.875834, Longitude: -44.984166
+Município: NOVA UNIAO, MG, Latitude: -19.6901893, Longitude: -43.580107
+Município: OLARIA, MG, Latitude: -21.8607194, Longitude: -43.9370942
+Município: OLIVEIRA, MG, Latitude: -20.6971953, Longitude: -44.8273969
+Município: PIEDADE DE CARATINGA, MG, Latitude: -19.7601211, Longitude: -42.0767321
+Município: PIRANGUINHO, MG, Latitude: -22.4029372, Longitude: -45.5338952
+Município: PIRAPORA, MG, Latitude: -17.3493765, Longitude: -44.9507904
+Município: PLANURA, MG, Latitude: -20.1368583, Longitude: -48.7066819
+Município: POCOS DE CALDAS, MG, Latitude: -21.7900318, Longitude: -46.5647928
+Município: POCRANE, MG, Latitude: -19.6192747, Longitude: -41.6365314
+Município: POMPEU, MG, Latitude: -19.218611, Longitude: -45.002778
+Município: PONTO DOS VOLANTES, MG, Latitude: -16.7532049, Longitude: -41.5044548
+Município: POUSO ALEGRE, MG, Latitude: -22.2343858, Longitude: -45.9327241
+Município: POUSO ALTO, MG, Latitude: -22.193889, Longitude: -44.972778
+Município: PRATA, MG, Latitude: -19.307222, Longitude: -48.923889
+Município: PRESIDENTE OLEGARIO, MG, Latitude: -18.415, Longitude: -46.419723
+Município: RAUL SOARES, MG, Latitude: -20.102222, Longitude: -42.451944
+Município: REDUTO, MG, Latitude: -20.2442531, Longitude: -41.9839974
+Município: RESSAQUINHA, MG, Latitude: -21.063056, Longitude: -43.762778
+Município: PERIQUITO, MG, Latitude: -19.1559319, Longitude: -42.2412259
+Município: PERDOES, MG, Latitude: -21.0919737, Longitude: -45.0903543
+Município: PERDIZES, MG, Latitude: -19.3503361, Longitude: -47.2938235
+Município: PARACATU, MG, Latitude: -17.2174056, Longitude: -46.8707514
+Município: OLIVEIRA FORTES, MG, Latitude: -21.3391156, Longitude: -43.4577139
+Município: ORIZANIA, MG, Latitude: -20.5057698, Longitude: -42.2087072
+Município: OURO PRETO, MG, Latitude: -20.385527, Longitude: -43.5035214
+Município: PADRE CARVALHO, MG, Latitude: -16.3647, Longitude: -42.515
+Município: PADRE PARAISO, MG, Latitude: -17.0750322, Longitude: -41.4850334
+Município: PARA DE MINAS, MG, Latitude: -19.8599637, Longitude: -44.6075313
+Município: PARAOPEBA, MG, Latitude: -19.2756823, Longitude: -44.4034123
+Município: PEDRO LEOPOLDO, MG, Latitude: -19.617778, Longitude: -44.043055
+Município: PASSA QUATRO, MG, Latitude: -22.3893803, Longitude: -44.9666039
+Município: PATOS DE MINAS, MG, Latitude: -18.6041453, Longitude: -46.5096698
+Município: PATROCINIO, MG, Latitude: -18.9408294, Longitude: -46.9926624
+Município: PATROCINIO DO MURIAE, MG, Latitude: -21.153333, Longitude: -42.214444
+Município: PEDRA AZUL, MG, Latitude: -16.005556, Longitude: -41.28
+Município: PEDRINOPOLIS, MG, Latitude: -19.2275, Longitude: -47.461944
+Município: LAGOA FORMOSA, MG, Latitude: -18.7741896, Longitude: -46.4082511
+Município: JUIZ DE FORA, MG, Latitude: -21.7609533, Longitude: -43.3501129
+Município: CONCEICAO DO RIO VERDE, MG, Latitude: -21.881078, Longitude: -45.0868526
+Município: DIVINOPOLIS, MG, Latitude: -20.1597921, Longitude: -44.8739341
+Município: DOM CAVATI, MG, Latitude: -19.3744152, Longitude: -42.1067301
+Município: ENGENHEIRO CALDAS, MG, Latitude: -19.201389, Longitude: -42.046944
+Município: ENGENHEIRO NAVARRO, MG, Latitude: -17.286622, Longitude: -43.9515719
+Município: ESMERALDAS, MG, Latitude: -19.7613111, Longitude: -44.3145945
+Município: ESTIVA, MG, Latitude: -22.4638686, Longitude: -46.0182101
+Município: ESTRELA DO SUL, MG, Latitude: -18.7420499, Longitude: -47.6900736
+Município: EUGENOPOLIS, MG, Latitude: -21.0968165, Longitude: -42.1850985
+Município: EWBANK DA CAMARA, MG, Latitude: -21.551389, Longitude: -43.509722
+Município: EXTREMA, MG, Latitude: -22.8549109, Longitude: -46.3190079
+Município: FELIXLANDIA, MG, Latitude: -18.7573983, Longitude: -44.8991465
+Município: FERVEDOURO, MG, Latitude: -20.7292242, Longitude: -42.2785942
+Município: FLORESTAL, MG, Latitude: -19.8878705, Longitude: -44.4314766
+Município: FRANCISCO SA, MG, Latitude: -16.4777211, Longitude: -43.4942587
+Município: FREI INOCENCIO, MG, Latitude: -18.563076, Longitude: -41.9064881
+Município: FRONTEIRA, MG, Latitude: -20.286111, Longitude: -49.202778
+Município: DIVISA ALEGRE, MG, Latitude: -15.7207751, Longitude: -41.3442809
+Município: DIVINO, MG, Latitude: -20.6151497, Longitude: -42.1474733
+Município: JUATUBA, MG, Latitude: -19.954001, Longitude: -44.3407921
+Município: DELTA, MG, Latitude: -19.9769, Longitude: -47.7711
+Município: CONGONHAL, MG, Latitude: -22.1532505, Longitude: -46.0404698
+Município: CONGONHAS, MG, Latitude: -20.5015168, Longitude: -43.8564586
+Município: CONSELHEIRO LAFAIETE, MG, Latitude: -20.6596107, Longitude: -43.785743
+Município: CONTAGEM, MG, Latitude: -19.9132749, Longitude: -44.0840953
+Município: CORACAO DE JESUS, MG, Latitude: -16.6888187, Longitude: -44.3577401
+Município: CORINTO, MG, Latitude: -18.363056, Longitude: -44.456111
+Município: COROMANDEL, MG, Latitude: -18.473889, Longitude: -47.200278
+Município: CORONEL FABRICIANO, MG, Latitude: -19.5200067, Longitude: -42.6282686
+Município: CORREGO DANTA, MG, Latitude: -19.823889, Longitude: -45.904167
+Município: CRISOLITA, MG, Latitude: -17.2391664, Longitude: -40.9132444
+Município: CRISTIANO OTONI, MG, Latitude: -20.8324096, Longitude: -43.8053057
+Município: CRUZILIA, MG, Latitude: -21.838333, Longitude: -44.808056
+Município: CURRAL DE DENTRO, MG, Latitude: -15.9332656, Longitude: -41.8568896
+Município: CURVELO, MG, Latitude: -18.7571926, Longitude: -44.4305993
+Município: DELFIM MOREIRA, MG, Latitude: -22.5086783, Longitude: -45.2792398
+Município: FRUTA DE LEITE, MG, Latitude: -16.1169, Longitude: -42.5278
+Município: FRUTAL, MG, Latitude: -20.0220064, Longitude: -48.9280076
+Município: GOVERNADOR VALADARES, MG, Latitude: -18.8539497, Longitude: -41.9458753
+Município: GRAO MOGOL, MG, Latitude: -16.5634214, Longitude: -42.8929185
+Município: ITAJUBA, MG, Latitude: -22.4238234, Longitude: -45.4524156
+Município: ITAMBACURI, MG, Latitude: -18.0391974, Longitude: -41.6751876
+Município: ITAMONTE, MG, Latitude: -22.2830726, Longitude: -44.8695785
+Município: ITANHANDU, MG, Latitude: -22.2957913, Longitude: -44.9366732
+Município: ITAOBIM, MG, Latitude: -16.5614934, Longitude: -41.502275
+Município: ITAPEVA, MG, Latitude: -22.7071665, Longitude: -46.23015850595238
+Município: ITATIAIUCU, MG, Latitude: -20.1975724, Longitude: -44.4224889
+Município: ITAUNA, MG, Latitude: -20.075556, Longitude: -44.576389
+Município: ITUIUTABA, MG, Latitude: -18.9691887, Longitude: -49.4639335
+Município: JAGUARACU, MG, Latitude: -19.6471951, Longitude: -42.7513291
+Município: JAMPRUCA, MG, Latitude: -18.4613981, Longitude: -41.8092299
+Município: JEQUITAI, MG, Latitude: -17.2328217, Longitude: -44.4383463
+Município: JOAO MONLEVADE, MG, Latitude: -19.809444, Longitude: -43.173334
+Município: JOAO PINHEIRO, MG, Latitude: -17.742777, Longitude: -46.175278
+Município: JOAQUIM FELICIO, MG, Latitude: -17.7602437, Longitude: -44.1701635
+Município: ITAGUARA, MG, Latitude: -20.391389, Longitude: -44.488055
+Município: ITABIRITO, MG, Latitude: -20.2519724, Longitude: -43.8029171
+Município: ITABIRA, MG, Latitude: -19.6190169, Longitude: -43.226248
+Município: IGARAPE, MG, Latitude: -20.068789, Longitude: -44.3017439
+Município: GUARARA, MG, Latitude: -21.731945, Longitude: -43.037777
+Município: GUAXUPE, MG, Latitude: -21.3087615, Longitude: -46.7190609
+Município: GUIMARANIA, MG, Latitude: -18.8442251, Longitude: -46.7925141
+Município: GURINHATA, MG, Latitude: -19.2114486, Longitude: -49.7840077
+Município: IBIA, MG, Latitude: -19.4771843, Longitude: -46.5386956
+Município: IBIAI, MG, Latitude: -16.861111, Longitude: -44.913889
+Município: IGARATINGA, MG, Latitude: -19.955278, Longitude: -44.7089254
+Município: IPUIUNA, MG, Latitude: -22.0993203, Longitude: -46.1896557
+Município: ILICINEA, MG, Latitude: -20.9390196, Longitude: -45.8263558
+Município: IMBE DE MINAS, MG, Latitude: -19.5989453, Longitude: -41.9694294
+Município: INDIANOPOLIS, MG, Latitude: -19.0391972, Longitude: -47.9178436
+Município: INHAPIM, MG, Latitude: -19.5501834, Longitude: -42.1209879
+Município: IPANEMA, MG, Latitude: -19.7999954, Longitude: -41.7138807
+Município: IPATINGA, MG, Latitude: -19.4777807, Longitude: -42.5270802
+Município: XAMBIOA, TO, Latitude: -6.4084693, Longitude: -48.5336069
