@@ -1,5 +1,7 @@
 import os
 import pandas as pd
+from sklearn.preprocessing import MinMaxScaler
+
 
 # Criação de dataframe principal
 dfs = []
@@ -71,4 +73,28 @@ for linha in linhas:
 # Adicionar as coordenadas ao DataFrame existente
 df_grouped['Latitude'] = df_grouped['mun/uf'].map(lambda x: coordenadas.get(x, {}).get('Latitude'))
 df_grouped['Longitude'] = df_grouped['mun/uf'].map(lambda x: coordenadas.get(x, {}).get('Longitude'))
+
+df_grouped = df_grouped.drop('mun/uf', axis=1)
+
+print(df_grouped.head(10))
+
+
+## Normalização
+
+# Normalizar mês
+scaler = MinMaxScaler()
+
+df_grouped['mes_normalizado'] = scaler.fit_transform(df_grouped[['mes']])
+df_grouped = df_grouped.drop('mes', axis=1)
+
+# Normalizar br 
+df_grouped['br'] = pd.to_numeric(df_grouped['br'], errors='coerce')
+
+# Instanciar o MinMaxScaler
+scaler = MinMaxScaler()
+
+# Normalizar a coluna 'br'
+df_grouped['br_normalizado'] = scaler.fit_transform(df_grouped[['br']])
+df_grouped = df_grouped.drop('br', axis=1)
+
 print(df_grouped.head(10))
