@@ -125,6 +125,6 @@ df_grouped['condicao_metereologica'] = df_grouped['condicao_metereologica'].repl
 df_grouped['condicao_metereologica'] = df_grouped['condicao_metereologica'].replace(['Ignorado', '(null)'], 'Ignorada')
 
 # Ajustar dados da coluna 'tipo_pista'
-df_grouped['tipo_pista'] = df_grouped['condicao_metereologica'].replace(['(null)'], 'Não Informado')
+df_grouped['tipo_pista'] = df_grouped['tipo_pista'].replace(['(null)'], 'Não Informado')
 
 print(df_grouped.head(10))
