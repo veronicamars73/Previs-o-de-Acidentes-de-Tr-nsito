@@ -74,7 +74,9 @@ for linha in linhas:
 df_grouped['Latitude'] = df_grouped['mun/uf'].map(lambda x: coordenadas.get(x, {}).get('Latitude'))
 df_grouped['Longitude'] = df_grouped['mun/uf'].map(lambda x: coordenadas.get(x, {}).get('Longitude'))
 
+df_grouped = df_grouped.drop('uf', axis=1)
 df_grouped = df_grouped.drop('mun/uf', axis=1)
+df_grouped = df_grouped.drop('municipio', axis=1)
 
 print(df_grouped.head(10))
 
@@ -96,5 +98,25 @@ scaler = MinMaxScaler()
 # Normalizar a coluna 'br'
 df_grouped['br_normalizado'] = scaler.fit_transform(df_grouped[['br']])
 df_grouped = df_grouped.drop('br', axis=1)
+
+# Normalizar km
+
+# Limpar a coluna 'km' substituindo as vírgulas por pontos
+df_grouped['km'] = df_grouped['km'].astype(str)
+df_grouped['km'] = df_grouped['km'].str.replace(',', '.')
+
+# Substituir valores não numéricos ou nulos por NaN
+df_grouped['km'] = pd.to_numeric(df_grouped['km'], errors='coerce')
+
+# Converter a coluna 'km' para o tipo float
+df_grouped['km'] = df_grouped['km'].astype(float)
+
+# Instanciar o MinMaxScaler
+scaler = MinMaxScaler()
+
+# Normalizar a coluna 'km'
+df_grouped['km_normalizado'] = scaler.fit_transform(df_grouped[['km']])
+
+df_grouped = df_grouped.drop('km', axis=1)
 
 print(df_grouped.head(10))
