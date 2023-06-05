@@ -218,3 +218,4 @@ df_grouped['tipo_pista_encoded'] = (df_grouped['tipo_pista_encoded'] -
 df_grouped = df_grouped.drop('tipo_pista', axis=1)
 
 print(df_grouped.head(10))
+df_grouped.to_csv('data_files/main_data.csv', index=False)
