@@ -119,4 +119,12 @@ df_grouped['km_normalizado'] = scaler.fit_transform(df_grouped[['km']])
 
 df_grouped = df_grouped.drop('km', axis=1)
 
+# Ajustar dados da coluna 'condicao_metereologica'
+df_grouped['condicao_metereologica'] = df_grouped['condicao_metereologica'].replace(['Ceu Claro'], 'Céu Claro')
+df_grouped['condicao_metereologica'] = df_grouped['condicao_metereologica'].replace(['Nevoeiro/Neblina'], 'Nevoeiro/neblina')
+df_grouped['condicao_metereologica'] = df_grouped['condicao_metereologica'].replace(['Ignorado', '(null)'], 'Ignorada')
+
+# Ajustar dados da coluna 'tipo_pista'
+df_grouped['tipo_pista'] = df_grouped['tipo_pista'].replace(['(null)'], 'Não Informado')
+
 print(df_grouped.head(10))
