@@ -1,6 +1,7 @@
 import os
 import pandas as pd
 from sklearn.preprocessing import MinMaxScaler
+from sklearn.preprocessing import LabelEncoder
 import numpy as np
 
 
@@ -178,5 +179,42 @@ df_grouped['condicao_metereologica'] = df_grouped['condicao_metereologica'].repl
 
 # Ajustar dados da coluna 'tipo_pista'
 df_grouped['tipo_pista'] = df_grouped['tipo_pista'].replace(['(null)'], 'Não Informado')
+
+print(df_grouped.head(10))
+
+
+## Normalizando dados categóricos
+
+# Normalizando sentido_via
+# Inicializar o codificador de rótulos
+label_encoder = LabelEncoder()
+
+# Aplicar codificação de rótulos na coluna
+df_grouped['sentido_via_encoded'] = label_encoder.fit_transform(df_grouped['sentido_via'])
+df_grouped = df_grouped.drop('sentido_via', axis=1)
+
+# Normalizar condicao_metereologica
+# Inicializar o codificador de rótulos
+label_encoder = LabelEncoder()
+
+# Aplicar codificação de rótulos na coluna
+df_grouped['condicao_metereologica_encoded'] = label_encoder.fit_transform(df_grouped['condicao_metereologica'])
+# Normalização Min-Max
+df_grouped['condicao_metereologica_encoded'] = (df_grouped['condicao_metereologica_encoded'] - 
+                                                   df_grouped['condicao_metereologica_encoded'].min()) / (df_grouped['condicao_metereologica_encoded'].max() 
+                                                                                                          - df_grouped['condicao_metereologica_encoded'].min())
+df_grouped = df_grouped.drop('condicao_metereologica', axis=1)
+
+# Normalizar tipo_pista
+# Inicializar o codificador de rótulos
+label_encoder = LabelEncoder()
+
+# Aplicar codificação de rótulos na coluna
+df_grouped['tipo_pista_encoded'] = label_encoder.fit_transform(df_grouped['tipo_pista'])
+# Normalização Min-Max
+df_grouped['tipo_pista_encoded'] = (df_grouped['tipo_pista_encoded'] -
+                                    df_grouped['tipo_pista_encoded'].min()) / (df_grouped['tipo_pista_encoded'].max()
+                                                                               - df_grouped['tipo_pista_encoded'].min())
+df_grouped = df_grouped.drop('tipo_pista', axis=1)
 
 print(df_grouped.head(10))
