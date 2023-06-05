@@ -1,6 +1,7 @@
 import os
 import pandas as pd
 from sklearn.preprocessing import MinMaxScaler
+import numpy as np
 
 
 # Criação de dataframe principal
@@ -89,6 +90,24 @@ scaler = MinMaxScaler()
 df_grouped['mes_normalizado'] = scaler.fit_transform(df_grouped[['mes']])
 df_grouped = df_grouped.drop('mes', axis=1)
 
+# Normalizar dia
+scaler = MinMaxScaler()
+
+df_grouped['dia_normalizado'] = scaler.fit_transform(df_grouped[['dia']])
+df_grouped = df_grouped.drop('dia', axis=1)
+
+# Normalizar dia_semana
+scaler = MinMaxScaler()
+
+df_grouped['dia_semana_normalizado'] = scaler.fit_transform(df_grouped[['dia_semana']])
+df_grouped = df_grouped.drop('dia_semana', axis=1)
+
+# Normalizar hora
+scaler = MinMaxScaler()
+
+df_grouped['hora_normalizado'] = scaler.fit_transform(df_grouped[['hora']])
+df_grouped = df_grouped.drop('hora', axis=1)
+
 # Normalizar br 
 df_grouped['br'] = pd.to_numeric(df_grouped['br'], errors='coerce')
 
@@ -118,6 +137,39 @@ scaler = MinMaxScaler()
 df_grouped['km_normalizado'] = scaler.fit_transform(df_grouped[['km']])
 
 df_grouped = df_grouped.drop('km', axis=1)
+
+# Tratando Longitude e latitude
+
+df_grouped = df_grouped.replace('None', np.nan)
+# Selecionar as colunas de latitude e longitude
+lat_long_cols = ['Latitude', 'Longitude']
+
+# Obter o número de linhas antes da remoção
+num_rows_before = df_grouped.shape[0]
+
+# Remover as linhas com valores nulos nas colunas de latitude e longitude
+df_grouped.dropna(subset=lat_long_cols, inplace=True)
+
+# Obter o número de linhas após a remoção
+num_rows_after = df_grouped.shape[0]
+
+# Calcular o número de linhas afetadas
+num_rows_affected = num_rows_before - num_rows_after
+
+print("Número de linhas afetadas pela remoção:", num_rows_affected)
+
+# Normalizar Latitude
+scaler = MinMaxScaler()
+
+df_grouped['latitude_normalizado'] = scaler.fit_transform(df_grouped[['Latitude']])
+df_grouped = df_grouped.drop('Latitude', axis=1)
+
+# Normalizar Longitude
+scaler = MinMaxScaler()
+
+df_grouped['longitude_normalizado'] = scaler.fit_transform(df_grouped[['Longitude']])
+df_grouped = df_grouped.drop('Longitude', axis=1)
+
 
 # Ajustar dados da coluna 'condicao_metereologica'
 df_grouped['condicao_metereologica'] = df_grouped['condicao_metereologica'].replace(['Ceu Claro'], 'Céu Claro')
