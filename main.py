@@ -9,7 +9,7 @@ import numpy as np
 dfs = []
 for filename in os.listdir('data_files'):
     if os.path.isfile('data_files/'+filename) and 'datatran' in filename:
-        df_aux = pd.read_csv('data_files/'+filename, encoding='latin-1', sep=';')
+        df_aux = pd.read_csv('data_files/'+filename, encoding='latin-1', sep=';', low_memory=False)
         dfs.append(df_aux)
 df_principal = pd.concat(dfs)
 
