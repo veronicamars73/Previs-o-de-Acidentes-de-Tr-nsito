@@ -3,7 +3,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error
 
-df_grouped = pd.read_csv('data_files/main_data.csv')
+df_grouped = pd.read_csv('data_files/balanced_sample.csv')
 
 # Separar recursos (X) e alvo (y)
 X = df_grouped.drop("counts", axis=1)

@@ -5,7 +5,7 @@ from sklearn.metrics import mean_squared_error
 from sklearn.ensemble import RandomForestRegressor
 
 # Carregar os dados
-data = pd.read_csv('data_files/main_data.csv')
+data = pd.read_csv('data_files/balanced_sample.csv')
 
 # Selecionar os atributos desejados
 selected_columns = ['mes_normalizado', 'dia_normalizado', 'dia_semana_normalizado', 'hora_normalizado',
