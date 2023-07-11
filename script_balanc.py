@@ -29,7 +29,9 @@ for _ in range(numero_novas_linhas):
 
 # Adicione as novas linhas ao DataFrame original
 df_novo = df.append(novas_linhas, ignore_index=True)
+df_ordenado = df_novo.sort_values(by='data_inversa', key=lambda x: pd.to_datetime(x, format='%Y-%m-%d'))
+df_ordenado = df_ordenado.drop('data_inversa', axis=1)
 
 # Exiba o DataFrame resultante
-print(df_novo)
-df_novo.to_csv('data_files/balanced_sample.csv', index=False)
+print(df_ordenado)
+df_ordenado.to_csv('data_files/balanced_sample.csv', index=False)

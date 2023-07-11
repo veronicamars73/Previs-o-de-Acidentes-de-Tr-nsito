@@ -19,7 +19,6 @@ df_principal["data_inversa"] = pd.to_datetime(df_principal["data_inversa"], dayf
 df_principal['mes'] = df_principal['data_inversa'].dt.month
 df_principal['dia'] = df_principal['data_inversa'].dt.day
 df_principal['dia_semana'] = df_principal['data_inversa'].dt.dayofweek
-df_principal = df_principal.drop('data_inversa', axis=1)
 
 # Tratamento de horário
 df_principal['horario'] = pd.to_datetime(df_principal['horario'], format='%H:%M:%S')
@@ -32,6 +31,8 @@ df_principal = df_principal.drop('horario', axis=1)
 
 # Agrupar dataframe
 colunas_uteis = [
+    'data_inversa',
+    'ano',
     'mes',
     'dia',
     'hora',
@@ -84,6 +85,12 @@ print(df_grouped.head(10))
 
 
 ## Normalização
+
+# Normalizar ano
+scaler = MinMaxScaler()
+
+df_grouped['ano_normalizado'] = scaler.fit_transform(df_grouped[['ano']])
+df_grouped = df_grouped.drop('ano', axis=1)
 
 # Normalizar mês
 scaler = MinMaxScaler()
