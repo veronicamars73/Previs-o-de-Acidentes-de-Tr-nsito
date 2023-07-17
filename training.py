@@ -1,8 +1,9 @@
 import pandas as pd
 #from sklearn.model_selection import train_test_split
-import statsmodels.api as sm
 from sklearn.linear_model import LinearRegression
-from sklearn.metrics import mean_squared_error, r2_score
+from sklearn.metrics import mean_squared_error, r2_score, explained_variance_score, max_error, mean_absolute_percentage_error, d2_absolute_error_score, d2_pinball_score, d2_tweedie_score
+
+
 
 df_grouped = pd.read_csv('data_files/balanced_sample.csv')
 
@@ -45,41 +46,21 @@ y_pred = model.predict(X_test)
 # Métricas de avaliação
 mse = mean_squared_error(y_test, y_pred)
 r2 = r2_score(y_test, y_pred)
+evs = explained_variance_score(y_test, y_pred)
+max_erro = max_error(y_test, y_pred)
+mape = mean_absolute_percentage_error(y_test, y_pred)
+d2_aes = d2_absolute_error_score(y_test, y_pred)
+d2_ps = d2_pinball_score(y_test, y_pred)
+d2_ts = d2_tweedie_score(y_test, y_pred)
 
 # Impressão das estatísticas
 print("Coeficiente de regressão:", model.coef_)
 print("Intercepto:", model.intercept_)
 print("Erro quadrático médio (MSE):", mse)
 print("Coeficiente de determinação (R²):", r2)
-
-# Adicionar a constante aos dados de treinamento
-X_train = sm.add_constant(X_train)
-
-# Criação e treinamento do modelo com statsmodels
-model_stats = sm.OLS(y_train, X_train)
-results = model_stats.fit()
-
-# Obter X de teste e adicionar a constante
-X_test = sm.add_constant(X_test)
-
-# Fazer previsões usando o modelo treinado com statsmodels
-y_pred_stats = results.predict(X_test)
-
-# Métricas de avaliação com statsmodels
-mse_stats = mean_squared_error(y_test, y_pred_stats)
-r2_stats = results.rsquared
-
-# Impressão das estatísticas com statsmodels
-print("\nEstatísticas com statsmodels:")
-print("Coeficientes:")
-print(results.params)
-print("Erro padrão dos coeficientes:")
-print(results.bse)
-print("Valores-p dos coeficientes:")
-print(results.pvalues)
-print("Intervalo de confiança dos coeficientes:")
-print(results.conf_int())
-print("Erro quadrático médio (MSE):", mse_stats)
-print("Coeficiente de determinação (R²):", r2_stats)
-print("Resumo do modelo:")
-print(results.summary())
+print("Variância Explicável:", evs)
+print("Erro Máximo:", max_erro)
+print("Mean Absolute Percentage Error:", mape)
+print("D2 Absolute Error Score:", d2_aes)
+print("D2 Pinball Score:", d2_ps)
+print("D2 Tweedie Score:", d2_ts)
